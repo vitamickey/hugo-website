@@ -1,9 +1,9 @@
 ---
-title: "Hugo"
-date: 2022-05-23T15:04:53+10:00
+title: "To write"
+date: 2022-05-23T16:44:01+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["website", "hugo", "technology", "coding"]
+tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -34,13 +34,18 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-I already have broken my website. 
-
-I started with `hugo new post/so-it-began.md` to create my first post, and then tried to change the folder "post" to "posts", added a second file with `hugo new posts/digital-garden.md`, and now it's not showing up on my website. lol.
-
-Thanks to this video for the setup guide tho
-https://www.youtube.com/watch?v=LIFvgrRxdt4
-
-I am a bit unnerved by the fact that he doesn't merge to the main branch via a pull request and instead commits straight to the main branch. I am 99% sure that is bad git practice. 
-
-To build my site, need to use `hugo -t PaperMod` (or instead of `PaperMod`, the current website theme).s
+[] Fonts, typography, favourite fonts
+[] Mathematics, subjects I'm taking, transfer statistics stuff onto digital garden maybe??
+[] High school, reflections, why it sucked
+[] Music, instruments
+[] Crochet, yarn and hook stuff
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 

@@ -41,5 +41,5 @@ When I created this website, I didn't realise I should have created the `hugo ne
 https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
 
 My .gitignore file came from here
-
 https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
+I am only semi-confident in my .gitignore file for the website, but like, it's fine. 
