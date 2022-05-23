@@ -40,17 +40,6 @@ tocopen = false
 
 
 
-[params.homeInfoParams]
-Title = "Michaela's digital garden"
-Content = "A place to grow (in Christ)"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/vitamickey"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://www.instagram.com/michaelacheong/"
 
 
 
@@ -84,20 +73,16 @@ url = "https://www.instagram.com/michaelacheong/"
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
-
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  Title = "Michaela's digital garden"
+  Content = "A place to grow (in Christ)"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/vitamickey"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/michaelacheong/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
