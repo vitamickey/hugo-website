@@ -43,3 +43,5 @@ https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-di
 My .gitignore file came from here
 
 https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
+
+After some finicking, I now have my Hugo site version control being managed in Git. I think. 
