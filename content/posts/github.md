@@ -37,9 +37,10 @@ editPost:
 I am an absolute Github noob, but like, I'm trying my best. 
 
 When I created this website, I didn't realise I should have created the `hugo new site` in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. 
-
 https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus
-
+  
+After some finicking, I now have my Hugo site version control being managed in Git. I think.
+  
 My .gitignore file came from here
 https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
 I am only semi-confident in my .gitignore file for the website, but like, it's fine. 
