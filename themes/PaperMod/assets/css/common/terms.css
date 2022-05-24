@@ -1,3 +1,7 @@
+.terms-tags {
+    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+}
+
 .terms-tags li {
     display: inline-block;
     margin: 10px;

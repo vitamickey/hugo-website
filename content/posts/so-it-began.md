@@ -1,7 +1,7 @@
 ---
-title: "A website seemed like a good idea"
+title: "So, it began"
 date: 2022-05-23T15:04:25+10:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
@@ -10,16 +10,16 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+comments: true
+# description: "Desc Text."
+# canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
 cover:
@@ -28,15 +28,14 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+# editPost:
+#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true # to append file path to Edit link
+lastmod: 2022-05-24T10:16:25+10:00
 ---
 
-... so, here is my website. 
-
-I was trying to figure out how to make this website and what exactly it would hold and communicate to the rest of the billions of people with an internet connection. A blog seemed limiting, and I got caught up in a lot of websites recommending I choose a niche and stick to it. 
+I was trying to figure out how to make this website and what exactly it would hold and communicate to the rest of the billions of people with an internet connection. Not that I expect an audience, but once things are out in the world, they stay there. A blog seemed limiting, and I got caught up in a lot of websites recommending I choose a niche and stick to it. 
 
 I did already know how I would want to run this website, thanks to my friend Tom who suggested I run my site with Hugo off of Github. 
 
