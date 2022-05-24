@@ -29,8 +29,10 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "Untitled"
+title: "Existential dread"
 date: 2022-05-24T12:07:21+10:00
-tags: ["untagged"]
+tags: ["life", "philosophy", "mental-health"]
 lastmod: 2022-05-24T12:07:21+10:00
 ---
+
+Sometimes, I get this horrible feeling in my stomach. It's happens in a moment where I sort of realise that I am an actual human on the earth. It's a strange sensation. I feel this pit in my stomach, and the world seems a bit too real for a couple of seconds. 
