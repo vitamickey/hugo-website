@@ -29,8 +29,12 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "Untitled"
+title: "Moving out"
 date: 2022-05-24T12:07:51+10:00
-tags: ["untagged"]
+tags: ["life"]
 lastmod: 2022-05-24T12:07:51+10:00
 ---
+
+I am moving out soon. Here are some helpful resources:
+
+[to add]
