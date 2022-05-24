@@ -1,6 +1,9 @@
 ---
+title: "Now"
+date: 2022-05-23T18:28:20+10:00
 # weight: 1
 # aliases: ["/first"]
+tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -29,8 +32,9 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "Untitled"
-date: {{ .Date }}
-tags: ["untagged"]
-lastmod: {{ .Date }}
+lastmod: 2022-05-23T18:28:20+10:00
 ---
+
+This is a bucket of all of the things currently simmering away in my brain. 
+
+- Moving out

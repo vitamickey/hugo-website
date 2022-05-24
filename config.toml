@@ -1,6 +1,6 @@
 baseURL = 'http://michaelacheong.com/'
 languageCode = 'en-au'
-title = 'My New Hugo Site'
+title = 'Michaela Cheong'
 theme = 'PaperMod'
 
 paginate = 5
@@ -17,30 +17,30 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+title = "Michaela Cheong"
+description = "A lil' digital garden."
+keywords = [ "Digital Garden", "Blog", "Portfolio", "PaperMod" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "January 2, 2006"
+DateFormat = "2006-01-02"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
+ShowWordCount = true
 disableSpecial1stPost = false
 disableScrollToTop = false
-comments = false
+comments = true
 hidemeta = false
 hideSummary = false
+hideAuthor = true
 showtoc = false
 tocopen = false
-
-
-
-
+fontbody = "Avara_Bold"
+fontcode = "Space Mono"
 
 
   [params.assets]
@@ -57,16 +57,16 @@ tocopen = false
 
   [params.profileMode]
   enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
+  title = "Michaela Cheong"
+  subtitle = "I follow Jesus."
   imageUrl = "<img location>"
   imageWidth = 120
   imageHeight = 120
   imageTitle = "my image"
 
     [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+    name = "Archive"
+    url = "archive"
 
     [[params.profileMode.buttons]]
     name = "Tags"
@@ -99,33 +99,45 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
+  URL = "https://github.com/vitamickey/digital-garden/tree/main/content"
+  Text = "Suggest changes"
   appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
   location = 0
-  distance = 1_000
+  distance = 1000
   threshold = 0.4
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
+
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "nowmenu"
+name = "now"
+url = "/posts/now/"
 weight = 10
+
+[[menu.main]]
+identifier = "archive"
+name = "archive"
+url = "/archives/"
+weight = 20
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
 url = "/tags/"
-weight = 20
+weight = 30
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
+identifier = "search"
+name = "search"
+url = "/search/"
+weight = 40
+
+
+
+[outputs]
+home = ["HTML","RSS","JSON"]

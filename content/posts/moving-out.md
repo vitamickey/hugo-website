@@ -30,7 +30,7 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 title: "Untitled"
-date: {{ .Date }}
+date: 2022-05-24T12:07:51+10:00
 tags: ["untagged"]
-lastmod: {{ .Date }}
+lastmod: 2022-05-24T12:07:51+10:00
 ---

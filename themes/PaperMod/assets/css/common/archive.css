@@ -30,15 +30,18 @@
     position: relative;
     padding: 5px;
     margin: 10px 0;
+    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .archive-entry-title {
     margin: 5px 0;
     font-weight: 400;
+    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .archive-count,
 .archive-meta {
     color: var(--secondary);
     font-size: 14px;
+    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }

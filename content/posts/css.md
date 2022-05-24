@@ -1,4 +1,5 @@
 ---
+date: 2022-05-23T21:54:05+10:00
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
@@ -29,8 +30,14 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "Untitled"
-date: {{ .Date }}
-tags: ["untagged"]
-lastmod: {{ .Date }}
+title: "CSS"
+tags: ["css", "website", "technology"]
+lastmod: 2022-05-23T21:54:05+10:00
 ---
+
+
+I only slightly want to claw my eyes out. May I please just have pretty fonts?
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
+https://discourse.gohugo.io/t/how-to-load-assets-from-the-static-folder-in-a-css-file/21005
+Need to fix theme-vars.css with my actual desired fonts lol

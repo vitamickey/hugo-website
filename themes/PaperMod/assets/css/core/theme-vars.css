@@ -5,32 +5,80 @@
     --main-width: 720px;
     --header-height: 60px;
     --footer-height: 60px;
-    --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --content: rgb(31, 31, 31);
-    --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --radius: 5px;
+    --theme: rgb(241, 241, 230);
+    --entry: rgb(214, 224, 193);
+    --primary: rgb(42, 50, 18);
+    --secondary: rgb(47, 50, 36);
+    --tertiary: rgb(184, 196, 144);
+    --content: rgb(43, 37, 34);
+    --hljs-bg: rgb(41, 36, 39);
+    --code-bg: rgb(214, 224, 193);
+    --border: rgb(220, 226, 205);    
 }
 
+@font-face {
+    font-family: 'Avara_Bold';
+    src:    url('{{ - site.BaseURL -}}/static/fonts/Bold/Avara-Bold_web.eot');
+    src:    url('{{ - site.BaseURL -}}/static/fonts/Bold/Avara-Bold_web.eot?#iefix') format('embedded-opentype'),
+            url('{{ - site.BaseURL -}}/static/fonts/Bold/Avara-Bold_web.woff') format('woff'),
+            url('{{ - site.BaseURL -}}/static/fonts/Bold/Avara-Bold_web.woff2') format('woff2'),
+            url('{{ - site.BaseURL -}}/static/fonts/Bold/Avara-Bold_web.ttf') format('truetype'),
+            url('{{ - site.BaseURL -}}/static/fonts/Bold/Avara-Bold_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avara_Bold Italic';
+    src:    url('{{ - site.BaseURL -}}/static/fonts/BoldItalic/Avara-Bold_Italic_web.eot');
+    src:    url('{{ - site.BaseURL -}}/static/fonts/BoldItalic/Avara-Bold_Italic_web.eot?#iefix') format('embedded-opentype'),
+            url('{{ - site.BaseURL -}}/static/fonts/BoldItalic/Avara-Bold_Italic_web.woff') format('woff'),
+            url('{{ - site.BaseURL -}}/static/fonts/BoldItalic/Avara-Bold_Italic_web.woff2') format('woff2'),
+            url('{{ - site.BaseURL -}}/static/fonts/BoldItalic/Avara-Bold_Italic_web.ttf') format('truetype'),
+            url('{{ - site.BaseURL -}}/static/fonts/BoldItalic/Avara-Bold_Italic_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avara_Black';
+    src:    url('{{ - site.BaseURL -}}/static/fonts/Black/Avara-Black_web.eot');
+    src:    url('{{ - site.BaseURL -}}/static/fonts/Black/Avara-Black_web.eot?#iefix') format('embedded-opentype'),
+            url('{{ - site.BaseURL -}}/static/fonts/Black/Avara-Black_web.woff') format('woff'),
+            url('{{ - site.BaseURL -}}/static/fonts/Black/Avara-Black_web.woff2') format('woff2'),
+            url('{{ - site.BaseURL -}}/static/fonts/Black/Avara-Black_web.ttf') format('truetype'),
+            url('{{ - site.BaseURL -}}/static/fonts/Black/Avara-Black_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* .dark {
+    --theme: rgb(8, 27, 35);
+    --entry: rgb(11, 42, 56);
+    --primary: rgb(226, 226, 215);
+    --secondary: rgb(184, 196, 144);
+    --tertiary: rgb(15, 55, 73);
+    --content: rgb(241, 241, 230);
+    --hljs-bg: rgb(41, 36, 39);
+    --code-bg: rgb(14, 55, 75);
+    --border: rgb(13, 51, 68);
+} */
+
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --hljs-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+    --theme: rgb(25, 24, 22);
+    --entry: rgb(36, 38, 28);
+    --primary: rgb(226, 226, 215);
+    --secondary: rgb(214, 224, 193);
+    --tertiary: rgb(42, 50, 18);
+    --content: rgb(241, 241, 230);
+    --hljs-bg: rgb(41, 36, 39);
+    --code-bg: rgb(36, 38, 28);
+    --border: rgb(47, 50, 36);
 }
 
 .list {
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 .dark.list {
