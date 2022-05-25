@@ -1,11 +1,12 @@
 :root {
     --gap: 24px;
     --content-gap: 20px;
-    --nav-width: 1024px;
+    --nav-width: 960px;
     --main-width: 720px;
+    --post-width: 720px;
     --header-height: 60px;
-    --footer-height: 60px;
-    --radius: 5px;
+    --footer-height: 80px;
+    --radius: 4px;
     --theme: rgb(241, 241, 230);
     --entry: rgb(214, 224, 193);
     --primary: rgb(42, 50, 18);
@@ -14,7 +15,32 @@
     --content: rgb(43, 37, 34);
     --hljs-bg: rgb(41, 36, 39);
     --code-bg: rgb(214, 224, 193);
-    --border: rgb(220, 226, 205);    
+    --border: rgb(220, 226, 205);
+    --link-background-color: #e8e3f7;
+    --link-color: var(--primary);
+    --link-hover-color: #573eaa;
+    --link-underline-shadow: 0 1px 0 var(--link-color);
+    --link-hover-underline-color: #6549c0;
+    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+    --link-transition: all 0.3s ease;
+}
+
+.dark {
+    --theme: rgb(25, 24, 22);
+    --entry: rgb(36, 38, 28);
+    --primary: rgb(226, 226, 215);
+    --secondary: rgb(214, 224, 193);
+    --tertiary: rgb(42, 50, 18);
+    --content: rgb(241, 241, 230);
+    --hljs-bg: rgb(41, 36, 39);
+    --code-bg: rgb(36, 38, 28);
+    --border: rgb(47, 50, 36);
+    --link-background-color: #5242746d;
+    --link-color: var(--primary);
+    --link-hover-color: #876fd6;
+    --link-underline-shadow: 0 1px 0 var(--link-color);
+    --link-hover-underline-color: var(--link-hover-color);
+    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
 }
 
 @font-face {
@@ -53,32 +79,8 @@
     font-style: normal;
 }
 
-/* .dark {
-    --theme: rgb(8, 27, 35);
-    --entry: rgb(11, 42, 56);
-    --primary: rgb(226, 226, 215);
-    --secondary: rgb(184, 196, 144);
-    --tertiary: rgb(15, 55, 73);
-    --content: rgb(241, 241, 230);
-    --hljs-bg: rgb(41, 36, 39);
-    --code-bg: rgb(14, 55, 75);
-    --border: rgb(13, 51, 68);
-} */
-
-.dark {
-    --theme: rgb(25, 24, 22);
-    --entry: rgb(36, 38, 28);
-    --primary: rgb(226, 226, 215);
-    --secondary: rgb(214, 224, 193);
-    --tertiary: rgb(42, 50, 18);
-    --content: rgb(241, 241, 230);
-    --hljs-bg: rgb(41, 36, 39);
-    --code-bg: rgb(36, 38, 28);
-    --border: rgb(47, 50, 36);
-}
-
 .list {
-    background: var(--theme);
+    background: var(--code-bg);
 }
 
 .dark.list {

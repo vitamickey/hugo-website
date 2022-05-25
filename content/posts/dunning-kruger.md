@@ -1,9 +1,6 @@
 ---
-title: "Now"
-date: 2022-05-23T18:28:20+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -32,10 +29,10 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T18:28:20+10:00
+title: "Dunning-Kruger Effect"
+date: 2022-05-25T08:40:16+10:00
+tags: ["untagged"]
+lastmod: 2022-05-25T08:40:16+10:00
 ---
 
-This is a bucket of all of the things currently simmering away in my brain. 
-
-- Moving out
-- University exams loom
+The Dunning-Kruger Effect is the psychological phenomenon wherein people display a cognitive bias towards their own abilities: those with limited competence or knowledge will overestimate their abilities and demonstrate great confidence in themselves, whilst those with increasing or expert-level competence are reserved in self-confidence as they acknowledge the limitations of their knowledge. 

@@ -1,7 +1,7 @@
 ---
 title: "So, it began"
 date: 2022-05-23T15:04:25+10:00
-weight: 1
+# weight: 1
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
