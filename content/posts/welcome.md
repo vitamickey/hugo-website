@@ -1,9 +1,6 @@
 ---
-title: "Now"
-date: 2022-05-23T18:28:20+10:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
-tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -32,10 +29,12 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T18:28:20+10:00
+title: "Michaela's Digital Garden"
+date: 2022-05-25T08:53:38+10:00
+tags: ["about"]
+lastmod: 2022-05-25T08:53:38+10:00
 ---
 
-This is a bucket of all of the things currently simmering away in my brain. 
+Welcome to my lil' digital garden! This is a place where I would like to learn and grow. 
 
-- Moving out
-- University exams loom
+Some places to start on this website would be my post about [digital gardens](/digital-garden/).

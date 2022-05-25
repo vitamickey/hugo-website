@@ -1,14 +1,11 @@
 ---
-title: "Now"
-date: 2022-05-23T18:28:20+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: true
 # description: "Desc Text."
@@ -17,7 +14,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
@@ -32,10 +29,10 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T18:28:20+10:00
+title: "OzCLO"
+date: 2022-05-25T10:49:54+10:00
+tags: ["linguistics"]
+lastmod: 2022-05-25T10:49:54+10:00
 ---
 
-This is a bucket of all of the things currently simmering away in my brain. 
-
-- Moving out
-- University exams loom
+OzCLO is the Australian Computational Linguistics Olympiad. I participated in it during high school. 

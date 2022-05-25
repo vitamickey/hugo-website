@@ -1,7 +1,7 @@
 baseURL = 'http://michaelacheong.com/'
 languageCode = 'en-au'
 title = 'Michaela Cheong'
-theme = 'PaperMod'
+theme = 'PaperModX'
 
 paginate = 5
 enableRobotsTXT = true
@@ -15,14 +15,17 @@ googleAnalytics = "UA-123-45"
 disableXML = true
 minifyOutput = true
 
+[permalinks]
+  posts = '/:filename/'
+
 [params]
 env = "production"
 title = "Michaela Cheong"
-description = "A lil' digital garden."
-keywords = [ "Digital Garden", "Blog", "Portfolio", "PaperMod" ]
+description = "A lil's digital garden."
+keywords = [ "Digital Garden", "Blog", "Portfolio", "PaperMod", "Christian" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "2006-01-02"
+DateFormat = "Jan 02, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
@@ -33,14 +36,17 @@ ShowCodeCopyButtons = false
 ShowWordCount = true
 disableSpecial1stPost = false
 disableScrollToTop = false
-comments = true
+comments = false
 hidemeta = false
 hideSummary = false
 hideAuthor = true
 showtoc = false
 tocopen = false
-fontbody = "Avara_Bold"
-fontcode = "Space Mono"
+fontbody = 'Avara_Bold'
+fontcode = 'Space Mono'
+custom_css = ["css/core/theme-vars.css"]
+custom_js = ["js/custom.js"]
+
 
 
   [params.assets]
@@ -72,18 +78,6 @@ fontcode = "Space Mono"
     name = "Tags"
     url = "tags"
 
-  [params.homeInfoParams]
-  Title = "Michaela's digital garden"
-  Content = "A place to grow (in Christ)"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/vitamickey"
-
-  [[params.socialIcons]]
-  name = "instagram"
-  url = "https://www.instagram.com/michaelacheong/"
-
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
@@ -100,7 +94,7 @@ SiteVerificationTag = "XYZabc"
 
   [params.editPost]
   URL = "https://github.com/vitamickey/digital-garden/tree/main/content"
-  Text = "Suggest changes"
+  Text = "Suggest changes to this post"
   appendFilePath = true
 
   [params.fuseOpts]
@@ -116,7 +110,7 @@ SiteVerificationTag = "XYZabc"
 [[menu.main]]
 identifier = "nowmenu"
 name = "now"
-url = "/posts/now/"
+url = "/now/"
 weight = 10
 
 [[menu.main]]
