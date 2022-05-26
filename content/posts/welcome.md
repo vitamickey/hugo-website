@@ -30,9 +30,10 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 title: "Michaela's Digital Garden"
-date: 2022-05-25T08:53:38+10:00
+description: "Start here."
 tags: ["about"]
-lastmod: 2022-05-25T08:53:38+10:00
+date: 2022-05-25T08:53:38+10:00
+lastmod: 2022-05-26T11:24:38+10:00
 ---
 
 Welcome to my lil' digital garden! This is a place where I would like to learn and grow. 

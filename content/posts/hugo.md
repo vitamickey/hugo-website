@@ -3,7 +3,7 @@ title: "Hugo"
 date: 2022-05-23T15:04:53+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["website", "hugo", "technology", "coding"]
+tags: ["website", "technology", "coding"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -48,9 +48,13 @@ To build my site, need to use `hugo -t PaperMod` (or instead of `PaperMod`, the 
 
 I need to
 - add comments with Disqus https://gohugo.io/content-management/comments/
-- make a stubs page https://www.mtsolitary.com/stubs/ https://www.mtsolitary.com/20210329232300-mt-solitary-stack/
-- backlinks??? lol I have a death wish https://www.mtsolitary.com/20210329232300-mt-solitary-stack/
-- a search with filters like hugo tania would be cool
+- make a stubs page?? https://www.mtsolitary.com/stubs/ https://www.mtsolitary.com/20210329232300-mt-solitary-stack/
+- BACKLINKS??? lol I have a death wish https://gabrielleearnshaw.medium.com/implementing-backlinks-in-a-hugo-website-e548d3d8f0e0 https://www.mtsolitary.com/20210329232300-mt-solitary-stack/
+- a search with filters like hugo tania or Maggie Appleton's website would be cool
+-- an option to see my posts related to any book of the bible, maybe
+- ordering by last tended, not by date planted
+- proper implementation of horticultural extended metaphor
+- 
 
 
 To customise CSS and HTML of a theme, you should **override** these rather than edit the themes files directly. The PaperMod files of my website were downloaded onto my laptop and edited directly, which I shouldn't have done. For HTML, images, etc., you can create a new file in the folders of your actual site, rather than the theme's folders. For example, to overwrite `head.html` stored in `/my-site/themes/theme-name/layout/partials/` you can copy that file into something like `/my-site/layouts/partials/` and then the content of that file will overwrite the original file. This is especially important if you have cloned a repository (but that's kinda of obvious, right?). To do that but for CSS, I am referencing Banjo Code. 
