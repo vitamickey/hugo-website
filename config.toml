@@ -1,9 +1,7 @@
-baseURL = 'http://michaelacheong.com/'
-languageCode = 'en-au'
-title = 'Michaela Cheong'
-theme = 'PaperModX'
-
+baseURL = "http://michaelacheong.com/"
+title = "Michaela"
 paginate = 5
+theme = "PaperModX"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -20,18 +18,18 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Michaela Cheong"
-description = "A lil's digital garden."
-keywords = [ "Digital Garden", "Blog", "Portfolio", "PaperMod", "Christian" ]
+title = "ExampleSite"
+description = "ExampleSite description"
+keywords = [ "Blog", "Portfolio", "PaperModX" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "Jan 02, 2006"
+DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = false
-ShowPostNavLinks = false
-ShowBreadCrumbs = false
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
 ShowWordCount = true
 disableSpecial1stPost = false
@@ -39,36 +37,31 @@ disableScrollToTop = false
 comments = false
 hidemeta = false
 hideSummary = false
-hideAuthor = true
 showtoc = false
 tocopen = false
 fontbody = 'Avara_Bold'
 fontcode = 'Space Mono'
-custom_css = ["css/core/theme-vars.css"]
-custom_js = ["js/custom.js"]
-
-
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = "/img/favicon.ico"
+  favicon16x16 = "/img/favicon-16x16.png"
+  favicon32x32 = "/img/favicon-32x32.png"
+  apple_touch_icon = "/img/apple-touch-icon.png"
+  safari_pinned_tab = "/img/apple-touch-icon.png"
 
   [params.label]
   text = "Home"
-  icon = "/apple-touch-icon.png"
-  iconHeight = 35
+  icon = "/img/apple-touch-icon.png"
+  iconHeight = 50
 
   [params.profileMode]
   enabled = false
   title = "Michaela Cheong"
   subtitle = "I follow Jesus."
-  imageUrl = "<img location>"
-  imageWidth = 120
+  imageUrl = "/img/cat-with-book.jpg"
+  imageWidth = 150
   imageHeight = 120
-  imageTitle = "my image"
+  imageTitle = "Cat reading a book"
 
     [[params.profileMode.buttons]]
     name = "Archive"
@@ -77,6 +70,18 @@ custom_js = ["js/custom.js"]
     [[params.profileMode.buttons]]
     name = "Tags"
     url = "tags"
+
+  [params.homeInfoParams]
+  Title = "I am Michaela, and this is my digital garden."
+  Content = "A place to grow (in Christ)."
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/vitamickey"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/michaelacheong/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -101,11 +106,10 @@ SiteVerificationTag = "XYZabc"
   isCaseSensitive = false
   shouldSort = true
   location = 0
-  distance = 1000
+  distance = 1_000
   threshold = 0.4
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
-
 
 [[menu.main]]
 identifier = "nowmenu"
@@ -130,8 +134,3 @@ identifier = "search"
 name = "search"
 url = "/search/"
 weight = 40
-
-
-
-[outputs]
-home = ["HTML","RSS","JSON"]

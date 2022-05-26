@@ -1,9 +1,6 @@
 ---
-title: "Github"
-date: 2022-05-23T15:34:05+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["github", "coding", "technology"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -32,10 +29,13 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T15:34:05+10:00
+title: "GitHub"
+date: 2022-05-23T15:34:05+10:00
+tags: ["github", "coding", "technology"]
+lastmod: 2022-05-26T10:01:05+10:00
 ---
 
-I am an absolute Github noob, but like, I'm trying my best. 
+I am an absolute GitHub noob, but like, I'm trying my best. 
 
 When I created this website, I didn't realise I should have created the `hugo new site` in a cloned repository that was already on my computer, so, I am using the second answer of this stack overflow question to do it. 
 https://stackoverflow.com/questions/3311774/how-to-convert-existing-non-empty-directory-into-a-git-working-directory-and-pus

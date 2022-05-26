@@ -36,6 +36,10 @@ lastmod: 2022-05-23T23:44:01+10:00
 ---
 
 - Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes
+- How I came to understand God's grace
+- The Gospel for beginners
+- The Bible for beginners
+- Quiet times??
 - Fonts, typography, favourite fonts
 - Mathematics, subjects I'm taking, transfer statistics stuff onto digital garden maybe??
 - High school, reflections, why it sucked
