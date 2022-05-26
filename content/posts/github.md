@@ -8,7 +8,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -29,8 +28,9 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "GitHub"
 date: 2022-05-23T15:34:05+10:00
+title: "GitHub"
+# description: "Desc Text."
 tags: ["github", "coding", "technology"]
 lastmod: 2022-05-26T10:01:05+10:00
 ---

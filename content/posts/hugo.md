@@ -1,9 +1,6 @@
 ---
-title: "Hugo"
-date: 2022-05-23T15:04:53+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["website", "technology", "coding"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +8,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -32,6 +28,10 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
+date: 2022-05-23T15:04:53+10:00
+title: "Hugo"
+description: "What I use to make my site."
+tags: ["website", "technology", "coding"]
 lastmod: 2022-05-23T15:12:53+10:00
 ---
 
