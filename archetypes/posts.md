@@ -30,7 +30,7 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 date: {{ .Date }}
 title: "Untitled"
-# description: "Description text goes here."
+# description: ""
 tags: ["untagged"]
 lastmod: {{ .Date }}
 ---

@@ -1,7 +1,8 @@
 baseURL = "http://michaelacheong.com/"
 title = "Michaela"
+languageCode = "en-au"
 paginate = 5
-theme = "PaperModX"
+theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -18,18 +19,18 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperModX" ]
+title = "Michaela's Digital Garden"
+description = "A lil' digital garden."
+keywords = [ "Digital Garden", "Blog", "Portfolio", "PaperMod", "Christian" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "January 2, 2006"
+DateFormat = "Jan 02, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
-ShowBreadCrumbs = true
+ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
 ShowWordCount = true
 disableSpecial1stPost = false
@@ -40,36 +41,36 @@ hideSummary = false
 showtoc = false
 tocopen = false
 fontbody = 'Avara_Bold'
-fontcode = 'Space Mono'
+fontcode = 'EB Garamond'
 
   [params.assets]
-  favicon = "/img/favicon.ico"
-  favicon16x16 = "/img/favicon-16x16.png"
-  favicon32x32 = "/img/favicon-32x32.png"
-  apple_touch_icon = "/img/apple-touch-icon.png"
-  safari_pinned_tab = "/img/apple-touch-icon.png"
+  favicon = "img/favicon.ico"
+  favicon16x16 = "img/favicon-16x16.png"
+  favicon32x32 = "img/favicon-32x32.png"
+  apple_touch_icon = "img/apple-touch-icon.png"
+  safari_pinned_tab = "img/apple-touch-icon.png"
 
   [params.label]
   text = "Home"
-  icon = "/img/apple-touch-icon.png"
+  icon = "img/apple-touch-icon.png"
   iconHeight = 50
 
   [params.profileMode]
   enabled = false
   title = "Michaela Cheong"
   subtitle = "I follow Jesus."
-  imageUrl = "/img/cat-with-book.jpg"
-  imageWidth = 150
+  imageUrl = "img/cat-with-book.jpg"
+  imageWidth = 120
   imageHeight = 120
   imageTitle = "Cat reading a book"
 
     [[params.profileMode.buttons]]
     name = "Archive"
-    url = "archive"
+    url = "archive/"
 
     [[params.profileMode.buttons]]
     name = "Tags"
-    url = "tags"
+    url = "tags/"
 
   [params.homeInfoParams]
   Title = "I am Michaela, and this is my digital garden."
@@ -111,26 +112,35 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+
 [[menu.main]]
 identifier = "nowmenu"
 name = "now"
-url = "/now/"
+url = "now/"
 weight = 10
 
 [[menu.main]]
 identifier = "archive"
 name = "archive"
-url = "/archives/"
+url = "archives/"
 weight = 20
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
-url = "/tags/"
+url = "tags/"
 weight = 30
 
 [[menu.main]]
 identifier = "search"
 name = "search"
-url = "/search/"
+url = "search/"
 weight = 40
+
+[outputs]
+home = ["HTML","RSS","JSON"]

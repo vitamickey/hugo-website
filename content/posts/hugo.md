@@ -53,8 +53,8 @@ I need to
 - a search with filters like hugo tania or Maggie Appleton's website would be cool
 -- an option to see my posts related to any book of the bible, maybe
 - ordering by last tended, not by date planted
-- proper implementation of horticultural extended metaphor
-- 
+- proper implementation of horticultural extended metaphor ?? or figure out my own metaphor (but plants are nice)
+- add relative dates to meta https://kodify.net/hugo/date-time/relative-age-hugo/
 
 
 To customise CSS and HTML of a theme, you should **override** these rather than edit the themes files directly. The PaperMod files of my website were downloaded onto my laptop and edited directly, which I shouldn't have done. For HTML, images, etc., you can create a new file in the folders of your actual site, rather than the theme's folders. For example, to overwrite `head.html` stored in `/my-site/themes/theme-name/layout/partials/` you can copy that file into something like `/my-site/layouts/partials/` and then the content of that file will overwrite the original file. This is especially important if you have cloned a repository (but that's kinda of obvious, right?). To do that but for CSS, I am referencing Banjo Code. 

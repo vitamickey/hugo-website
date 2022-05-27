@@ -41,7 +41,7 @@ lastmod: 2022-05-23T23:44:01+10:00
 - The Bible for beginners
 - Quiet times??
 - Fonts, typography, favourite fonts
-- Mathematics, subjects I'm taking, transfer statistics stuff onto digital garden maybe??
+- Mathematics, subjects I'm taking, transfer statistics knowledge onto digital garden maybe??
 - High school, reflections, why it sucked
 - Music, instruments
 - Crochet, yarn and hook stuff
@@ -51,3 +51,6 @@ lastmod: 2022-05-23T23:44:01+10:00
 - The difficultiy I have in sticking to systems
 - Bullet journalling (Ryder Carroll basics)
 - Stationery
+- How I feel about receiving flowers as gifts
+- K-Pop?? Christianity? how do these link
+- 
