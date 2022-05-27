@@ -37,7 +37,7 @@ lastmod: 2022-05-24T09:23:39+10:00
 
 On Sunday, we went through 1 John 2:12-17, however, [1 John 2:15–17](https://esv.org/1John2:12–17) is a bit more relevant to this thought. 
 
-> # Do Not Love the World
+> **Do Not Love the World**
 > [15] Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. [16] For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world. [17] And the world is passing away along with its desires, but whoever does the will of God abides forever. ([1 John 2:15–17, ESV](https://esv.org/1John2:12–17))
 
 We have recently been having small groups discussions after church on Sunday evenings as part of our services. It has been wonderful to meet people around the church and engage with them in learning about God's word and being. In our small group time, I got to talk with a couple of the older ladies and an older man from around the church. We were given a question stack similar to, "Do you have any favourite things/possessions? Is it okay to have nice things? If God asked you to get rid of them, would you do it?".

@@ -12,7 +12,6 @@
       {{ .Description }}
     </div>
     {{- end }}
-
   </header>
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
@@ -26,28 +25,32 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
-  {{- end }} 
-  
-  <footer class="post-footer">
-    {{- if not (.Param "hideMeta") }}
+  {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
-      {{/* TODO move to footer */}}
-      {{/* partial "edit_post.html" . */}}
-      {{/* partial "post_canonical.html" . */}}
+      {{/*  {{- partial "translation_list.html" . -}}  */}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
     </div>
-    {{- end }}   
-    
-    {{- if (.Param "socialLinks") }}
-    {{- partial "social_links.html" . }}
     {{- end }}
+  {{- end }}
 
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
   </footer>
 
-  {{- if not (.Param "noComments") }}
+  {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
 </article>

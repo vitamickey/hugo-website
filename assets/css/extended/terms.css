@@ -1,3 +1,7 @@
+.terms-tags {
+    color: var(--content);
+}
+
 .terms-tags li {
     display: inline-block;
     margin: 10px;
@@ -7,13 +11,12 @@
 .terms-tags a {
     display: block;
     padding: 3px 10px;
-    background: var(--entry);
+    background: var(--code-bg);
     border-radius: 6px;
-    border: 1px solid var(--border);
     transition: transform 0.1s;
 }
 
 .terms-tags a:active {
-    background: var(--entry);
+    background: var(--tertiary);
     transform: scale(0.96);
 }
