@@ -45,3 +45,10 @@ After some finicking, I now have my Hugo site version control being managed in G
 My .gitignore file came from here
 https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
 I am only semi-confident in my .gitignore file for the website, but like, it's fine. 
+
+I used this when my website did weird stuff. One day I will stop nuking my repos when things go wrong. I don't mind losing my `/public` commits because I still have a lot of the history in my digital gardens repo. 
+https://stackoverflow.com/questions/2006172/git-how-to-reset-a-remote-git-repository-to-remove-all-commits
+
+Merge conflicts
+https://stackoverflow.com/questions/64395814/how-to-resolve-branch-conflicts-in-vscode-github-pull-requests-and-issues-extens
+

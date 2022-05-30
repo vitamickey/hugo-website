@@ -43,7 +43,6 @@ tocopen = false
 fontheader = 'Avara_Bold'
 fontbody = 'EB Garamond'
 fontcode = 'Xanh Mono'
-math = true
 
   [params.assets]
   favicon = "img/favicon.ico"

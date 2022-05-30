@@ -3,19 +3,14 @@ name: Build GH-Pages
 on:
   push:
     paths-ignore:
-      - "images/**"
-      - "LICENSE"
-      - "README.md"
+      - 'images/**'
+      - 'LICENSE'
+      - 'README.md'
     branches:
       - master
       - exampleSite
   workflow_dispatch:
     # manual run
-    inputs:
-      hugoVersion:
-        description: "Hugo Version"
-        required: false
-        default: "0.83.0"
 
 jobs:
   deploy:
@@ -35,7 +30,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "${{ github.event.inputs.hugoVersion }}"
+          hugo-version: '0.83.0'
 
       - name: Build
         run: hugo --buildDrafts --gc --verbose --minify
