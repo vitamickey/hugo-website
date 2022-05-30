@@ -136,7 +136,3 @@ img {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--secondary);
 }
-
-::-webkit-scrollbar:not(.highlighttable, .highlight table, .gist .highlight) {
-    background: var(--theme);
-}

@@ -153,11 +153,11 @@
     border-radius: var(--radius);
 }
 
-.post-content .highlight:not(table) {
+.post-content .highlight:not(table),
+.post-content pre {
     margin: 10px auto;
     background: var(--hljs-bg) !important;
     border-radius: var(--radius);
-    direction: ltr;
 }
 
 .post-content li > .highlight {
@@ -207,8 +207,8 @@
     margin: auto 0;
     padding: 10px;
     color: rgb(213, 213, 214);
-    background: var(--hljs-bg) !important;
-    border-radius: var(--radius);
+    background: 0 0;
+    border-radius: 0;
     overflow-x: auto;
     word-break: break-all;
 }
@@ -223,7 +223,8 @@
     margin: 30px 0;
     height: 2px;
     background: var(--tertiary);
-    border: 0;
+    border-top: 0;
+    border-bottom: 0;
 }
 
 .post-content iframe {
@@ -426,8 +427,4 @@ h6:hover .anchor {
 
 [dir="rtl"] .paginav .next {
     text-align: left;
-}
-
-h1>a>svg {
-    display: inline;
 }
