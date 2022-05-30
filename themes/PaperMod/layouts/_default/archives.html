@@ -32,9 +32,9 @@
           {{- .Title | markdownify }}
           {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
         </h3>
-        {{/*  <div class="archive-meta">
+        <div class="archive-meta">
           {{- partial "post_meta.html" . -}}
-        </div>  */}}
+        </div>
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>
       {{- end }}
@@ -45,6 +45,5 @@
 </div>
 {{- end }}
 {{- end }}
-
 
 {{- end }}{{/* end main */}}

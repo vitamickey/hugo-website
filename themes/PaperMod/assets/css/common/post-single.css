@@ -6,7 +6,6 @@
 .post-title {
     margin-bottom: 2px;
     font-size: 40px;
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-description {
@@ -16,10 +15,8 @@
 
 .post-meta,
 .breadcrumbs {
-    float: right;
     color: var(--secondary);
     font-size: 14px;
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
     display: flex;
     flex-wrap: wrap;
 }
@@ -37,8 +34,6 @@
 
 .post-content {
     color: var(--content);
-    font-size: 20px;
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h3,
@@ -50,28 +45,28 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 150%;
+    font-size: 40px;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 140%;
+    font-size: 32px;
 }
 
 .post-content h3 {
-    font-size: 130%;
+    font-size: 24px;
 }
 
 .post-content h4 {
-    font-size: 120%;
+    font-size: 16px;
 }
 
 .post-content h5 {
-    font-size: 110%;
+    font-size: 14px;
 }
 
 .post-content h6 {
-    font-size: 105%;
+    font-size: 12px;
 }
 
 .post-content a,
@@ -202,7 +197,6 @@
     margin: auto 4px;
     padding: 4px 6px;
     font-size: 0.78em;
-    font-family: '{{ .Site.Params.fontcode }}', 'Courier New', Courier, monospace;
     line-height: 1.5;
     background: var(--code-bg);
     border-radius: 2px;
@@ -268,7 +262,6 @@
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
-    font-family: '{{ .Site.Params.fontbody }}', Georgia, 'Times New Roman', Times, serif;
 }
 
 .dark .toc {
@@ -326,7 +319,6 @@
     padding-inline-end: 14px;
     color: var(--secondary);
     font-size: 14px;
-    font-family: '{{ .Site.Params.fontbody }}', Georgia, 'Times New Roman', Times, serif;
     line-height: 34px;
     background: var(--code-bg);
 }
@@ -402,7 +394,6 @@ h6:hover .anchor {
     margin: 10px 0;
     display: flex;
     line-height: 30px;
-    font-family: '{{ .Site.Params.fontbody }}', Georgia, 'Times New Roman', Times, serif;
     border-radius: var(--radius);
 }
 

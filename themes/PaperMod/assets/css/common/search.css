@@ -5,7 +5,6 @@
     font-weight: bold;
     border: 2px solid var(--tertiary);
     border-radius: var(--radius);
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 #searchbox input:focus {
@@ -24,7 +23,6 @@
 #searchResults {
     margin: 10px 0;
     width: 100%;
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 #searchResults li:active {
@@ -44,39 +42,4 @@
 #searchResults .focus {
     transform: scale(0.98);
     border: 2px solid var(--tertiary);
-}
-
-
-/* Probably delete below, taken from hugo tania */
-
-.filter-container {
-    display: flex;
-    justify-content: flex-start;
-    margin-bottom: 1.5rem;
-    flex-wrap: wrap;
-}
-.filter-item {
-    font-size: 0.85rem;
-    padding: 0.5rem 0.75rem;
-    background: var(--light-background);
-    border-radius: 4px;
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    cursor: pointer;
-}
-.filter-item:hover {
-    background: #d8e3fd;
-    color: #3972f4;
-}
-.filter-item:last-of-type {
-    margin-right: 0;
-}
-.filter-item.active {
-    background: #5183f5;
-    color: #fff;
-}
-.filter-item.active:hover {
-    color: #fff;
-    background: #2161f2;
 }

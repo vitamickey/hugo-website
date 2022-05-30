@@ -1,0 +1,75 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+        {{- partial "translation_list.html" . -}}
+    </div>
+    {{- end }}
+</header>
+
+{{/*  hugo tania snippet  */}}
+
+{{/*  {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+
+<section>
+    <div class="container">
+        <div class="filter-container">
+          {{ $maxCategoryToShow := $.Site.Params.maxCategoryToShow | default 5 }}
+          {{ range .Site.Taxonomies.categories.TaxonomyArray | first $maxCategoryToShow }}
+            <div class="filter-item" data-value="{{ .Page.Title }}" data-type="categories">
+              {{ .Page.Title }}<sup>{{ .Count }}</sup>
+            </div>
+          {{ end }}
+        </div>
+        <input id="search-query" type="search" placeholder="Search for anything...">
+        
+        <div id="search-results">
+        </div>
+        <section id="articles-list">
+            {{ range $pages.GroupByDate "2006" }}
+            <section>
+                <h2>{{ .Key }}</h2>
+                <div class="posts">
+                    {{ range .Pages }}
+                    <div class="post">
+                        <a href="{{ .RelPermalink }}">
+                            <div class="post-row">
+                                <time>{{ .Date.Format "Jan 02" }}</time>
+                                <h3>{{ .Title }}</h3>
+                            </div>
+                        </a>
+                    </div>
+                    {{ end }}
+                </div>
+            </section>
+            {{ end }}
+        </section>
+    </div>
+</section>
+
+{{- $opts := dict "minify" hugo.IsProduction -}}
+{{ $search := resources.Get "ts/search.ts" | js.Build $opts | fingerprint }}
+<script async src="{{ $search.RelPermalink }}"></script>  */}}
+
+{{/*  hugo tania snippet  */}}
+
+<div id="searchbox">
+    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
+        aria-label="search" type="search" autocomplete="off">
+    <ul id="searchResults" aria-label="search results"></ul>
+</div>
+
+{{- end }}{{/* end main */}}

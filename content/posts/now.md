@@ -39,3 +39,6 @@ This is a bucket of all of the things currently simmering away in my brain.
 
 - Moving out
 - University exams loom
+- Kids holiday program coming up! Best time of the year ngl
+- I've been paying too much attention to Queendom 2
+- This website

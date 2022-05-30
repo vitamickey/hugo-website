@@ -6,7 +6,6 @@
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .nav a {
@@ -67,7 +66,7 @@ body:not(.dark) #sun {
 }
 
 #menu a {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 #menu .active {
@@ -89,7 +88,7 @@ body:not(.dark) #sun {
 
 .lang-switch a {
     margin: auto 3px;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 500;
 }
 

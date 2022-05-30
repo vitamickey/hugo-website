@@ -1,8 +1,7 @@
 .footer,
 .top-link {
-    font-size: 14px;
+    font-size: 12px;
     color: var(--secondary);
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .footer {

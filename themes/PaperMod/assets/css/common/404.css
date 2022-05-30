@@ -8,5 +8,4 @@
     height: 80%;
     font-size: 160px;
     font-weight: 700;
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }

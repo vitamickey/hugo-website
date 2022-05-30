@@ -6,6 +6,7 @@
 .post-title {
     margin-bottom: 2px;
     font-size: 40px;
+    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-description {
@@ -37,6 +38,7 @@
 .post-content {
     color: var(--content);
     font-size: 20px;
+    line-height: 130%;
 }
 
 .post-content h3,
@@ -44,16 +46,19 @@
 .post-content h5,
 .post-content h6 {
     margin: 24px 0 16px;
+    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h1 {
     margin: 40px auto 32px;
     font-size: 150%;
+    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
     font-size: 140%;
+    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h3 {

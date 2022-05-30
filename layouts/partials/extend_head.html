@@ -3,12 +3,11 @@
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
 
 {{/*  Font  */}}
-<link href="//fonts.googleapis.com/css?family=EB+Garamond|Space+Mono" rel="stylesheet"&gt;>
+<link href="//fonts.googleapis.com/css?family=EB+Garamond|Xanh+Mono|Old+Standard+TT" rel="stylesheet"&gt;>
 
 {{/*  Mathjax support  */}}
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
 
 {{- /* Head custom content area end */ -}}

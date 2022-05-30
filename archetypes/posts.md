@@ -3,20 +3,19 @@
 # aliases: ["/first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
+# showToc: false
+# TocOpen: true
+# draft: true
 comments: true
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: false
-ShowPostNavLinks: true
+# searchHidden: true
+# ShowReadingTime: false
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: false
 ShowRssButtonInSectionTermList: true
 cover:
     image: "<image path/url>" # image path/url
@@ -33,4 +32,5 @@ title: "Untitled"
 # description: ""
 tags: ["untagged"]
 lastmod: {{ .Date }}
+# math: true
 ---
