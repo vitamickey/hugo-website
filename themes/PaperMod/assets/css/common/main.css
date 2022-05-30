@@ -4,11 +4,6 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
-}
-
-.page-header {
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .page-header h1 {
@@ -17,7 +12,6 @@
 
 .pagination {
     display: flex;
-    font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .pagination a {
@@ -27,7 +21,6 @@
     background: var(--primary);
     border-radius: calc(36px / 2);
     padding: 0 16px;
-font-family: '{{ .Site.Params.fontbody }}', 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .pagination .next {

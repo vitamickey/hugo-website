@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Avara_Bold';
-    src:    url('fonts/Bold/Avara-Bold_web.eot');
-    src:    url('fonts/Bold/Avara-Bold_web.eot?#iefix') format('embedded-opentype'),
-            url('fonts/Bold/Avara-Bold_web.woff') format('woff'),
-            url('fonts/Bold/Avara-Bold_web.woff2') format('woff2'),
-            url('fonts/Bold/Avara-Bold_web.ttf') format('truetype'),
-            url('fonts/Bold/Avara-Bold_web.svg#svgFontName') format('svg');
+    src:    url('/fonts/Bold/Avara-Bold.eot');
+    src:    url('/fonts/Bold/Avara-Bold.eot?#iefix') format('embedded-opentype'),
+            url('/fonts/Bold/Avara-Bold.woff') format('woff'),
+            url('/fonts/Bold/Avara-Bold.woff2') format('woff2'),
+            url('/fonts/Bold/Avara-Bold.ttf') format('truetype'),
+            url('/fonts/Bold/Avara-Bold.svg#svgFontName') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -36,7 +36,6 @@
     --link-hover-underline-color: rgb(130, 147, 76);
     --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
     --link-transition: all 0.3s ease;
-    --font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .dark {
@@ -66,5 +65,9 @@
 }
 
 body, input, textarea {
-    font-family: var(--font-family);
+    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+}
+
+code {
+    font-family: 'Xanh Mono', 'Courier New', Courier, monospace;
 }

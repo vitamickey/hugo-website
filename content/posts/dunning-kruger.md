@@ -31,7 +31,7 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 title: "Dunning-Kruger Effect"
 date: 2022-05-25T08:40:16+10:00
-tags: ["untagged"]
+tags: ["psychology"]
 lastmod: 2022-05-25T08:40:16+10:00
 ---
 

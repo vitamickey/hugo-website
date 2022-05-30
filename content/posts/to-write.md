@@ -42,7 +42,7 @@ lastmod: 2022-05-23T23:44:01+10:00
 - Quiet times??
 - Fonts, typography, favourite fonts
 - Mathematics, subjects I'm taking, transfer statistics knowledge onto digital garden maybe??
-- High school, reflections, why it sucked
+- High school, reflections, why it sucked (i.e. having mental health but as a high achiever)
 - Music, instruments
 - Crochet, yarn and hook stuff
 - Anything from Notion that I sort of don't want in Notion anymore (I am a bit sick of Notion)
@@ -53,4 +53,7 @@ lastmod: 2022-05-23T23:44:01+10:00
 - Stationery
 - How I feel about receiving flowers as gifts
 - K-Pop?? Christianity? how do these link
-- 
+- How to help a friend with 
+    - mental health issues
+    - psychological disorders
+    - intellectual disabilities

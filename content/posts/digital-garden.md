@@ -40,3 +40,6 @@ A digital garden is a place for thoughts, knowledge and ideas to grow.
 The main reference for what a digital garden is comes from [Maggie Appleton](https://maggieappleton.com/garden-history). I will not follow the original ethos to the T, but it's a very nice read nonetheless. 
 
 For me, the main pull towards maintaining a digital garden is that it's not as intensive as a blog. As outlined in Maggie's writing, a blog requires you to do all of this background research before eventually deciding to release a perfectly manicured opinion to the internet, exerting your intellectual authority onto all who pass through your site. A digital garden acknowledges that learning is ongoing, and that we will never know everything, or anything, in its entirety. 
+
+# Some inspiration
+

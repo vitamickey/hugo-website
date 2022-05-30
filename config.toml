@@ -38,10 +38,12 @@ disableScrollToTop = false
 comments = false
 hidemeta = false
 hideSummary = false
-showtoc = false
+showtoc = true
 tocopen = false
-fontbody = 'Avara_Bold'
-fontcode = 'EB Garamond'
+fontheader = 'Avara_Bold'
+fontbody = 'EB Garamond'
+fontcode = 'Xanh Mono'
+math = true
 
   [params.assets]
   favicon = "img/favicon.ico"
