@@ -32,7 +32,7 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T15:05:04+10:00
+lastmod: 2022-05-31T09:52:04+10:00
 ---
 
 # Origins of the name Michaela
@@ -50,3 +50,19 @@ A girl from my Youth group wrote this out on a card for me in nice hand-letterin
 I am definitely not like God. But I do grapple with identity sometimes. 
 
 How much of my identity comes from the right things? My identity as a child of God and follower of Jesus might be at the centre of my identity, but how much are my interests, struggles, ideas, appearance, a part of who I am? I would not be who I am without those things, and in a sense they define me, but can I ultimately ascribe my identity as a person to them? I'm not sure I know the answers to any of these questions.
+
+Here is a list of things that I am. 
+
+- Christian
+- tutor
+- Youth group leader
+- musician
+- member of my church's worship team
+- crocheter
+- reader
+- writer??
+- Chinese
+- Vietnamese
+- Australian
+- French-speaker (only a bit now, it's kinda rusty)
+- 

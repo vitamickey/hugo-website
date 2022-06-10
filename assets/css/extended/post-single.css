@@ -5,21 +5,22 @@
 
 .post-title {
     margin-bottom: 2px;
-    font-size: 40px;
-    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-description {
-    font-size: 30px;
+    font-size: 23px;
     margin-top: 10px;
     margin-bottom: 5px;
+    font-family: 'Avara_BoldItalic', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-meta,
 .breadcrumbs {
-    float: right;
+    float: left;
     color: var(--primary);
-    font-size: 14px;
+    font-size: 16px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -37,7 +38,7 @@
 
 .post-content {
     color: var(--content);
-    font-size: 20px;
+    font-size: 23px;
     line-height: 130%;
 }
 
@@ -46,35 +47,35 @@
 .post-content h5,
 .post-content h6 {
     margin: 24px 0 16px;
-    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h1 {
-    margin: 40px auto 32px;
-    font-size: 150%;
-    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    margin: 40px auto 16px;
+    font-size: 24px;
+    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h2 {
-    margin: 32px auto 24px;
-    font-size: 140%;
-    font-family: 'Avara_Bold', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    margin: 32px auto 16px;
+    font-size: 22px;
+    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h3 {
-    font-size: 130%;
+    font-size: 20px;
 }
 
 .post-content h4 {
-    font-size: 120%;
+    font-size: 18px;
 }
 
 .post-content h5 {
-    font-size: 110%;
+    font-size: 16px;
 }
 
 .post-content h6 {
-    font-size: 105%;
+    font-size: 14px;
 }
 
 
