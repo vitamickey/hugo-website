@@ -36,7 +36,8 @@ ShowWordCount = true
 disableSpecial1stPost = false
 disableScrollToTop = false
 comments = false
-hidemeta = false
+hideMeta = false
+hideSearchMeta = true
 hideSummary = false
 showtoc = true
 tocopen = false
@@ -84,6 +85,10 @@ fontcode = 'Xanh Mono'
   [[params.socialIcons]]
   name = "instagram"
   url = "https://www.instagram.com/michaelacheong/"
+
+  [[params.socialIcons]]
+  name = "spotify"
+  url = "https://open.spotify.com/user/mrshmllow_micky?si=70da848a98c84a3e"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"

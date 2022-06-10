@@ -32,20 +32,10 @@ date: 2022-05-30T16:01:37+10:00
 title: "Complex Analysis"
 # description: ""
 tags: ["mathematics"]
-lastmod: 2022-05-30T16:01:37+10:00
+lastmod: 2022-05-31T22:22:37+10:00
 # math: true
 ---
 
-I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. 
-
-# Basic formulas
-
-\(sin(z) = \frac{e^{z} + e^{-z}}{2i}\)
-
-# Another test
-
-Cauchy integral formula extension
-
-$$ f(z)^{(n)} = stuff$$
+I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can't get mathjax to work yet lol. 
 
 
