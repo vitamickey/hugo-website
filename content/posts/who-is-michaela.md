@@ -1,26 +1,21 @@
 ---
-title: "Who is Michaela?"
-date: 2022-05-23T15:05:04+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["about-me", "identity"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
+# showToc: false
+# TocOpen: true
+# draft: true
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: false
-ShowPostNavLinks: true
+# searchHidden: true
+# ShowReadingTime: false
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: false
 ShowRssButtonInSectionTermList: true
 cover:
     image: "<image path/url>" # image path/url
@@ -32,14 +27,19 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-31T09:52:04+10:00
+date: 2022-05-23T15:05:04+10:00
+title: "Who is Michaela?"
+# description: ""
+tags: ["about", "identity"]
+lastmod: 2022-06-15T13:33:04+10:00
+# math: true
 ---
+
 
 # Origins of the name Michaela
 
 Michaela
-
-n. who is like God
+: n. who is like God
 
 Feminine form of Michael (from Hebrew).
 
@@ -65,4 +65,4 @@ Here is a list of things that I am.
 - Vietnamese
 - Australian
 - French-speaker (only a bit now, it's kinda rusty)
-- 
+- linguist?

@@ -8,7 +8,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -29,14 +28,17 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "It is better to marry than to burn with passion"
-date: 2022-05-24T09:25:28+10:00
-tags: ["marriage", "personal", "bible", "1-corinthians"]
-lastmod: 2022-05-24T09:25:28+10:00
+date: 2022-05-28T09:32:44+10:00
+title: "All things are lawful..."
+description: "but..."
+tags: ["bible"]
+lastmod: 2022-05-28T09:32:44+10:00
 ---
 
-This was just an interesting verse from my bible reading today. 
+The idea that all things are lawful has been playing on my mind a lot. 
 
-> To the unmarried and the widows I say that it is good for them to remain single, as I am. But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion. ([1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9))
+> “All things are lawful for me,” but not all things are helpful. “All things are lawful for me,” but I will not be dominated by anything. ([1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/))
 
-Going through 1 Corinthians myself for the first time has been a very interesting journey. Onwards we go. 
+> “All things are lawful,” but not all things are helpful. “All things are lawful,” but not all things build up. ([1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/))
+
+Paul's teachings here encourage Christians to truly be discerning about what they do. 

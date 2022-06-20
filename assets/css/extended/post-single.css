@@ -20,9 +20,10 @@
 .breadcrumbs {
     float: left;
     color: var(--primary);
-    font-size: 16px;
+    font-size: 12px;
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 10px;
 }
 
 .post-meta .i18n_list li {
@@ -38,8 +39,8 @@
 
 .post-content {
     color: var(--content);
-    font-size: 23px;
-    line-height: 130%;
+    font-size: 16px;
+    line-height: 150%;
 }
 
 .post-content h3,
@@ -52,30 +53,30 @@
 
 .post-content h1 {
     margin: 40px auto 16px;
-    font-size: 24px;
+    font-size: 150%;
     font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h2 {
     margin: 32px auto 16px;
-    font-size: 22px;
+    font-size: 140%;
     font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h3 {
-    font-size: 20px;
+    font-size: 130%;
 }
 
 .post-content h4 {
-    font-size: 18px;
+    font-size: 120%;
 }
 
 .post-content h5 {
-    font-size: 16px;
+    font-size: 110%;
 }
 
 .post-content h6 {
-    font-size: 14px;
+    font-size: 100%;
 }
 
 
@@ -89,6 +90,7 @@
     box-shadow: var(--link-underline-shadow);
     transition: var(--link-transition);
 }
+
 .post-content a:hover {
     color: var(--link-hover-color);
     box-shadow: var(--link-hover-underline-shadow);
@@ -97,6 +99,24 @@
     color: var(--primary);
     box-shadow: 0 2px 0 var(--secondary);
 }
+
+.post-meta a {
+    font-weight: 500;
+    color: var(--link-color);
+    box-shadow: var(--link-underline-shadow);
+    transition: var(--link-transition);
+}
+
+.post-meta a:hover {
+    color: var(--link-hover-color);
+    box-shadow: var(--link-hover-underline-shadow);
+}
+.post-meta a.anchor:hover {
+    color: var(--primary);
+    box-shadow: 0 2px 0 var(--secondary);
+}
+
+
 
 .post-content a code {
     margin: auto 0;
@@ -299,6 +319,7 @@
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
+    font-size: 16px;
 }
 
 .dark .toc {
@@ -431,12 +452,14 @@ h6:hover .anchor {
     margin: 10px 0;
     display: flex;
     line-height: 30px;
+    font-size: 16px;
     border-radius: var(--radius);
 }
 
 .paginav a {
     padding-inline-start: 14px;
     padding-inline-end: 14px;
+    padding-bottom: 5px;
     border-radius: var(--radius);
 }
 

@@ -1,9 +1,6 @@
 ---
-title: "Now"
-date: 2022-05-23T18:28:20+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +8,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -32,13 +28,14 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T18:28:20+10:00
+date: 2022-05-30T16:01:37+10:00
+title: "Complex Analysis"
+# description: ""
+tags: ["mathematics"]
+lastmod: 2022-06-20T11:25:37+10:00
+math: true
 ---
 
-This is a bucket of all of the things currently simmering away in my brain. 
+I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can't get mathjax to work yet lol. Update: 11 of June 2022 MATHS WORKS it's officially complex analysis time, my homies. Actually, I could probably write about slightly lower levels of maths first?? idk. At least maths works. \\(i^2 = -1\\). 
 
-- Moving out
-- University exams loom
-- Kids holiday program coming up! Best time of the year ngl
-- I've been paying too much attention to Queendom 2
-- This website
+\\[\underset{x\to\infty}{\lim} f(x) = \mathbb{BEANS}.\\]

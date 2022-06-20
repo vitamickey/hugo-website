@@ -3,21 +3,19 @@
 # aliases: ["/first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
-draft: true
-hidemeta: false
+# showToc: false
+# TocOpen: true
+# draft: true
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: false
-ShowPostNavLinks: true
+# searchHidden: true
+# ShowReadingTime: false
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: false
 ShowRssButtonInSectionTermList: true
 cover:
     image: "<image path/url>" # image path/url
@@ -29,10 +27,16 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "Statistics"
-date: 2022-05-25T10:49:14+10:00
-tags: ["statistics"]
-lastmod: 2022-05-25T10:49:14+10:00
+date: 2022-06-17T10:43:05+10:00
+title: "2 Corinthians"
+# description: ""
+tags: ["bible"]
+lastmod: 2022-06-17T10:43:05+10:00
+# math: true
 ---
 
-I study statistics.
+Notes: 
+
+- [Suffering produces faith](/suffering-produces-faith/)
+  - [2 Corinthians 1:8-11](https://esv.org/2Corinthians1:8-11)
+- 

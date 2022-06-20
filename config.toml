@@ -58,25 +58,22 @@ fontcode = 'Xanh Mono'
   iconHeight = 50
 
   [params.profileMode]
-  enabled = false
-  title = "Michaela Cheong"
-  subtitle = "I follow Jesus."
-  imageUrl = "img/cat-with-book.jpg"
+  enabled = true
+  title = "Michaela's Digital Garden"
+  subtitle = "I follow Jesus. Read [Welcome to my digital garden](/welcome/) first."
+  imageUrl = "img/logo_monogram_fancy.png"
   imageWidth = 120
   imageHeight = 120
-  imageTitle = "Cat reading a book"
+  imageTitle = "Site monogram"
 
     [[params.profileMode.buttons]]
     name = "Archive"
-    url = "archive/"
+    url = "archives/"
 
     [[params.profileMode.buttons]]
     name = "Tags"
     url = "tags/"
 
-  [params.homeInfoParams]
-  Title = "I am Michaela, and this is my digital garden."
-  Content = "A place to grow (in Christ)."
 
   [[params.socialIcons]]
   name = "github"
@@ -89,6 +86,10 @@ fontcode = 'Xanh Mono'
   [[params.socialIcons]]
   name = "spotify"
   url = "https://open.spotify.com/user/mrshmllow_micky?si=70da848a98c84a3e"
+
+  [[params.socialIcons]]
+  name = "pinterest"
+  url = "https://pin.it/4IU6Skz"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -106,7 +107,7 @@ SiteVerificationTag = "XYZabc"
 
   [params.editPost]
   URL = "https://github.com/vitamickey/digital-garden/tree/main/content"
-  Text = "Suggest changes to this post"
+  Text = "suggest changes to this post"
   appendFilePath = true
 
   [params.fuseOpts]

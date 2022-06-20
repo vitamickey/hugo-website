@@ -28,10 +28,10 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 date: 2022-06-10T09:31:18+10:00
-title: "We pray out loud to build up others"
+title: "Praying out loud builds up others"
 # description: ""
 tags: ["prayer"]
-lastmod: 2022-06-10T09:31:18+10:00
+lastmod: 2022-06-19T15:10:18+10:00
 # math: true
 ---
 

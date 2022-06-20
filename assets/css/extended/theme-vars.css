@@ -39,8 +39,8 @@
     --gap: 24px;
     --content-gap: 20px;
     --nav-width: 960px;
-    --main-width: 720px;
-    --post-width: 720px;
+    --main-width: 600px;
+    --post-width: 600px;
     --header-height: 60px;
     --footer-height: 80px;
     --radius: 7px;
@@ -51,8 +51,8 @@
     --tertiary: rgb(190, 196, 144);
     --content: rgb(43, 37, 34);
     --hljs-bg: rgb(41, 36, 39);
-    --code-bg: rgb(220, 224, 193);
-    --border: rgb(224, 226, 205);
+    --code-bg: rgb(221, 224, 193);
+    --border: rgb(216, 221, 182);
     --link-background-color: rgb(241, 241, 230);
     --link-color: rgb(14, 70, 88);
     --link-hover-color: rgb(147, 146, 76);
@@ -89,7 +89,7 @@
 }
 
 body, input, textarea {
-    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lora', Georgia, 'Times New Roman', Times, serif;
 }
 
 code {

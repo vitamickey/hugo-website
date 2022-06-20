@@ -27,16 +27,23 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-10T09:26:13+10:00
-title: "The Bible provides models for articualting responses to our situations"
+date: 2022-06-18T21:00:39+10:00
+title: "Getting Things Done"
 # description: ""
-tags: ["bible"]
-lastmod: 2022-06-10T09:26:13+10:00
+tags: ["productivity"]
+lastmod: 2022-06-18T21:00:39+10:00
 # math: true
 ---
 
-I get the feeling that this is kind of obvious, but I am talking about instances where I have read a passage and gone, "Wow, the way that the author talked about their emotions, thoughts, situation, etc. is something I would like to adapt into my life too." So, basically these are all from the epistles but whatevs. 
+When you have a foolproof system to track the things you need to do, your brain stops constantly reminding you, freeing you from stress and allowing you to better focus.
 
-From Youth camp, Romans 7:21-25. Models a response to our own sinful nature. 
-
-From personal reading, 4th of June, 1 Corinthians 15:10. Models talking about God's grace and work in us. 
+1. Write everything out
+2. Make it actionable
+    
+    physical/visible
+    
+3. Park it where it belongs
+4. Review frequently
+5. Just do it
+    
+    rinse and repeat
