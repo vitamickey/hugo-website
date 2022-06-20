@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
+# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -28,17 +29,14 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-05-28T09:33:07+10:00
-title: "Crucifixion is a form of public shame and humiliation"
-# description: ""
-tags: ["jesus"]
-lastmod: 2022-05-28T09:33:07+10:00
+title: "It is better to marry than to burn with passion"
+date: 2022-05-24T09:25:28+10:00
+tags: ["marriage", "personal", "bible", "relationships"]
+lastmod: 2022-05-24T09:25:28+10:00
 ---
 
-There are many ways people die, and many ways that death is made public within the confines of the law, depending on where you are in time and space. While Jesus was around, crucifixion, aside from being up there as one of the most painful forms of execution and death, was a public scene of shame and humiliation for whoever was hung upon a cross. There was a strong cultural and social element to it. It clicked a bit more. I now understand a bit more what it means when we say or sing about Jesus being mocked and scorned. 
+This was just an interesting verse from my bible reading today. 
 
----
+> To the unmarried and the widows I say that it is good for them to remain single, as I am. But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion. ([1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9))
 
-References
-
-Friday Youth talk on 27/05/2022, part of the series "The Scandal of the Gospel", lesson title "What does the death of Jesus mean for the world?".
+Going through 1 Corinthians myself for the first time has been a very interesting journey. Onwards we go. 

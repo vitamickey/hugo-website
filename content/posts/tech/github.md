@@ -31,7 +31,7 @@ cover:
 date: 2022-05-23T15:34:05+10:00
 title: "GitHub"
 # description: "Desc Text."
-tags: ["github", "coding", "technology"]
+tags: ["coding", "technology"]
 lastmod: 2022-05-26T10:01:05+10:00
 ---
 

@@ -1,26 +1,21 @@
 ---
-title: "To write"
-date: 2022-05-23T16:44:01+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["now"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
+# showToc: false
+# TocOpen: true
+# draft: true
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: false
-ShowPostNavLinks: true
+# searchHidden: true
+# ShowReadingTime: false
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: false
 ShowRssButtonInSectionTermList: true
 cover:
     image: "<image path/url>" # image path/url
@@ -32,7 +27,12 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-lastmod: 2022-05-23T23:44:01+10:00
+date: 2022-05-23T16:44:01+10:00
+title: "To write"
+description: "a list of things to get to writing"
+tags: ["meta"]
+lastmod: 2022-06-20T11:22:01+10:00
+math: true
 ---
 
 - Lots and lots of collecting all of my God-related thoughts that are randomly scribbled on paper which, while nice, are not easy to look back on sometimes
@@ -40,13 +40,13 @@ lastmod: 2022-05-23T23:44:01+10:00
 - The Gospel for beginners
 - The Bible for beginners
 - Quiet times??
-- Fonts, typography, favourite fonts
+- ~~Fonts, typography, favourite fonts~~
 - Mathematics, subjects I'm taking, transfer statistics knowledge onto digital garden maybe??
 - High school, reflections, why it sucked (i.e. having mental health but as a high achiever kinda sucked)
 - Music, instruments
 - Crochet, yarn and hook stuff
 - Anything from Notion that I sort of don't want in Notion anymore (I am a bit sick of Notion)
-- A rant about Notion
+- ~~A rant about Notion~~
 - Anki setup
 - The difficultiy I have in sticking to systems
 - Bullet journalling (Ryder Carroll basics)
@@ -57,3 +57,4 @@ lastmod: 2022-05-23T23:44:01+10:00
     - mental health issues
     - psychological disorders
     - intellectual disabilities
+- self-soothing toolkit

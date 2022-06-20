@@ -31,7 +31,7 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 title: "Hold all things loosely"
 date: 2022-05-24T09:23:39+10:00
-tags: ["corrie-ten-boom", "1-john", "church", "God", "possessions", "time", "1-corinthians", "personal", "bible"]
+tags: ["church", "God", "possessions", "time", "personal", "bible"]
 lastmod: 2022-05-24T09:23:39+10:00
 ---
 

@@ -3,7 +3,7 @@ title: "So, it began"
 date: 2022-05-23T15:04:25+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["first", "meta"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
