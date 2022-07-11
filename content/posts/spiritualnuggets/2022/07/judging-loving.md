@@ -27,20 +27,16 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-18T22:20:34+10:00
-title: "Tutoring"
+date: 2022-07-09T21:03:42+10:00
+title: "Balance judging with loving and don’t be a hypocrite??"
 # description: ""
-tags: ["education"]
-lastmod: 2022-06-18T22:20:34+10:00
+tags: ["untagged"]
+lastmod: 2022-07-09T21:03:42+10:00
 # math: true
 ---
 
-[Tips for tutors: 12 teaching strategies for effective learning - Tutorhub Blog](https://blog.tutorhub.com/2014/01/10/tips-for-tutors-12-teaching-strategies-for-effective-learning/amp-on/)
+https://www.desiringgod.org/articles/judge-not-that-you-may-judge-well
 
-[What Makes a Successful Tutor?](https://www.edutopia.org/blog/what-makes-a-successful-tutor-seth-linden)
+Mentor: if you come on too strong or judge them too harshly, they will just retreat from you and stop coming to you for advice. Avoid that. 
 
-[5 Qualities of a Good Tutor](https://www.schoolsuccess.ca/blog/5-qualities-of-a-good-tutor/)
-
-[15 Quick Tutor Tips | Academic Success Center | Iowa State University](https://www.asc.dso.iastate.edu/tutoring/currenttutor/quicktips)
-
-[10 Golden Rules for Being a Good Tutor](https://www.potsdam.edu/academics/resources/student-success-center/trio/tutoring/10-golden-rules-being-good-tutor)
+I think I’ve already done this. But I’m gonna try and lovingly reconcile this. 

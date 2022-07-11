@@ -30,7 +30,7 @@ cover:
 date: 2022-06-01T11:25:17+10:00
 title: "You should not force yourself to do schoolwork when you feel bleh."
 description: "A short guide to handling your education when life is falling apart around you."
-tags: ["mental-health", "education", "productivity"]
+tags: ["mental-health", "education", "productivity", "learning"]
 lastmod: 2022-06-01T11:25:17+10:00
 # math: true
 ---

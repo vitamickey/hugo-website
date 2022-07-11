@@ -27,26 +27,20 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T10:43:00+10:00
-title: "1 Corinthians"
+date: 2022-07-09T20:59:12+10:00
+title: "Personal lexicon"
 # description: ""
-tags: ["bible"]
-lastmod: 2022-06-17T10:43:00+10:00
+tags: ["untagged"]
+lastmod: 2022-07-09T20:59:12+10:00
 # math: true
 ---
 
+Fun words and things I might say and where they come from if I feel like adding that
 
-
-Notes:
-
-- [All things are lawful...](/all-things-are-lawful/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-  - [1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/)
-- [It is better to marry than to burn with passion](/better-to-marry/)
-  - [1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9)
-- [The Bible provides models for articulating responses to our situations](/bible-models-responses/)
-  - [1 Corinthians 15:10](https://esv.org/1Corinthians15:10)
-- [Hold all things loosely](/hold-loosely/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-- [We pray out loud to build up others](/pray-to-build-up/)
-  - 1 Corinthians 14
+- gesamtkunstwerk
+    - BDG pokerap
+- kino
+    - Ryan??
+- Juicy beef
+- Sneezing is not normal, I never sneeze
+- 

@@ -38,11 +38,11 @@ lastmod: 2022-06-15T13:47:20+10:00
 
 
 - Moving out
-    - Need to declutter
-- University exams are almost over thank goodness I can rest now
-- Kids holiday program coming up! A week of teaching kids about Jesus at church and having a blast while doing it. Best time of the year ngl
+    - Need to [declutter](/decluttering/)
+        - My room is a total mess
+- I finished my uni exams AND I'm really happy with my grdes
+- Almost over COVID
 - I have a boyfriend now! nice!
 - This website
 - EOFYS is coming up
     - I haven't ever lodged a tax return...
-- My room is a total mess

@@ -35,7 +35,7 @@ ShowCodeCopyButtons = false
 ShowWordCount = true
 disableSpecial1stPost = false
 disableScrollToTop = false
-comments = false
+comments = true
 hideMeta = false
 hideSearchMeta = true
 hideSummary = false
@@ -151,3 +151,12 @@ weight = 40
 
 [outputs]
 home = ["HTML","RSS","JSON"]
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+disqusShortname = 'michaelacheong'
+

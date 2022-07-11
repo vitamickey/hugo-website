@@ -8,7 +8,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,11 +30,22 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 title: "Moving out"
 date: 2022-05-24T12:07:51+10:00
+description: "I am moving out soon."
 tags: ["life"]
-lastmod: 2022-05-26T10:10:51+10:00
+lastmod: 2022-07-09T20:55:51+10:00
 ---
 
-I am moving out soon. Here are some helpful resources:
+
+
+
+# Cons of one room I visited
+
+- Room small for price (have found larger rooms for cheaper, not enough storage for me personally) and the food areas (kitchen, place for me to store my food) are quite small too
+- Kind of dark living areas? I would like a bit more natural light indoors, since I'd be spending a lot of time at home
+- Too overbearing of a landlord - seeking independence, but landlord was motherly in nature
+
+
+# Helpful resources
 
 - Queensland, Australia-based organisations
     - Residential Tenancies Authority | Students https://www.rta.qld.gov.au/before-renting/choosing-a-rental-property/students
@@ -44,11 +54,43 @@ I am moving out soon. Here are some helpful resources:
     - Legal Aid | Moving out https://www.legalaid.qld.gov.au/Find-legal-information/Relationships-and-children/Children-and-parenting/Moving-out
 - Australian resources
     - MoneySmart | Moving out of home https://moneysmart.gov.au/student-life-and-money/moving-out-of-home
-    - Zoom Removals | Epic House Moving Checklist https://www.zoomremovals.com.au/epic-moving-checklist/ (I am using this as a template)
+    - Zoom Removals | Epic House Moving Checklist https://www.zoomremovals.com.au/epic-moving-checklist/ *(I am using this as a template)*
     - Canstar | Moving house checklist: key considerations when moving https://www.canstar.com.au/home-loans/moving-house-checklist/
     - Luxo Living | Moving Out of the Family Home: The Ultimate Checklist https://www.luxoliving.com.au/blog/moving-out-of-the-family-home-the-ultimate-checklist
 
+# Back in December (2022-12-14)
 
+https://www.youtube.com/watch?v=xqdljMJPKs8
+- Plan and prepare! A lot!
+- Inspect multiple properties.
+- Lots of windows.
+- Pre-book deliveries.
+- Reach out to friends/family.
+- Bring speakers.
+- Look after yourself.
+
+## Nerdfighteria Discord Server advice
+- Spice/seasoning collection is necessary.
+- Figure out how to feed yourself.
+- Don't walk away when cooking.
+- "Everyone has a weird roommate, and sometimes that weird roommate is you".
+- Be dictatorial with cleaning.
+- Clean continuously.
+- Do together!
+- Make timelines if people are in charge of one area. Be reasonable.
+- Don't over-commit.
+
+> one of the things for me that created the most challenges in rooming situations was this: people come in and assume their manner and timeline of doing chores is the **right way**.
+> 
+> the time they leave dishes dirty is the right time.
+> 
+> the place they leave dirty dishes is the right place.
+> 
+> etc.
+
+> getting along with roommates means letting go of that self-righteousness, and working out mutually agreed upon standards of behavior (without acting like the ones you prefer are the *standard by which the others should be judged*). it is a very strong lesson in subjectivity 🤣
+
+# Packing list
 
 [Muval packing list](https://www.muval.com.au/blog/moving-essentials-everything-you-need-when-moving-out-of-home-for-the-first-time)
 

@@ -30,26 +30,26 @@ cover:
 date: 2022-06-17T16:13:49+10:00
 title: "Refold"
 description: "A language-learning roadmap."
-tags: ["language"]
+tags: ["language", "learning"]
 lastmod: 2022-06-17T16:13:49+10:00
 # math: true
 ---
 
 # To-do
 
-- [ ] Create TL language YouTube account.
-- [ ] Change SE language to French (and to Vietnamese later)
-- [ ] Create list of active immersion content and passive listening content
-- [ ] French
-        - [ ] Anything on Disney+
-            - [ ] GMW
-            - [ ] Every Disney Channel show?
-            - [ ] Every DCOM ever?
-        - [ ] YouTube
-            - [ ] Miraculous Ladybug
-        - [ ] Netflix
-            - [ ] LOTs of stuff has both French dub and sub
-        - [ ] Habitually update this every week (downloading audios and such)
+- Create TL language YouTube account.
+- Change SE language to French (and to Vietnamese later)
+- Create list of active immersion content and passive listening content
+- French
+        - Anything on Disney+
+            - GMW
+            - Every Disney Channel show?
+            - Every DCOM ever?
+        - YouTube
+            - Miraculous Ladybug
+        - Netflix
+            - LOTs of stuff has both French dub and sub
+        - Habitually update this every week (downloading audios and such)
 
 # Stage 0: Refold Philosophy
 
