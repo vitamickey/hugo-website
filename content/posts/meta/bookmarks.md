@@ -12,7 +12,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-# searchHidden: true
+searchHidden: true
 # ShowReadingTime: false
 # ShowBreadCrumbs: true
 # ShowPostNavLinks: false
@@ -27,26 +27,12 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T10:43:00+10:00
-title: "1 Corinthians"
-# description: ""
-tags: ["bible"]
-lastmod: 2022-06-17T10:43:00+10:00
+date: 2022-06-21T09:23:42+10:00
+title: "Bookmarks"
+description: "For my easy access"
+tags: ["reference"]
+lastmod: 2022-07-11T22:33:42+10:00
 # math: true
 ---
 
-
-
-Notes:
-
-- [All things are lawful...](/all-things-are-lawful/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-  - [1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/)
-- [It is better to marry than to burn with passion](/better-to-marry/)
-  - [1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9)
-- [The Bible provides models for articulating responses to our situations](/bible-models-responses/)
-  - [1 Corinthians 15:10](https://esv.org/1Corinthians15:10)
-- [Hold all things loosely](/hold-loosely/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-- [We pray out loud to build up others](/pray-to-build-up/)
-  - 1 Corinthians 14
+Rain radar http://www.bom.gov.au/products/IDR663.loop.shtml

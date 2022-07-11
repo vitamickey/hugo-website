@@ -153,6 +153,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
+    margin: 16px;
 }
 
 .post-content li {
@@ -221,9 +222,9 @@
     margin-inline-end: 0;
 }
 
-.post-content ul pre {
+/* .post-content ul pre {
     margin-inline-start: calc(var(--gap) * -2);
-}
+} */
 
 .post-content .highlight pre {
     margin: 0;
@@ -355,6 +356,10 @@
 
 .post-footer {
     margin-top: 56px;
+}
+
+.post-footer ul {
+    margin-left: 0px;
 }
 
 .post-tags li {

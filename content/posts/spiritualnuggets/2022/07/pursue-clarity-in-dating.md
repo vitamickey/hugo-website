@@ -27,26 +27,21 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T10:43:00+10:00
-title: "1 Corinthians"
+date: 2022-07-02T11:03:04+10:00
+title: "Pursue clarity in dating"
 # description: ""
-tags: ["bible"]
-lastmod: 2022-06-17T10:43:00+10:00
+tags: ["relationships"]
+lastmod: 2022-07-02T11:03:04+10:00
 # math: true
 ---
 
+Questions to ask:
+- What have you learned about each other lately — stories, habits, character traits?
+- How have you each grown in your relationship with Jesus since you started dating?
+- Are you both committed to abstaining from any form of sexual immorality?
+- What flags, if any, have others raised about your relationship?
+- What obstacles are keeping the two of you from getting married?
+- Are you each being driven by your own desires, or by God’s desires for you?
+- In what ways is your relationship different from non-Christian relationships?
 
-
-Notes:
-
-- [All things are lawful...](/all-things-are-lawful/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-  - [1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/)
-- [It is better to marry than to burn with passion](/better-to-marry/)
-  - [1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9)
-- [The Bible provides models for articulating responses to our situations](/bible-models-responses/)
-  - [1 Corinthians 15:10](https://esv.org/1Corinthians15:10)
-- [Hold all things loosely](/hold-loosely/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-- [We pray out loud to build up others](/pray-to-build-up/)
-  - 1 Corinthians 14
+Furhter: [Not Yet Married by Marshall Segal](https://www.desiringgod.org/books/not-yet-married) and [The Great Prize in Christian Dating by Marshall Segal](https://www.desiringgod.org/articles/the-great-prize-in-christian-dating)

@@ -31,7 +31,7 @@ date: 2022-06-15T13:48:30+10:00
 title: "Cosmetics"
 description: "A masterlist of everything I use on my face?"
 tags: ["cosmetics"]
-lastmod: 2022-06-15T13:48:30+10:00
+lastmod: 2022-07-09T20:33:30+10:00
 # math: true
 ---
 
@@ -73,15 +73,49 @@ Perhaps will contain a short blurb about my thoughts around the make-up category
 **No:**
 
 - Hynt Beauty Medium Tan. Used it a while ago and it worked for shade but not for texture as much. 
+- Rose Inc formula is appealing but they don't have my shade!!!
 
 **Maybe so:**
 
 - KVD Good Apple Concealer Medium 141. Haven’t purchased (only used sample) but is a perfect match for my skintone, a true olive leaning yellow. Probably will purchase during a year with a special occasion bc MONEY. 
 - Rare Beauty 230N is a touch grey for me but olive undertones are good. Might be too drying. 
-- Rose Inc? not sure what shade but it looks nice
 - Flower Beauty
 - Too Faced BTW
-- Kosas Revealer concealer (controversial due to expiry issues)
+- Kosas Revealer concealer in 5.5WO (perfect shade but controversial due to expiry issues)
+- LA Girl Pro concealer
+
+### Swatches
+
+{{< figure src="/img/cosmetics/concealer-mecca.jpg" alt="A hand covered in concealer swatches from Mecca" caption="Concealer swatches from Mecca" >}}
+
+L-R, top to bottom, except now that I am looking at this photo I don't think my swatches match my notes and I am so confused, and below is my sad attempt at matching my swatches. Anyway, my good matches are Kosas 5.5O (long swatch on left and small swatch bottom right), Ilia SC2.75 Wasabi (R4, bottom??), and nothing else really whoops. 
+
+- R1
+    - Kosas 5.5O
+- R2
+    - Morphe medium 14
+    - Jouer Crème brûlée
+    - Jouer honey 
+    - Rose Inc 090
+    - 
+- R3
+    - Mecca 310
+    - Mecca 270 NB 250 missing but might be better lightness
+    - Nars café con lèche over ginger
+    - Rose Inc 060 
+- R4 
+    - Ilia SC3 kava
+    - Ilia SC2.75 wasabi
+- R5
+    - Hourglass dune
+    - Shiseido 301
+    - TF Golden Beige
+- R6
+    - UD 50NN
+    - Shiseido 302
+    - BareMinerals light med 2.5W
+    - Laura Mercier 2.5W?????
+- Bottom right has that big splotch of RMS 33 and a small swipe of Kosas
 
 ## Foundation
 
@@ -147,6 +181,26 @@ I want BROWNS and reds. No pinky brown nonsense, no peaches. Anything slightly p
 - Kosas in like all the shades hahaha
 - Colourpop
     - Thousand Percent
+
+## Colour corrector
+
+### Green
+For me olive skin
+
+**Maybe so:** 
+
+- NYX Photogenic Concealer I cannot find it ANYWHERE in Australia tho
+- LA Girl Pro concealer
+- Literally nothing else??????
+
+### Peach
+For undereye colour correction. Beats buying two concealers!
+
+**Maybe so:** 
+
+- LA Girl Pro concealer
+- Uh the Pixi one??
+- Idk, they're all so expensive lol
 
 
 

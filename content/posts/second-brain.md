@@ -27,26 +27,21 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T10:43:00+10:00
-title: "1 Corinthians"
+date: 2022-07-09T21:30:24+10:00
+title: "Second brain"
 # description: ""
-tags: ["bible"]
-lastmod: 2022-06-17T10:43:00+10:00
+tags: ["productivity"]
+lastmod: 2022-07-09T21:30:24+10:00
 # math: true
 ---
 
+[How to Organise your Life - Building a Second Brain by Ali Adbaal](https://youtu.be/K-ssUVyfn5g)
 
+- Capture: note-taking systems. 
+    - Google Keep
+    - Bullet journal
+- Organise: "Where will I use this information?"
+- Distill: progressive summarisation, like highlighting on steroids?
+- Express: show your work
 
-Notes:
-
-- [All things are lawful...](/all-things-are-lawful/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-  - [1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/)
-- [It is better to marry than to burn with passion](/better-to-marry/)
-  - [1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9)
-- [The Bible provides models for articulating responses to our situations](/bible-models-responses/)
-  - [1 Corinthians 15:10](https://esv.org/1Corinthians15:10)
-- [Hold all things loosely](/hold-loosely/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-- [We pray out loud to build up others](/pray-to-build-up/)
-  - 1 Corinthians 14
+[this productivity system changed everything // how to build a second brain by Mariana's Corner](https://youtu.be/pBW-4w9zjC8)

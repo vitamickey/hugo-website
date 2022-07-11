@@ -70,6 +70,7 @@ There are websites that compile ethical brands in blog posts or lists, but it’
 
 - Britt's List: https://www.brittslist.com.au/, nice because it's based in Aus
 - Eco Warrior Princess: https://ecowarriorprincess.net/
+- Style Wise: https://stylewise-blog.com/
 
 You can always google "ethical swimwear brands in Australia", or replace this with other keywords, and you'll find various google articles to comb through.
 

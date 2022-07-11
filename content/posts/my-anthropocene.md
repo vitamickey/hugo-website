@@ -27,26 +27,37 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T10:43:00+10:00
-title: "1 Corinthians"
+date: 2022-07-09T20:57:27+10:00
+title: "my anthropocene"
 # description: ""
-tags: ["bible"]
-lastmod: 2022-06-17T10:43:00+10:00
+tags: ["untagged"]
+lastmod: 2022-07-09T20:57:27+10:00
 # math: true
 ---
 
+I want to write reviews much like mr John Green himself. This is a list of topics I could potentially write about
 
-
-Notes:
-
-- [All things are lawful...](/all-things-are-lawful/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-  - [1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/)
-- [It is better to marry than to burn with passion](/better-to-marry/)
-  - [1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9)
-- [The Bible provides models for articulating responses to our situations](/bible-models-responses/)
-  - [1 Corinthians 15:10](https://esv.org/1Corinthians15:10)
-- [Hold all things loosely](/hold-loosely/)
-  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
-- [We pray out loud to build up others](/pray-to-build-up/)
-  - 1 Corinthians 14
+- top-hat octopi
+- carbonated drinks
+- hi5 alien headband
+- acoustic guitars
+- rainbow lorikeets
+- mushrooms
+- swimming pools
+- 75cm-high desks
+- car dealerships
+- lemon lime and bitters
+- panoramas
+- pandemic (current)
+- reusable face masks
+- Dear sister
+- Wiggles World
+- The Bayeaux Tapestry
+- zigzag twisties
+- buses
+- Club Penguin
+- rose gold
+- illness
+- anonymity
+- Shrek 4
+- 
