@@ -8,7 +8,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -29,9 +28,12 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-title: "It is better to marry than to burn with passion"
 date: 2022-05-24T09:25:28+10:00
+title: "It is better to marry than to burn with passion"
+# description: "Desc Text."
 tags: ["marriage", "personal", "bible", "relationships"]
+series: ["qt-notes"]
+booksofbible: ["1-corinthians"]
 lastmod: 2022-05-24T09:25:28+10:00
 ---
 

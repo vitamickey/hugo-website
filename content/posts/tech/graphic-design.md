@@ -60,6 +60,7 @@ OH BOYYY I can display my fave fonts here and their respective merits okay, I'll
 - [Avara](https://velvetyne.fr/fonts/avara/) (using for headers on this website, a font that has no curves, only straight lines)
 - [Cantique](https://velvetyne.fr/fonts/cantique/)
 - [Wremena](https://typefaces.temporarystate.net/preview/Wremena)
+- [Junicode Bold Condensed](https://open-foundry.com/fonts/junicode_bold_condensed)
 
 ## Typefaces with a story in my life
 
@@ -70,7 +71,8 @@ OH BOYYY I can display my fave fonts here and their respective merits okay, I'll
 
 ## Other typefaces with a story
 
-- [Occlusion Grotesque](https://bjoernkarmann.dk/occlusion-grotesque), a typeface being made by a tree. 
+- [Occlusion Grotesque](https://bjoernkarmann.dk/occlusion-grotesque), a typeface being made by a tree.
+- [22/22](https://2222.seabellfoundry.com/), a collection of 22 fonts being released once at a time for free throughout end of 2022, or donate and receive all fonts released at time of donation.
 
 ## Where to get fonts (for free)
 

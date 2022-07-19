@@ -27,21 +27,30 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-07-09T21:30:24+10:00
-title: "Second brain"
-# description: ""
+date: 2022-07-15T10:53:43+10:00
+title: "Productivity system"
+description: "How I sort of keep my life together"
 tags: ["productivity"]
-lastmod: 2022-07-09T21:30:24+10:00
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-16T22:11:43+10:00
 # math: true
 ---
 
-[How to Organise your Life - Building a Second Brain by Ali Adbaal](https://youtu.be/K-ssUVyfn5g)
+I like this Harry Potter-themed breakdown.[^1]
 
-- Capture: note-taking systems. 
-    - Google Keep
-    - Bullet journal
-- Organise: "Where will I use this information?"
-- Distill: progressive summarisation, like highlighting on steroids?
-- Express: show your work
+- Ron-level (essentials)
+    - Calendar
+        - Gcal
+    - [Email mgmt](/email-mgmt/)
+        - Gmail
+    - To-do list
+        - Bullet journal
+        - Keep Notes
+        - Todoist
+    - File mgmt
+        - Gdrive
+- Hermione-level
+- Dumbledore-level
 
-[this productivity system changed everything // how to build a second brain by Mariana's Corner](https://youtu.be/pBW-4w9zjC8)
+[^1]: How to Build the Ultimate Productivity System (2022) by Ali Abdaal on [YouTube](https://www.youtube.com/watch?v=T6hmdrsLQj8)

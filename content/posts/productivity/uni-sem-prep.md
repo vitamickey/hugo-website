@@ -27,18 +27,47 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-05-23T18:28:20+10:00
-title: "Now"
-description: "All of the things currently simmering away in my brain. "
-tags: ["about","meta"]
-lastmod: 2022-07-16T20:59:20+10:00
+date: 2022-07-13T23:44:39+10:00
+title: "Uni sem prep"
+description: "What I do before each uni sem"
+tags: ["productivity"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-13T23:44:39+10:00
 # math: true
 ---
 
-- Moving out soon-ish?
-    - Need to declutter
-- I have a boyfriend now! nice!
-- This website
-- Need to do my taxes
-- My room is a total mess
-- I literally spent like my entire midyear holiday sick and uni start in a week's time... how are we here
+Select courses and enrol on sinet
+
+Timetable
+
+- Draft [UQ Planner](https://www.uqplanner.app/)
+- Preferences
+- Gcal update once released
+    - Regular classes
+    - Additional tutorial times in other cal
+
+Digital file mgmt
+
+- 
+
+Emails???
+
+- 
+
+Resource prep
+
+- 
+
+Mental prep
+
+- 
+
+
+When ECP gets posted
+
+- Assessment into calendar
+
+When BB gets released
+
+- Consultation times into calendar

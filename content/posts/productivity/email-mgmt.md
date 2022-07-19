@@ -27,18 +27,25 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-05-23T18:28:20+10:00
-title: "Now"
-description: "All of the things currently simmering away in my brain. "
-tags: ["about","meta"]
-lastmod: 2022-07-16T20:59:20+10:00
+date: 2022-07-15T10:33:23+10:00
+title: "Email management"
+description: "Because emails are AAA"
+tags: ["productivity", "technology"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-15T10:33:23+10:00
 # math: true
 ---
 
-- Moving out soon-ish?
-    - Need to declutter
-- I have a boyfriend now! nice!
-- This website
-- Need to do my taxes
-- My room is a total mess
-- I literally spent like my entire midyear holiday sick and uni start in a week's time... how are we here
+Tiago Forte - One touch to inbox zero[^1]
+
+- calendar
+- task manager, archive
+- note taking
+- read it later
+
+Forward everything to Gmail because its features are better.[^2]
+
+[^1]: One-Touch to Inbox Zero: How I Spend 17 Minutes Per Day on Email by Tiago Forte on [fortelabs.co](https://fortelabs.co/blog/one-touch-to-inbox-zero/)[^2]
+
+[^2]: How to Build the Ultimate Productivity System (2022) by Ali Abdaal on [YouTube](https://www.youtube.com/watch?v=T6hmdrsLQj8)

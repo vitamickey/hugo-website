@@ -32,6 +32,8 @@ date: 2022-05-28T09:32:44+10:00
 title: "All things are lawful..."
 description: "but..."
 tags: ["bible"]
+series: ["qt-notes"]
+booksofbible: ["1-corinthians"]
 lastmod: 2022-05-28T09:32:44+10:00
 ---
 

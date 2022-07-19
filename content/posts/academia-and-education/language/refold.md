@@ -30,8 +30,8 @@ cover:
 date: 2022-06-17T16:13:49+10:00
 title: "Refold"
 description: "A language-learning roadmap."
-tags: ["language", "learning"]
-lastmod: 2022-06-17T16:13:49+10:00
+tags: ["language"]
+lastmod: 2022-07-11T23:54:49+10:00
 # math: true
 ---
 

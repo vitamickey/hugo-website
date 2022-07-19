@@ -27,18 +27,14 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-05-23T18:28:20+10:00
-title: "Now"
-description: "All of the things currently simmering away in my brain. "
-tags: ["about","meta"]
-lastmod: 2022-07-16T20:59:20+10:00
+date: 2022-07-13T22:59:25+10:00
+title: "Don't make a liar of God"
+# description: ""
+tags: ["untagged"]
+series: ["sermon-notes", "connect-group"]
+bookofbible: ["1-john"]
+lastmod: 2022-07-13T22:59:25+10:00
 # math: true
 ---
 
-- Moving out soon-ish?
-    - Need to declutter
-- I have a boyfriend now! nice!
-- This website
-- Need to do my taxes
-- My room is a total mess
-- I literally spent like my entire midyear holiday sick and uni start in a week's time... how are we here
+If you continue sinning when you proclaim to have faith, you make God a liar. And you make yourself a liar too, but that kind of pales in comparison to making God a liar. 

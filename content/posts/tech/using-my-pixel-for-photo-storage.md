@@ -27,18 +27,20 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-05-23T18:28:20+10:00
-title: "Now"
-description: "All of the things currently simmering away in my brain. "
-tags: ["about","meta"]
-lastmod: 2022-07-16T20:59:20+10:00
+date: 2022-07-16T21:52:33+10:00
+title: "Using my Pixel for photo storage"
+description: "because google pixels offer unlimited storage saver for photos"
+tags: ["technology"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-16T21:52:33+10:00
 # math: true
 ---
 
-- Moving out soon-ish?
-    - Need to declutter
-- I have a boyfriend now! nice!
-- This website
-- Need to do my taxes
-- My room is a total mess
-- I literally spent like my entire midyear holiday sick and uni start in a week's time... how are we here
+taking advantage of the system = capitalism?
+
+# System (draft)
+
+- plug both devices into laptop
+- manually move all recent images to google photos
+- backup and sync forever = profit

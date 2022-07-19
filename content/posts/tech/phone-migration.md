@@ -27,18 +27,15 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-05-23T18:28:20+10:00
-title: "Now"
-description: "All of the things currently simmering away in my brain. "
-tags: ["about","meta"]
-lastmod: 2022-07-16T20:59:20+10:00
+date: 2022-07-16T21:50:36+10:00
+title: "Phone migration"
+description: "Android birds moving south during the winter to the warm embrace of an eye phone"
+tags: ["technology"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-16T21:50:36+10:00
 # math: true
 ---
 
-- Moving out soon-ish?
-    - Need to declutter
-- I have a boyfriend now! nice!
-- This website
-- Need to do my taxes
-- My room is a total mess
-- I literally spent like my entire midyear holiday sick and uni start in a week's time... how are we here
+my google pixel 3a, the poor thing, touchscreen is incredibly unreliable as of late. My aunt is gifting me my cousin's iPhone XR (pronounced "ten R", and not "ecks R" as I have been saying), so, I'm jumping ship, much to my chagrin. 
+

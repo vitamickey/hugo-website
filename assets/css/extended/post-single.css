@@ -142,7 +142,7 @@
     background: linear-gradient(to right, var(--primary) 100%, transparent 0) 0 50%/1px 1px repeat-x;
 }
 
-.post-content dl,
+/* .post-content dl,
 .post-content ol,
 .post-content p,
 .post-content figure,
@@ -156,12 +156,28 @@
     margin: 16px;
 }
 
+*/
+
+.post-content dl,
+.post-content p,
+.post-content figure {
+    margin-top: var(--content-gap);
+    margin-bottom: var(--content-gap);
+}
+
+.post-content ol,
+.post-content ul {
+    padding-left: 40px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
 .post-content li {
-    margin-top: 5px;
+    margin-top: 8px;
 }
 
 .post-content li p {
-    margin-bottom: 0;
+    margin-bottom: -16px;
 }
 
 .post-content dl {
@@ -222,9 +238,9 @@
     margin-inline-end: 0;
 }
 
-/* .post-content ul pre {
+.post-content ul pre {
     margin-inline-start: calc(var(--gap) * -2);
-} */
+}
 
 .post-content .highlight pre {
     margin: 0;
