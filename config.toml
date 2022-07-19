@@ -35,7 +35,7 @@ ShowCodeCopyButtons = false
 ShowWordCount = true
 disableSpecial1stPost = false
 disableScrollToTop = false
-comments = true
+comments = false
 hideMeta = false
 hideSearchMeta = true
 hideSummary = false
@@ -46,22 +46,22 @@ fontbody = 'EB Garamond'
 fontcode = 'Xanh Mono'
 
   [params.assets]
-  favicon = "img/favicon.ico"
-  favicon16x16 = "img/favicon-16x16.png"
-  favicon32x32 = "img/favicon-32x32.png"
-  apple_touch_icon = "img/apple-touch-icon.png"
-  safari_pinned_tab = "img/apple-touch-icon.png"
+  favicon = "img/meta/favicon.ico"
+  favicon16x16 = "img/meta/favicon-16x16.png"
+  favicon32x32 = "img/meta/favicon-32x32.png"
+  apple_touch_icon = "img/meta/apple-touch-icon.png"
+  safari_pinned_tab = "img/meta/apple-touch-icon.png"
 
   [params.label]
   text = "Home"
-  icon = "img/apple-touch-icon.png"
+  icon = "img/meta/apple-touch-icon.png"
   iconHeight = 50
 
   [params.profileMode]
   enabled = true
   title = "Michaela's Digital Garden"
   subtitle = "I follow Jesus. Read [Welcome to my digital garden](/welcome/) first."
-  imageUrl = "img/logo_monogram_fancy.png"
+  imageUrl = "img/meta/logo-2048-monogram-fancy.png"
   imageWidth = 120
   imageHeight = 120
   imageTitle = "Site monogram"
@@ -123,7 +123,7 @@ SiteVerificationTag = "XYZabc"
 category = "categories"
 tag = "tags"
 series = "series"
-
+bookofbible = "booksofbible"
 
 [[menu.main]]
 identifier = "nowmenu"
@@ -151,12 +151,3 @@ weight = 40
 
 [outputs]
 home = ["HTML","RSS","JSON"]
-
-[markup]
-  defaultMarkdownHandler = 'goldmark'
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-disqusShortname = 'michaelacheong'
-

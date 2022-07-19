@@ -31,7 +31,7 @@ date: 2022-06-17T16:13:54+10:00
 title: "Vietnamese"
 # description: ""
 tags: ["language"]
-lastmod: 2022-07-09T21:09:54+10:00
+lastmod: 2022-06-17T16:13:54+10:00
 # math: true
 ---
 
@@ -54,7 +54,7 @@ I don't know where these question prompts were from but I think they were from [
     - Anki
     - Revise alphabet/pronunciation
 
-The following question prompts were from [how to make the best language learning plan | notion templates by anna lenks](https://www.youtube.com/watch?v=D5PagP6svfg&t=344s).
+The following question prompts were from [how to make the best language learning plan | notion templates | AD by anna lenks](https://www.youtube.com/watch?v=D5PagP6svfg&t=344s).
 
 - What languages do you want to learn?
     - Vietnamese
@@ -77,63 +77,61 @@ The following question prompts were from [how to make the best language learning
 
 ### A1: Active Immersion
 
-More here: https://www.reddit.com/r/Vietnamese/comments/lvxjb4/list_of_channels_shows_to_learn_southern/
-
-- YouTube
-    - Doremon
-    - Peppa Pig
-    - The Smurfs
-        - [https://youtu.be/pLEjVFzglRM](https://youtu.be/pLEjVFzglRM) smurfs from [VSL Discord message](https://discord.com/channels/701655793119789076/701868454168494100/900966631306588170)
-- Netflix [https://www.netflix.com/browse/audio/vi](https://www.netflix.com/browse/audio/vi)
-    - Confirmed Southern dialect dub
-        - Alexa and Katie
+- [ ] YouTube
+    - [ ] Doremon
+    - [ ] Peppa Pig
+    - [ ] The Smurfs
+        - [ ] [https://youtu.be/pLEjVFzglRM](https://youtu.be/pLEjVFzglRM) smurfs from [VSL Discord message](https://discord.com/channels/701655793119789076/701868454168494100/900966631306588170)
+- [ ] Netflix [https://www.netflix.com/browse/audio/vi](https://www.netflix.com/browse/audio/vi)
+    - [ ] Confirmed Southern dialect dub
+        - [ ] Alexa and Katie
     - Unconfirmed dialect dub
-        - Julie and the Phantoms
-        - Waffles + Mochi
-        - Wish Dragon
-        - Only Yesterday
-        - Studio Ghibli
-        - Rise of the Guardians
-        - Jurassic World
-        - The Last Kids on Earth
-        - Flushed Away
-        - The School Nurse Files
-        - Team Kaylie
-        - A World Without
-        - Pokemon
-        - So Not Worth It
-        - Furie
-        - The Mitchells vs The Machines
-        - A Week Away
-        - Feel the Beat
-        - Double Dad
-        - The Smurfs
-        - Spongebob movie
-        - My Neighbours the Yamadas
-        - Move to Heaven
+        - [ ] Julie and the Phantoms
+        - [ ] Waffles + Mochi
+        - [ ] Wish Dragon
+        - [ ] Only Yesterday
+        - [ ] Studio Ghibli
+        - [ ] Rise of the Guardians
+        - [ ] Jurassic World
+        - [ ] The Last Kids on Earth
+        - [ ] Flushed Away
+        - [ ] The School Nurse Files
+        - [ ] Team Kaylie
+        - [ ] A World Without
+        - [ ] Pokemon
+        - [ ] So Not Worth It
+        - [ ] Furie
+        - [ ] The Mitchells vs The Machines
+        - [ ] A Week Away
+        - [ ] Feel the Beat
+        - [ ] Double Dad
+        - [ ] The Smurfs
+        - [ ] Spongebob movie
+        - [ ] My Neighbours the Yamadas
+        - [ ] Move to Heaven
     - Northern dialect dub
     - Unconfirmed dialect sub K-drama
-        - Our Beloved Summer
-        - Start Up
-        - Nevertheless
-        - Desc of the Sun
-        - A Love So Beautiful
-        - Hospital Playlist
-        - Reply 1988
-        - Meteor Garden
-        - Itaewon Class
-        - Boys Over Flowers
-        - My ID is Gangnam Beauty
-        - Tale of the Ninetailed
-        - Legend of the Blue Sea
+        - [ ] Our Beloved Summer
+        - [ ] Start Up
+        - [ ] Nevertheless
+        - [ ] Desc of the Sun
+        - [ ] A Love So Beautiful
+        - [ ] Hospital Playlist
+        - [ ] Reply 1988
+        - [ ] Meteor Garden
+        - [ ] Itaewon Class
+        - [ ] Boys Over Flowers
+        - [ ] My ID is Gangnam Beauty
+        - [ ] Tale of the Ninetailed
+        - [ ] Legend of the Blue Sea
 
 
 ### A2: Passive Listening
 
 - REDUCE FRICTION
-- Download audio from Netflix shows weekly? To listen to
-- Download Spotify podcasts
-- FSI (see Refold gdoc)
+- [ ] Download audio from Netflix shows weekly? To listen to
+- [ ] Download Spotify podcasts
+- [ ] FSI (see Refold gdoc)
 
 
 ### A3: Anki Setup

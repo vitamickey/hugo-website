@@ -29,9 +29,9 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 date: 2022-07-07T11:47:21+10:00
 title: "Personal style"
-# description: ""
+description: "Fashion for passion."
 tags: ["fashion"]
-lastmod: 2022-07-09T19:51:21+10:00
+lastmod: 2022-07-13T22:05:21+10:00
 # math: true
 ---
 
@@ -142,6 +142,7 @@ I know I like certain cuts of clothing, and I don't like others
     - turtleneck
     - mock neck
 - exposing my waist or too much thigh
+- linen :sob:
 
 # Knowing what you want
 
@@ -153,6 +154,33 @@ Like, I want my style to be a certain way.
 - easy
 - poppin
 
+## Style priorities
+
+Suggested by Body and Style. Video: [How to Stop Buying Trends + Find Your Style | from a stylist](https://www.youtube.com/watch?v=gzmPZU1VojA). Pinterest board: [Style Priorities, Collection by Body & Style](https://www.pinterest.co.uk/ejbodyandstyle/style-priorities/)
+
+- style priority = message you want to send to the world with your clothes, i.e. how you want to come across
+
+1. Choose 4 priorities
+    - you can break down these too
+2. Dissect that style
+    - write all elements, regardless of your personal preference for them
+    - eg. edgy = chains, leather, metal, lace, black, etc.
+3. Combine elements to find your perfect clothes 
+    - combine details from across the list
+
+- Take body type and colour season into account? eg. romantic body type should take into account romantic elements. 
+- Don't create a mishmash of different elements: create harmony.
+
+### Doing the method
+
+1. Priorities
+    - Academic
+    - Retro/60s/70s
+    - Elegant/clean/minimal
+    - (Currently very) Sporty
+    - (Mayyybe) Girl next door/cosy/cute/comfy
+2. 
+
 ## Aesthetics uwu
 
 Just using pinterest and seeing what sticks LOL. Brings me back to tumblr. Are you a bruh girl or a hi girl?? Also see [Cozy Rebekah](https://cozyrebekah.com/)
@@ -161,6 +189,18 @@ Just using pinterest and seeing what sticks LOL. Brings me back to tumblr. Are y
 - Parisian
 - fairycore
 - cottagecore?
+
+## Essences
+
+- Dramatic
+- Natural
+- Gamine
+- Classic
+- Romantic
+- Ingenue (technically scrubbed by Kibbe)
+- Angelic/ethereal
+
+I am not dramatic or natural. I think I am ingenue? Classic? Romantic?
 
 ## TRends?
 
@@ -187,3 +227,100 @@ So, I guess there are three aspects:
 And your personal style falls somewhere in the middle of these three things. 
 
 In the end, WEAR WHATEVER U WANT. 
+
+# Another style theory: Style Roots
+
+A style theory by Body and Style (by Ellie Jean) discovered by me on 2022-07-13. Video 1: [find your unique style | Style Roots QUIZ + body types](https://www.youtube.com/watch?v=006VtHFUwJI). Video 2: [Combine Your Aesthetics + Find Your Style | STYLE ROOTS P2](https://www.youtube.com/watch?v=ly_jxc9_Kno).
+
+- refreshing take!
+- gives one the option to incorporate personal taste into determining the theory
+    - other theories above can impose "correct" ways to dress
+- one can "create an effect" by breaking away from what other theories tell you is best to achieve a certain look (creating/reducing contrast between what is harmonious for your colouring, body, etc.)
+- basically, 
+    - take quiz
+    - choose top 3 answers from quiz (in order of priority))
+    - identify main roots based on top three answers/general preference (three, in order of priority)
+
+## Quiz
+
+CHOOSE 1
+
+- sensual or **modest**
+- **dark** or light
+- carefree or **on top of things** (i kinda wanna be carefree tho)
+- strong or **delicate** (i can't pick)
+- experimental or **timeless** (but I like both of these too LOL)
+
+TOP 3
+
+- dark
+- modest
+- ??
+
+## Types!
+
+| ROOT | quiz | descriptors | 
+| :----: | :----: | :----: |
+| MOON | dark, strong, carefree, sensual | dark, gothic, edgy, provocative |
+| FLOWER | light, delicate, modest | delicate, pretty, sweet, cute |
+
+MOON: dark, gothic, edgy, provocative
+
+- dark
+- strong
+- carefree
+- sensual
+
+FLOWER: delicate, pretty, sweet, cute
+
+- light
+- delicate
+- modest
+
+FIRE: sensual, glamorous, luxurious
+
+- sensual
+- carefree
+- delicate
+
+EARTH: natural, earthy
+
+- part of dark academia?
+
+- carefree
+- delicate
+- experimental
+
+MOUNTAIN: strong, powerful, on top of things
+
+- on top of things
+- strong
+- timeless
+- modest
+
+MUSHROOM: elegant, classic, timeless
+
+- on top of things
+- delicate
+- timeless
+- modest
+
+STONE: relaxed, carefree, comfortable
+
+- modest
+- carefree
+- timeless
+- strong
+
+SUN: creative, wild, bold
+
+- elegant clothing with quirky undertones: the undertone is SUN
+
+- experimental
+- light
+- carefree
+
+## My mix?
+
+mushroom, stone, fire
+

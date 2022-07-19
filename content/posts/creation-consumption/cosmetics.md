@@ -31,7 +31,7 @@ date: 2022-06-15T13:48:30+10:00
 title: "Cosmetics"
 description: "A masterlist of everything I use on my face?"
 tags: ["cosmetics"]
-lastmod: 2022-07-09T20:33:30+10:00
+lastmod: 2022-07-15T15:54:30+10:00
 # math: true
 ---
 
@@ -127,7 +127,7 @@ L-R, top to bottom, except now that I am looking at this photo I don't think my 
 
 - tbh have not used a standout foundation that I would repurchase. 
 
-**No:** has not worked for me
+**No:** 
 
 - Colourpop Pretty Fresh Tinted Moisturiser in 12w. Probably needed the shade up, but like it did work, since the coverage is light-medium.
 - Kjaer Weis in Illusion. Too orange? Which is annoying bc it’s supposed to have olive undertones. Idk, like, I got away with it, but it really is quite orange on me, and a tad dark. 
@@ -203,4 +203,65 @@ For undereye colour correction. Beats buying two concealers!
 - Idk, they're all so expensive lol
 
 
+## Eyeshadow
 
+**Yes:** 
+
+The autumn-toned, dark matte-heavy palette of my dreams, I present thee with my Colour Build Your Own Palette. I haven't used it yet but I am excited to. More swatches on [Imgur](https://imgur.com/a/9gByxDe). 
+
+| Palette | Swatches | Shiny |
+| :----: | :----: | :----: |
+| ![palette-direct-sunlight](/img/art/1-palette-direct-sunlight.jpg)  |  ![swatches-direct-sunlight](/img/art/3-swatches-direct-sunlight.jpg)  |  ![unswatches-direct-sunlight](/img/art/6-unswatches-direct-sunlight.jpg)  |
+
+Row 1
+
+- The Good Life (metallic dazzling green gold)
+- Archer (matte nude, very peachy on my skintone)
+- Free to Roam (matte deep terracotta)
+- 0 to 100 (matte deep brown red hue)
+
+Row 2
+
+- Tea Garden (duochrome red with a green gold flip)
+- Bel Air (matte cool taupe, looks similar to Archer here but is definitely cooler in tone)
+- Fur (matte saddle brown)
+- Feathered (matte rich chocolate brown)
+
+Row 3
+
+- Wishful Winking (metallic teal with an eggplant duochrome flip, SO pretty wow)
+- Trust Me (matte dusty army green)
+- I C U (matte purple brown)
+- Cloud Nine (matte plummy brown)
+
+I also use 
+
+- e.l.f. Bite Size in Truffle?
+- Tarte tarteist PRO to go palette
+
+**No:** 
+
+I generally dislike when a palette has too many light matte shades (like, lighter than my skintone), and too many shimmer/metallic shades, since I gravitate towards matte shades. Most palettes either lean too purple or too orange. I just want brown, red, green. I like purple, but a lot of palettes are just too purple/mauve-y. 
+
+- Too Faced Chocolate Bar
+    - nice shades but too many I didn't use
+- Juvia's Place The Nubian
+    - too orange
+- 3CE Overtake
+    - too pink, but still some really nice shades
+    - made me realise I like dark maroon/wine sheered out
+- Colourpop Nude Mood
+    - too pink, LITERALLY A 3CE IN OVERTAKE DUPE but no one talks about it. Wake up ppl
+- Colourpop Give It To Me Straight
+    - too purple/pink and too many shiny shades
+- Smashbox Cover Shot Eyeshadow Palette Golden Hour
+    - too shimmery, too much of those pale mattes
+- Ciaté London Chloe Morello Pretty, Fun & Fearless Palette
+    - too purple, too many light shades
+
+**Maybe so:** 
+
+- Chi Chi Cosmetics Lady Entrepreneur
+- Viseart Dark Mattes
+- Lethal Cosmetics singles
+- Eccentric Cosmetics singles

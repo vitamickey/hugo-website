@@ -29,8 +29,10 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 date: 2022-06-17T10:43:05+10:00
 title: "2 Corinthians"
-# description: ""
+description: "The 47th book of the Bible."
 tags: ["bible"]
+series: ["book-of-bible-overview"]
+booksofbible: ["2-corinthians"]
 lastmod: 2022-06-17T10:43:05+10:00
 # math: true
 ---
