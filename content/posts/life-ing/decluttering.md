@@ -38,8 +38,8 @@ lastmod: 2022-07-07T10:49:13+10:00
 
 # 6 things you should get rid of by Jenny Mustard
 
-https://youtu.be/i0mmVVVpAAg
-Things you don’t need, don't love. 
+<https://youtu.be/i0mmVVVpAAg>
+Things you don’t need, don't love.
 
 1. Maybe one day
 2. Just in case
@@ -47,8 +47,6 @@ Things you don’t need, don't love.
 4. 'For now' (that we will use until we find or can afford the better version)
 5. 'I should' (tools for improvement that make you feel bad about yourself)
 6. 'If only' (we quit our jobs, but a nice house,…)
-
-
 
 # Process/System
 
@@ -58,7 +56,7 @@ Things you don’t need, don't love.
 - No need to be anxious about clothing
 - Someone may benefit from your possessions more than you would[^1]
 - Do everything for God's glory
-    - If you had to give an account to God for every item you own, what would God think?
+  - If you had to give an account to God for every item you own, what would God think?
 - Free up yourself to serve others more?
 - Simplicity
 
@@ -79,6 +77,7 @@ Things you don’t need, don't love.
 5. Fold each item you'll keep and give it a specific place (drawer, wardrobe shelf, wardrobe hanger) to live
 
 At the end, write down:
+
 - Which clothes were thrown out and why?
 - Which clothes were kept and why?
 
@@ -94,29 +93,29 @@ At the end, write down:
 
 - tops (for folding)
 - bottoms (jeans, pants, skirts, etc.)
-    - pants
-    - shorts
-    - skirts
+  - pants
+  - shorts
+  - skirts
 - clothes to be hung (outerwear, dresses, etc.)
-    - dresses
-    - outerwear
+  - dresses
+  - outerwear
 - pj's
-    - sleepwear/loungewear
+  - sleepwear/loungewear
 - undergarments (socks, underwear, bras, thermals etc.)
-    - socks
-    - stockings, tights
-    - thermals
-    - underwear
-    - bras
+  - socks
+  - stockings, tights
+  - thermals
+  - underwear
+  - bras
 - bags
-    - backpacks
-    - purses
-    - that collection of plastic bags
+  - backpacks
+  - purses
+  - that collection of plastic bags
 - extra items (scarves, belts, hats, etc.)
 - clothes for specific events (old shirts from specific programs, togs, uniforms, etc.)
-    - activewear
-    - swimwear
-    - uniforms
+  - activewear
+  - swimwear
+  - uniforms
 - jewellery and accessories
 - shoes
 
@@ -129,6 +128,7 @@ At the end, write down:
 5. Put the books from the "keep" pile back, neatly, in their original place
 
 At the end, write down:
+
 - Which books were discarded and why?
 - Which books were kept and why?
 
@@ -153,10 +153,11 @@ At the end, write down:
 5. Discard the unwanted papers
 
 At the end, write down:
+
 - Which papers were discarded and why?
 - Which papers were kept and why?
 
-#### Categories of papers 
+#### Categories of papers
 
 1. Category one: Needs attention. These are documents that need to be looked at in a matter of hours or days - like a rental tenancy agreement form that needs to be signed.
 2. Category two: Are needed for the short-term. These are documents that need to be looked at again, but not immediately. An example would be a birthday card you need to write and send in the next two weeks.
@@ -169,6 +170,7 @@ At the end, write down:
 3. Choose a location for the organized papers to go
 
 At the end, write down:
+
 - Where was the first category of papers put?
 - Where was the second category of papers put?
 - Where was the third category of papers put?
@@ -182,6 +184,7 @@ At the end, write down:
 5. Discard the Komono items which aren't needed anymore~~, or don't bring joy~~
 
 At the end, write down:
+
 - Which misc. items were discarded and why?
 - Which misc. items were kept and why?
 
@@ -194,25 +197,27 @@ At the end, write down:
 5. Discard the sentimental items
 
 At the end, write down:
+
 - Which sentimental items were discarded and why?
 - Which sentimental items were kept and why?
 
 ## Maintain
 
 ### Changing Your Habits
+
 - Only buy things you really need. And when you need something new, make sure it’s something you love.[^2]
 - Discard things that have served their purpose but are no longer loved on a regular basis. If you are doing the laundry and realize a piece of clothing is no longer suitable or enjoyable to wear, go ahead and put it into a donation box right away.[^2]
 - Make a habit of going through your clothes each season and discard those things you haven’t worn.[^2]
 - When you make a purchase, designate a place for that new item when you get home. Don’t set it down and think about it later. Do it right away.[^2]
-- Put things back as soon as you've used them. 
+- Put things back as soon as you've used them.
 
 # Actual thoughts
 
-I REALLY HAVE TOO MUCH STUFF. I know this. There are so many things I think about r.e. my belongings. 
+I REALLY HAVE TOO MUCH STUFF. I know this. There are so many things I think about r.e. my belongings.
 
-How much should I care about the things I have? I wish to [hold all things loosely](/hold-loosely/), but then at a point I feel like I would just store things up without caring whether I am in possession of them or not. 
+How much should I care about the things I have? I wish to [hold all things loosely](/hold-loosely/), but then at a point I feel like I would just store things up without caring whether I am in possession of them or not.
 
-Mari Kondo has nice principles specifcally about the order in which you should declutter, i.e. I like her system, but I do not like her criteria for what should be kept vs. removed, nor do I like the Eastern spiritual elements of her practice. "What sparks joy" is a bit of a weird criteria if Christians are supposed to really find ultimate joy in God. I think we can delight in the things we own, but if we derive our joy from them, that's prob bad. 
+Mari Kondo has nice principles specifcally about the order in which you should declutter, i.e. I like her system, but I do not like her criteria for what should be kept vs. removed, nor do I like the Eastern spiritual elements of her practice. "What sparks joy" is a bit of a weird criteria if Christians are supposed to really find ultimate joy in God. I think we can delight in the things we own, but if we derive our joy from them, that's prob bad.
 
 There is this blog post I don't fully agree with for the "items shouldn't spark joy" reason.[^2]
 
@@ -220,7 +225,7 @@ There is this blog post I don't fully agree with for the "items shouldn't spark 
 
 References
 
-Main list from https://www.process.st/checklist/konmari-checklist/
+Main list from <https://www.process.st/checklist/konmari-checklist/>
 
-[^1] https://unconformedkitchen.com/spring-cleaning-5-decluttering-tips-for-the-christian-whos-overwhelmed-with-stuff
-[^2] https://avirtuouswoman.org/should-christians-use-the-konmari-method/
+[^1]: https://unconformedkitchen.com/spring-cleaning-5-decluttering-tips-for-the-christian-whos-overwhelmed-with-stuff
+[^2]: https://avirtuouswoman.org/should-christians-use-the-konmari-method/

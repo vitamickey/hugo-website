@@ -27,36 +27,31 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-07-09T21:37:56+10:00
-title: "Introduction to the Bible"
-# description: ""
-tags: ["theology"]
-series: ["intro-to-bible-mtc"]
-lastmod: 2022-07-09T21:37:56+10:00
+date: 2022-07-21T21:34:53+10:00
+title: "Emotional systems"
+description: "Ways the brain regulates our emotions"
+tags: ["psychology"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-21T21:34:53+10:00
 # math: true
 ---
 
-A course by Moore Theological College, but I'm going through a version with my mentor.
+Sources: my counsellor (I think first mention was some time in Nov 2021) and https://mi-psych.com.au/your-brains-3-emotion-regulation-systems/ and this is a cool pdf https://www.mindfulpath.com.au/application/files/5115/6583/0031/The_three_emotional_systems.pdf
 
-## Study 1: The Book of Books
+# Three systems
 
-**Before you begin...**
-
-Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It's just, so much good instruction about living life for Christ.
-
-### 1. What is the Bible?
-
-- library of books
-  - 39 OT
-  - 27 NT
-- time
-
-### 2. What is the Bible's message?
-
-### 3. What are the main divisions in the Bible?
-
-#### 3.1 The New Testament
-
-#### 3.2 The Old Testament
-
-### 4. What does the Bible claim about itself?
+- Threat
+    - Responses to perceived threats
+    - Can be overly active
+        - Enter: anxiety lol
+    - Lots of neg emotions: anger, fear, disgust, sadness
+- Drive
+    - We spend a lot of time here
+    - Taking action, heading towards goals
+    - Hustle mode
+- Soothe
+    - Safety, comfort, ease, warmth, affection, care
+    - Moderates the other two if they're running wild
+    - IMPORTANT
+    - We neglect this

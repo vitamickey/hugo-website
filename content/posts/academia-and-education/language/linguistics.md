@@ -1,16 +1,16 @@
 ---
-# weight: 1
-# aliases: ["/first"]
+## weight: 1
+## aliases: ["/first"]
 author: "Me"
-# author: ["Me", "You"] # multiple authors
+## author: ["Me", "You"] ## multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-# description: "Desc Text."
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+## description: "Desc Text."
+## canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true ## to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -20,22 +20,22 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
+    image: "<image path/url>" ## image path/url
+    alt: "<alt text>" ## alt text
+    caption: "<text>" ## display caption under cover
+    relative: false ## when using page bundles set this to true
+    hidden: true ## only hide on current single page
+## editPost:
+##     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
+##     Text: "Suggest Changes" ## edit text
+##     appendFilePath: true ## to append file path to Edit link
 title: "Linguistics"
 date: 2022-05-25T10:49:08+10:00
 tags: ["linguistics"]
-lastmod: 2022-05-25T10:49:08+10:00
+lastmod: 2022-07-23T10:49:08+10:00
 ---
 
-I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point. 
+I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point.
 
 - [OzCLO](/ozclo/)
 - QTE Wycliffe
@@ -43,159 +43,119 @@ I think linguistics is really cool. There is an entire story behind how I got in
 - Naomi's parents
 - Graeme's wife's parents
 
-For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive. 
+For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.
 
-# What is language?
+## Related
 
-Ideas I remember
+- [Phonology](phonology/)
+
+## What is language?[^1]
 
 - 5 features of a language
-    - Displacement (can communicate ideas in a different place and time)
-    - Tradition (taught)
-    - Arbitrariness (words and forms are generally unrelated to their meaning)
-    - Meta (idk what the word is, but you can use a language to talk about the language itself)
-    - Syntax (order matters)
+  - Displacement (can communicate ideas in a different place and time)
+  - Tradition (taught)
+  - Arbitrariness (words and forms are generally unrelated to their meaning)
+  - Meta (idk what the word is, but you can use a language to talk about the language itself)
+  - Syntax (order matters)
 - Communication is not necessarily language
-    - Can have some features of language but not all
+  - Can have some features of language but not all
 - Animal communication is cool
 
-# Word classes
-
-Ideas I remember
+## Word classes[^1]
 
 - Open classes do change
-    - Nouns
-    - Lexical verbs
-    - Adjectives
-    - Adverbs
+  - Nouns
+  - Lexical verbs
+  - Adjectives
+  - Adverbs
 - Closed classes don't rly change
-    - Pronouns
-    - Determiners
-    - Prepositions
-    - Auxiliary verbs
+  - Pronouns
+  - Determiners
+  - Prepositions
+  - Auxiliary verbs
 - Tests exist to determine a word's class
-    - Create an adverb
-    - 
+  - Create an adverb
 
-# Morphemes
-
-Ideas I remember
+## Morphemes[^1]
 
 - Bound morphemes
 - Unbound morphemes
 - Root, stem, flower
 - Affixes
-    - Suffixes
-    - Prefixes
-    - Infixes??
+  - Suffixes
+  - Prefixes
+  - Infixes??
 - Inflectional affixes
-    - There aren't many in English
+  - There aren't many in English
 - Derivational affixes
-    - Often change word class of a word
+  - Often change word class of a word
 
-# Constituents
+## Constituents[^1]
 
-Ideas I remember
-
-- 
 - Tests exist to determine whether something is a phrase
-    - Substitution
-    - It clause?
-    - 
+  - Substitution
+  - It clause?
 
-# Trees
-
-Ideas I remember
+## Trees[^1]
 
 - Just draw the tress lol. There's a whole pdf guide in my course, not sure what else to say here
 
-# Trees and functions
+## Trees and functions[^1]
 
-Ideas I remember
-
-- 
-
-# Pragmatics
-
-Ideas I remember
+## Pragmatics[^1]
 
 - Structure neq intended meaning
 - Cooperative principle
 - Gricean maxims
-    - Qual I
-    - Qual II
-    - Quan I
-    - Quan II
-    - Relevance
-    - Manner
+  - Qual I
+  - Qual II
+  - Quan I
+  - Quan II
+  - Relevance
+  - Manner
 - Infringements
-    - Flouting
-    - Violation
-    - Incompetence
-    - Opting out
+  - Flouting
+  - Violation
+  - Incompetence
+  - Opting out
 
-# Semantics
-
-Ideas I remember
+## Semantics[^1]
 
 - Metaphor
-    - Extended
-    - Abstract -> concrete
+  - Extended
+  - Abstract -> concrete
 - Image metaphor
-    - Sensory relships
-    - Granular? 
+  - Sensory relships
+  - Granular?
 - Metonymy
-    - Something that represents another
-    - Less obvious than other forms
+  - Something that represents another
+  - Less obvious than other forms
 - Change
-    - Broadening
-    - Narrowing
-    - Amelioration
-    - Pejoration
-    - Weakening
-    - Strengthening
-
-
-Ideas I didn't remember
-
+  - Broadening
+  - Narrowing
+  - Amelioration
+  - Pejoration
+  - Weakening
+  - Strengthening
 - Correction
-    - Hyper
-    - Hypo
-    - neutral
-- 
+  - Hyper
+  - Hypo
+  - neutral
 
-
-# Language change
-
-Ideas I remember
+## Language change[^1]
 
 - Internal
 - External
-- 
 
-# Language families and varieties
+## Language families and varieties[^1]
 
-Ideas I remember
+## L1 acquisition[^1]
 
-- 
-
-# L1 acquisition
-
-Ideas I remember
-
-- 
-
-# L2 learning
-
-Ideas I remember
-
-- 
-
-
+## L2 learning[^1]
 
 ---
 
-Further reading
+## Resources
 
 [Crash Course Linguistics Playlist on YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW)
 (Note: Hosted by Taylor Behnke. I bought a bat painting from her during the P4A 2022, as a symbolic representation of the start of my linguistics career, as P4A 2022 coincided with my introductory linguistics subject beginning. It was also my first P4A perk. Currently shipping to me)
@@ -206,6 +166,12 @@ Further reading
 [Lingthusiasm](https://lingthusiasm.com/), a podcast that's enthusiastic about linguistics by Gretchen McCulloch and Lauren Gawne.
 (Note: Haven't listened to many episodes, but I watched one episode and it was cool.)
 
-Blogs of the hosts of Lingthusiasm:
-- [All Things Linguistic](https://allthingslinguistic.com/), a blog about all things linguistic by Gretchen McCulloch.
-- [Superlinguo](https://www.superlinguo.com/), a blog about language and linguistics by Lauren Gawne. 
+[Mutual Intelligibility](https://mutualintelligibility.substack.com/), "a year-long project to curate online linguistics resources" by Liz McCullough.
+
+- Blogs of the hosts of Lingthusiasm:
+  - [All Things Linguistic](https://allthingslinguistic.com/), a blog about all things linguistic by Gretchen McCulloch.
+  - [Superlinguo](https://www.superlinguo.com/), a blog about language and linguistics by Lauren Gawne.
+
+[^1]: My first university linguistics course.
+
+[^2]: https://allthingslinguistic.com/post/60119571913/28-tips-for-doing-better-in-your-intro-linguisticss

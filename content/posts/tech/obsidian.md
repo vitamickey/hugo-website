@@ -27,36 +27,14 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-07-09T21:37:56+10:00
-title: "Introduction to the Bible"
-# description: ""
-tags: ["theology"]
-series: ["intro-to-bible-mtc"]
-lastmod: 2022-07-09T21:37:56+10:00
+date: 2022-07-23T10:48:52+10:00
+title: "Obsidian"
+description: ".md"
+tags: ["technology", "personal-knowledge-management"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-23T10:48:52+10:00
 # math: true
 ---
 
-A course by Moore Theological College, but I'm going through a version with my mentor.
-
-## Study 1: The Book of Books
-
-**Before you begin...**
-
-Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It's just, so much good instruction about living life for Christ.
-
-### 1. What is the Bible?
-
-- library of books
-  - 39 OT
-  - 27 NT
-- time
-
-### 2. What is the Bible's message?
-
-### 3. What are the main divisions in the Bible?
-
-#### 3.1 The New Testament
-
-#### 3.2 The Old Testament
-
-### 4. What does the Bible claim about itself?
+OKAY look I've sort of used Obisidian on and off for the last ehhhh two years I think and I haven't settled into a groove because the learning curve to use it was kind of steep and I couldn't be bothered migrating everything from Notion. Also, without a suitable cross-platform sync that I haven't been able to implement without breaking the bank, I haven't fully committed to migration. Well, [Notion](/notion/) it is. 

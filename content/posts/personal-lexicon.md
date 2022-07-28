@@ -31,7 +31,7 @@ date: 2022-07-09T20:59:12+10:00
 title: "Personal lexicon"
 # description: ""
 tags: ["untagged"]
-lastmod: 2022-07-09T20:59:12+10:00
+lastmod: 2022-07-21T20:59:12+10:00
 # math: true
 ---
 
@@ -43,4 +43,7 @@ Fun words and things I might say and where they come from if I feel like adding 
     - Ryan??
 - Juicy beef
 - Sneezing is not normal, I never sneeze
+- ephemeral
+    - came up in a Tick Tick Boom! featurette, Andrew Garfield on Jonathan Larsson's outlook on life? Also, came up in Miraculous Ladybug. 
+- Systemic problems require long-term, systemic solutions
 - 

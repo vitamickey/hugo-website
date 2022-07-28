@@ -33,7 +33,7 @@ description: "How I sort of keep my life together"
 tags: ["productivity"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-16T22:11:43+10:00
+lastmod: 2022-07-22T16:20:43+10:00
 # math: true
 ---
 
@@ -51,6 +51,17 @@ I like this Harry Potter-themed breakdown.[^1]
     - File mgmt
         - Gdrive
 - Hermione-level
+    - Kindle (reading)
+        - I just use a bunch of random stuff
+            - Notability
+            - BorrowBox and Libby (Overdrive)
+            - Books (Apple)
+    - Read-it-later
+        - Trialling Instapaper
+    - Readwise
+    - Capture
+        - Google Keep
 - Dumbledore-level
+    - [Second brain](/second-brain/)
 
 [^1]: How to Build the Ultimate Productivity System (2022) by Ali Abdaal on [YouTube](https://www.youtube.com/watch?v=T6hmdrsLQj8)

@@ -27,36 +27,23 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-07-09T21:37:56+10:00
-title: "Introduction to the Bible"
-# description: ""
-tags: ["theology"]
-series: ["intro-to-bible-mtc"]
-lastmod: 2022-07-09T21:37:56+10:00
+date: 2022-07-22T16:58:18+10:00
+title: "R"
+description: "A statistical programming language"
+tags: ["technology", "statistics"]
+# series: [""]
+# bookofbible: [""]
+lastmod: 2022-07-22T16:58:18+10:00
 # math: true
 ---
 
-A course by Moore Theological College, but I'm going through a version with my mentor.
+# stop it, get some help
 
-## Study 1: The Book of Books
+- R search engine https://r-dir.com/reference/search.html
+- Stat Stack Exchange https://stats.stackexchange.com/questions/tagged/r
+- Stack Overfloew https://stackoverflow.com/questions/tagged/r
+- RStudio community https://community.rstudio.com/
 
-**Before you begin...**
+# Other
 
-Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It's just, so much good instruction about living life for Christ.
-
-### 1. What is the Bible?
-
-- library of books
-  - 39 OT
-  - 27 NT
-- time
-
-### 2. What is the Bible's message?
-
-### 3. What are the main divisions in the Bible?
-
-#### 3.1 The New Testament
-
-#### 3.2 The Old Testament
-
-### 4. What does the Bible claim about itself?
+My note on [VSCode](/vscode/) outlines the process of setting up R in VSCode. It was a bit painful, but it is what I gave up to escape the sad white IDE that is RStudio. But, RStudio is still good, it just makes a lot more sense for me personally to use R in VSCode where I already do everything else. The happiness I felt when I started typing up R on VSCode was strangely euphoric. 

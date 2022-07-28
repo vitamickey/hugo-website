@@ -31,7 +31,7 @@ date: 2022-05-23T16:44:01+10:00
 title: "To write"
 description: "a list of things to get to writing"
 tags: ["meta"]
-lastmod: 2022-06-20T11:22:01+10:00
+lastmod: 2022-07-21T11:22:01+10:00
 math: true
 ---
 
@@ -43,7 +43,7 @@ math: true
 - ~~Fonts, typography, favourite fonts~~
 - Mathematics, subjects I'm taking, transfer statistics knowledge onto digital garden maybe??
 - High school, reflections, why it sucked (i.e. having mental health but as a high achiever kinda sucked)
-- Music, instruments
+- ~~Music, instruments~~
 - Crochet, yarn and hook stuff
 - Anything from Notion that I sort of don't want in Notion anymore (I am a bit sick of Notion)
 - ~~A rant about Notion~~
@@ -58,3 +58,6 @@ math: true
     - psychological disorders
     - intellectual disabilities
 - self-soothing toolkit
+- Necessary vs sufficient bc I always forget
+- miraculous ladybug linguistics of villains. What are the bounds of their powers? Logic? And clever naming schemes
+- 
