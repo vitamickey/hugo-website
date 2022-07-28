@@ -27,36 +27,19 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-07-09T21:37:56+10:00
-title: "Introduction to the Bible"
-# description: ""
-tags: ["theology"]
-series: ["intro-to-bible-mtc"]
-lastmod: 2022-07-09T21:37:56+10:00
+date: 2022-06-17T10:43:05+10:00
+url: "/2-corinthians/"
+title: "2 Corinthians"
+description: "The 47th book of the Bible."
+tags: ["bible"]
+series: ["book-of-bible-overview"]
+booksofbible: ["2-corinthians"]
+lastmod: 2022-06-17T10:43:05+10:00
 # math: true
 ---
 
-A course by Moore Theological College, but I'm going through a version with my mentor.
+Notes: 
 
-## Study 1: The Book of Books
-
-**Before you begin...**
-
-Favourite book of the Bible? I really like James because it feels like a slap in the face every time I read it. It's just, so much good instruction about living life for Christ.
-
-### 1. What is the Bible?
-
-- library of books
-  - 39 OT
-  - 27 NT
-- time
-
-### 2. What is the Bible's message?
-
-### 3. What are the main divisions in the Bible?
-
-#### 3.1 The New Testament
-
-#### 3.2 The Old Testament
-
-### 4. What does the Bible claim about itself?
+- [Suffering produces faith](/suffering-produces-faith/)
+  - [2 Corinthians 1:8-11](https://esv.org/2Corinthians1:8-11)
+- 

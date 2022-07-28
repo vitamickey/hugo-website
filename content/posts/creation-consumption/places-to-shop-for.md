@@ -35,9 +35,9 @@ lastmod: 2022-07-15T15:54:24+10:00
 # math: true
 ---
 
-# Cosmetics
+## Cosmetics
 
-## Multi-brand
+### Multi-brand
 
 - Priceline ([my mostly cruelty-free makeup link with filters selected for CF brands](https://www.priceline.com.au/cosmetics?brand_name=3118%2C3105%2C10168%2C12875%2C3116%2C10445%2C10721%2C9587%2C11768%2C3096%2C3113%2C3114%2C7706%2C3122%2C10029%2C9585%2C3107%2C12776%2C11008%2C3140%2C8511&dir=asc&order=is_featured))
 - [Chemist Warehouse](https://www.chemistwarehouse.com.au/)
@@ -50,9 +50,9 @@ lastmod: 2022-07-15T15:54:24+10:00
 - [Scotty's Makeup & Beauty](https://scottysmakeup.com.au/)
 - [a-beauty](https://abeauty.co/)
 
-### K-Beauty
+#### K-Beauty
 
-#### Aus
+##### Aus
 
 - [Nudie Glow](https://nudieglow.com/)
 - [The Face Shop](https://www.thefaceshopqld.com.au/)
@@ -60,13 +60,13 @@ lastmod: 2022-07-15T15:54:24+10:00
 - [Lila Beauty](https://lilabeauty.com.au/)
 - [Heartdrops](https://heartdrops.com.au/)
 
-#### Not Aus
+##### Not Aus
 
 - [Wishtrend](https://wishtrend.com/)
 - [Soko Glam](https://sokoglam.com/)
 - [Yesstyle](https://www.yesstyle.com/en/home.html)
 
-### "Clean beauty"
+#### "Clean beauty"
 
 - [Clean Beauty Market](https://cleanbeautymarket.com.au/)
 - [I Am Natural Store](https://www.iamnaturalstore.com.au/)
@@ -78,7 +78,7 @@ lastmod: 2022-07-15T15:54:24+10:00
 - [flora & fauna](https://www.floraandfauna.com.au/)
 - [Adorn Cosmetics](https://www.adorncosmetics.com.au/ultimate-complexion-box)
 
-## Standalone/brands
+### Standalone/brands
 
 - [Colourpop](https://colourpop.com/)
 - [e.l.f.](https://www.elfcosmetics.com.au/)
@@ -95,14 +95,14 @@ lastmod: 2022-07-15T15:54:24+10:00
 - [salt new york](https://saltnewyork.com/)
 - [EM Cosmetics](https://www.emcosmetics.com/)
 
-### Nail polish
+#### Nail polish
 
 - [Femme Fatale Cosmetics](https://femmefatalecosmetics.com.au/) based in Brisbane !! <3
 - [Maconii](https://www.maconii.com/)
 
-#### Australian brands
+##### Australian brands
 
-##### Indie
+###### Indie
 
 Mostly credits to [Love Alinta's post](https://lovealinta.com/2019/09/guide-to-australian-indie-nail-polish/) which lists most of these brands but unfortunately hasn't been updated since the start of 2021.
 
@@ -121,12 +121,12 @@ Mostly credits to [Love Alinta's post](https://lovealinta.com/2019/09/guide-to-a
 
 There is also:
 
-- [Indies Down Under](https://indiesdownunder.com.au/), a collection of these indie nail polish small businesses that bring a collab every 2 months. 
+- [Indies Down Under](https://indiesdownunder.com.au/), a collection of these indie nail polish small businesses that bring a collab every 2 months.
 - [The Australian Indie Polish Appreciation Society (Facebook Group)](https://www.facebook.com/groups/AIPAS)
 
-##### uhh Boutique?
+###### uhh Boutique?
 
-- [Kester Black](https://www.kesterblack.com/) I have tried and like. I wish their red metallic "Lucky" weren't limited edition. I cherish my current bottle. But my top coat is getting to a really weird texture. 
+- [Kester Black](https://www.kesterblack.com/) I have tried and like. I wish their red metallic "Lucky" weren't limited edition. I cherish my current bottle. But my top coat is getting to a really weird texture.
 - [I Scream Nails](https://iscreamnails.com.au/)
 - [Hanami Cosmetics](https://hanami.com.au/)
 - [Picture Polish](https://picturepolish.com.au/)
@@ -134,16 +134,16 @@ There is also:
 - [Ere Perez](https://ereperez.com/)
 - [Raww](https://www.rawwcosmetics.com/)
 
-# Clothing
+## Clothing
 
-## Secondhand
+### Secondhand
 
 - [Depop](https://www.depop.com/)
 - [Gumtree](https://www.gumtree.com.au/)
 - [Facebook Marketplace](https://www.facebook.com/marketplace)
 - [ebay](https://www.ebay.com.au/)
 
-# Stationery
+## Stationery
 
 - [Milligram](https://milligram.com/)
 - [Bunbougu](https://www.bunbougu.com.au/)
@@ -153,12 +153,12 @@ There is also:
 - [JetPens](https://www.jetpens.com/)
 - [Officeworks](https://www.officeworks.com.au/)
 
-# Christian books
+## Christian books
 
 - [Koorong](https://www.koorong.com/)
 - [Reformers Bookshop](https://reformers.com.au/)
 - [Wandering Bookseller](https://wanderingbookseller.com.au)
 
-# Art
+## Art
 
-- Forge forward - Brisbane art https://www.instagram.com/forge.forward/
+- Forge forward - Brisbane art <https://www.instagram.com/forge.forward/>

@@ -33,7 +33,7 @@ title: "Computer migration"
 tags: ["technology"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-16T21:00:08+10:00
+lastmod: 2022-07-21T21:00:08+10:00
 # math: true
 ---
 
@@ -61,3 +61,10 @@ I would like to play around with **Linux** on my Dell once I've moved over. I'm 
 
 
 Tips for Migrating to a New Computer for Programmers. https://www.pullrequest.com/blog/how-to-migrate-to-a-new-computer-for-developers/
+
+Left behind:
+- ISC BIND for checking domain creation https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+- qbittorrent for... well... my old days of kpop torrenting...
+- Sony media tools
+- Python
+- 

@@ -39,9 +39,9 @@ lastmod: 2022-06-18T22:12:32+10:00
 
 mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3a3Nv2aQqyo)
 
-# ONLINE
+## ONLINE
 
-# scrolling mindfully
+### scrolling mindfully
 
 - use a time limit
 - look at particular sites/accounts that you enjoy looking at or make you feel good
@@ -53,15 +53,15 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - check your screentime actively
 - turn off notifications
 
-# alternative scrolling
+### alternative scrolling
 
 - NASA astronomy
 - Pinterest
 - Wikipedia rabbit hole
 
-# OFFLINE
+## OFFLINE
 
-# create
+### create
 
 - beaded necklaces
 - crochet
@@ -76,9 +76,9 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - origami
 - write a song
 - knit a scarf or something rectangular
-    
-    [How To Knit and Why: Basics and Beyond](https://knitfarious.com/how-to-knit-and-why-basics-and-beyond/)
-    
+
+  [How To Knit and Why: Basics and Beyond](https://knitfarious.com/how-to-knit-and-why-basics-and-beyond/)
+
 - tie-dye
 - pottery/small clay items
 - make a meal
@@ -95,11 +95,10 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - improv
 - aquascaping
 - gardening
-    
-    [Where to Buy Heirloom, Non-GMO and Organic Seeds and Plants in Australia](https://ecowarriorprincess.net/2021/08/where-to-buy-heirloom-organic-seeds-plants-in-australia/)
 
+  [Where to Buy Heirloom, Non-GMO and Organic Seeds and Plants in Australia](https://ecowarriorprincess.net/2021/08/where-to-buy-heirloom-organic-seeds-plants-in-australia/)
 
-# learn
+### learn
 
 - watch a documentary
 - language-learning (use an app)
@@ -111,7 +110,7 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - watch a youtube video for a new practical skill
 - learn a new recipe
 
-# explore
+### explore
 
 - virtual museum tour (Museum of the World)
 - sustainable online thrifting
@@ -123,7 +122,7 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - go to some of the places found on that research
 - walk around the neighbourhood
 
-# move
+### move
 
 - stretch
 - swim
@@ -136,7 +135,7 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - hike
 - do a handstand
 
-# interact
+### interact
 
 - talk to an old friend
 - talk to a new friend
@@ -149,7 +148,7 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - compliment a stranger (online/IRL)
 - wish someone a happy birthday
 
-# organise
+### organise
 
 - colour-code your google calendar
 - try notion for digital planning/organising
@@ -162,7 +161,7 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - deep clean your room
 - clean out email inbox
 
-# journal
+### journal
 
 - 10 things you want in your future
 - vision board
@@ -175,7 +174,7 @@ mostly from [video by Jasmine from studyquill](https://www.youtube.com/watch?v=3
 - letter to your future self
 - letter to your past self
 
-# play
+### play
 
 - frisbee
 - spikeball

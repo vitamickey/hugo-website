@@ -31,7 +31,7 @@ date: 2022-07-09T20:37:27+10:00
 title: "Recipes"
 # description: ""
 tags: ["consumption"]
-lastmod: 2022-07-09T20:37:27+10:00
+lastmod: 2022-07-19T17:42:27+10:00
 # math: true
 ---
 
@@ -56,12 +56,15 @@ https://www.bonappetit.com/recipe/steamed-vegetables-with-rice-and-miso-ginger-d
     - https://www.moribyan.com/mcdonalds-chicken-nuggets-and-cajun-sauce-bts-meal/
 - Snickerdoodles (maybe in mrs fields style)
     - https://butternutbakeryblog.com/maple-snickerdoodle-cookies/
-- Others on Pinterest?
-
+- Others on social media
+    - Instagram saves
+    - Pinterest
+    - Facebook
 
 # That I've tried
 
 ## Dairy-free brownies
+
 https://makeitdairyfree.com/the-best-vegan-brownies/
 
 ## Strawberry jam
@@ -135,3 +138,12 @@ https://www.youtube.com/watch?v=kPauR6tP_cg
 1 tbsp vanilla extract (TABLE)
 142g dark chocolate disks, half coarsely chopped
 142g milk chocolate disks, half coarse oh chopped
+
+## Banana pancakes
+
+https://www.taste.com.au/recipes/3-ingredient-banana-pancakes/6ozkpd8g
+
+- 1 small ripe banana
+- 1 medium egg
+- 2 tbsp wholemeal self-raising flour
+- oil spray

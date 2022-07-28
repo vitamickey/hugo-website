@@ -31,7 +31,7 @@ cover:
 date: 2022-05-23T15:04:46+10:00
 title: "Digital gardens"
 # description: ""
-tags: ["productivity", "learning", "technology"]
+tags: ["productivity", "learning", "technology", "personal-knowledge-management"]
 lastmod: 2022-07-16T22:26:46+10:00
 ---
 

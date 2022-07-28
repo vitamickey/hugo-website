@@ -27,18 +27,29 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-10T09:26:13+10:00
-title: "The Bible provides models for articulating responses to our situations"
-# description: ""
+date: 2022-06-17T10:43:00+10:00
+url: "/1-corinthians/"
+title: "1 Corinthians"
+description: "The 46th book of the Bible."
 tags: ["bible"]
-series: ["qt-notes"]
+series: ["book-of-bible-overview"]
 booksofbible: ["1-corinthians"]
-lastmod: 2022-06-15T13:18:13+10:00
+lastmod: 2022-06-17T10:43:00+10:00
 # math: true
 ---
 
-I get the feeling that this is kind of obvious, but I am talking about instances where I have read a passage and gone, "Wow, the way that the author talked about their emotions, thoughts, situation, etc. is something I would like to adapt into my life too." So, basically these are all from the epistles but whatevs.
 
-From Youth camp, Romans 7:21-25. Models a response to our own sinful nature.
 
-From personal reading, 4th of June, 1 Corinthians 15:10. Models talking about God's grace and work in us.
+Notes:
+
+- [All things are lawful...](/all-things-are-lawful/)
+  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
+  - [1 Corinthians 10:23](https://www.esv.org/1Corinthians10:23/)
+- [It is better to marry than to burn with passion](/better-to-marry/)
+  - [1 Corinthians 7:8–9](https://esv.org/1Corinthians7:8–9)
+- [The Bible provides models for articulating responses to our situations](/bible-models-responses/)
+  - [1 Corinthians 15:10](https://esv.org/1Corinthians15:10)
+- [Hold all things loosely](/hold-loosely/)
+  - [1 Corinthians 6:12](https://www.esv.org/1Corinthians6:12/)
+- [We pray out loud to build up others](/pray-to-build-up/)
+  - 1 Corinthians 14

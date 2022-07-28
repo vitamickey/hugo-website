@@ -31,7 +31,7 @@ date: 2022-06-16T20:59:13+10:00
 title: "Notion"
 description: ".so"
 tags: ["technology", "productivity", "personal-knowledge-management"]
-lastmod: 2022-06-17T11:27:13+10:00
+lastmod: 2022-07-23T11:27:13+10:00
 # math: true
 ---
 
@@ -49,6 +49,7 @@ I have a love-hate relationship with Notion. And yet, I can't seem to replace it
   - The fact that people store sensitive information (passwords, finances, etc.) because of this
 - Too much friction cross-platform. Cannot use very seamlessly between iPad, Android mobile, and laptop
 - If you have a database with more than like 25 entities that thing is a slow sucker for load-times. I'd rather just go use Google Sheets at that point
+- No integrated email forwarding. There is an extension someone made on Gsuite that I would be willing to try. But, really, Notion is just not somewhere I would want to archive EVERYTHING.
 
 # Reasons why I still like/use it
 
@@ -56,6 +57,9 @@ I have a love-hate relationship with Notion. And yet, I can't seem to replace it
 - Notion lets me make things pretty. I like pretty things. So, notion has a hold on me.
 - I generally will use it for planning that requires a pretty modular approach, that I would like to be able to access in the long-term, that I wouldn't be able to plan just in a Google doc or with an analogue method like in my bullet journal or just on a plain ol' piece of paper
 - OH another thing Notion is really good for is team collaboration. For sure. Like being able to have these really dynamic layouts for team workflows I’ve seen use cases where it works very nicely, but of course there are other programs that could achieve that too
+- I tried [Obsidian](/obsidian/) but it was hard to move over and I missed being able to make it pretty
+- I have dipped my toes into Evernote but I don't like the idea of storing everything on Evernote
+    - not that I use Notion to store everything...
 
 # Ways I am trying to walk away/my alternative planning and note-taking systems
 

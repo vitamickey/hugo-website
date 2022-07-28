@@ -38,6 +38,18 @@ lastmod: 2022-07-13T21:40:39+10:00
 # Stuff I actually sort of need
 
 - Lightbulb for my lamp
+- iPhone XR things
+    - Dongle for headphones ;-;
+    - iPhone XR case 
+
+# Stuff that would be nice I guess
+
+- Books I read and want to own
+    - Atomic habits
+    - Digital minimalism 
+- Laptop things for Lenovo Thinkpad X1 Gen 7
+    - Laptop skin ? https://www.aliexpress.com/item/1005001302572099.html
+    - Laptop stickers??????? redbubble cart is FULL man
 
 # Truly a wishlist.
 

@@ -31,8 +31,9 @@ date: 2022-06-21T09:23:42+10:00
 title: "Bookmarks"
 description: "For my easy access"
 tags: ["reference"]
-lastmod: 2022-07-11T22:33:42+10:00
+lastmod: 2022-07-21T22:33:42+10:00
 # math: true
 ---
 
 Rain radar http://www.bom.gov.au/products/IDR663.loop.shtml
+https://sunnyhealthfitness.com/blogs/health-wellness/study-break-exercise-routine-5-minute
