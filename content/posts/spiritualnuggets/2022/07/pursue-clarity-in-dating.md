@@ -36,6 +36,7 @@ lastmod: 2022-07-02T11:03:04+10:00
 ---
 
 Questions to ask:
+
 - What have you learned about each other lately — stories, habits, character traits?
 - How have you each grown in your relationship with Jesus since you started dating?
 - Are you both committed to abstaining from any form of sexual immorality?

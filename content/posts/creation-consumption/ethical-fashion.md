@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -37,25 +37,25 @@ lastmod: 2022-05-26T21:32:46+10:00
 
 To be honest, this note was one of the main reasons I wanted to make a website: so I could easily link friends and family to resources about ethical fashion, without me necessarily dumping an entire essay into their DMs. This is just the compiled texts I sent to the main university Discord server I hang out in when the topic of fast fashion came up and people started asking, "How DO I stop shopping for fast fashion?". I would eventually like to add some basic key definitions and ideas here, but this is a quick-start guide to...
 
-# How to shop more ethically: The Basics
+## How to shop more ethically: The Basics
 
 There are a few guidelines you can use to make better purchasing choices.
 
-## 1. Buy fewer clothes
+### 1. Buy fewer clothes
 
 The first thing is just to buy fewer clothes. We all have lots of clothes, and probably don’t need to buy more, so reducing consumption and wearing the clothes you have til their bitter end is the best step. This has a positive environmental impact as well as it ensuring your money isn’t going to the wrong places.
 
-## 2. Buy secondhand
+### 2. Buy secondhand
 
 If you need to buy clothes, try secondhand first. You are normally supporting a charity when you guy secondhand, and you can often find cooler pieces for way cheaper than they would retail.
 
-## 3. Buy new but ethical/sustainable
+### 3. Buy new but ethical/sustainable
 
 If you have decided you need clothes and wish to buy them new, there are some websites that can help you figure out where they stand ethically. 
 
-### "How do I know what's actually sustainable?"
+#### "How do I know what's actually sustainable?"
 
-#### Grading systems
+##### Grading systems
 
 There are websites that grade brands:
 - Goodonyou: https://goodonyou.eco/ is the main website with some good blogs, https://directory.goodonyou.eco/ is the actual brand ratings site.
@@ -64,7 +64,7 @@ There are websites that grade brands:
 
 You should take the gradings with a grain of salt, and you can read up on how they grade brands if you want a better picture of what the ratings mean.
 
-#### Other websites and blogs (i.e. Google searches)
+##### Other websites and blogs (i.e. Google searches)
 
 There are websites that compile ethical brands in blog posts or lists, but it’s always a good idea to look on a brand's website for how transparent their manufacturing process is, look up any articles or opinions about controversies (just googling or searching on Reddit for the brand name). Some websites include:
 
@@ -74,7 +74,7 @@ There are websites that compile ethical brands in blog posts or lists, but it’
 
 You can always google "ethical swimwear brands in Australia", or replace this with other keywords, and you'll find various google articles to comb through.
 
-#### Third-party certifications
+##### Third-party certifications
 
 (Note: in response to my friend's message about how there is lack of plus-size clothing at affordable prices)
 
@@ -88,19 +88,19 @@ In general, I find it enjoyable to research different brands and stuff. It’s j
 
 I wanna start a blog soon so I might make some more handy guides like this. (Note: see: this website)
 
-## Tip: Know what you like
+### Tip: Know what you like
 
 It also helps to know what style of clothes you like: colours, fabrics, styles, cuts, etc.. If you know your style, then you are more likely to buy clothes that you will wear for longer, and thus decrease the need for you to buy more clothes
 
-## Tip: Take care of the clothes you own
+### Tip: Take care of the clothes you own
 
 Also, taking care of the clothes you have is important
 
-## A few brands 
+### A few brands 
 
-### Afends
+#### Afends
 
-#### Case study: Is Afends sustainable?
+##### Case study: Is Afends sustainable?
 
 (Note: in response to "Afends is sustainable??")
 
@@ -118,7 +118,7 @@ https://afends.com/pages/supply-chain
 
 https://cdn.shopify.com/s/files/1/0497/8277/files/Afends-ethical-sourcing-standards-web.pdf?v=1590563352
 
-### Brand: Buon Clothing
+#### Brand: Buon Clothing
 
 Buon Clothing is another cool brand, not sure how sustainable they are but their clothing is made in Melbourne
 
@@ -126,13 +126,13 @@ https://www.buonclothing.com/pages/about
 
 And they have a really wide range of sizes
 
-### HoMie
+#### HoMie
 
 HoMie clothing has a social enterprise aspect to their brand which is really cool, and they have info about their production process
 
 https://homie.com.au/pages/about
 
-## Tip: Mindset matters
+### Tip: Mindset matters
 
 (Note: responding to my own message about how making compromises and buying clothes you will actually wear is more important than buying clothes you don't like that tick all the boxes of being ethical/sustainable)
 
@@ -144,7 +144,7 @@ It is important to treat clothes as material goods with value and a lifespan. Yo
 
 Glad I could help `:george:`
 
-## On second-hand shopping: other ethical ramifications
+### On second-hand shopping: other ethical ramifications
 
 On the secondhand thing, you can also shop vintage if you have the means, or shop on websites like eBay, FB marketplace, depop, gumtree, etc., as some people are uncomfortable with buying from op shops when people who actually don’t have the means to spend more could’ve bought those op shop items
 

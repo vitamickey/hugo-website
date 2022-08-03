@@ -12,7 +12,7 @@
 
 .profile .profile_inner h1 {
     padding: 12px 0;
-    font-size: 30px;
+    font-size: var(--heading-font-size);
     font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 

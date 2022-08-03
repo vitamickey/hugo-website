@@ -33,10 +33,13 @@ description: "Australian Sign Language"
 tags: ["untagged"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-25T09:50:55+10:00
+lastmod: 2022-07-30
 # math: true
 ---
 
-- Auslan beginner courses with Deaf Connect https://deafconnect.org.au/services/beginner-courses-in-auslan
-  - Online course
+- Auslan beginner courses with Deaf Connect <https://deafconnect.org.au/services/beginner-courses-in-auslan>
+  - Online course, not at your own pace
   - Moorooka course
+- Lisa Mills courses <https://courses.lisamillsonline.com/>
+  - Online, at your own pace
+  - Good reviews??

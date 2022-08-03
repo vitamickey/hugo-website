@@ -14,8 +14,8 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
-ShowReadingTime: true
+# searchHidden: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -35,4 +35,4 @@ tags: ["statistics"]
 lastmod: 2022-05-25T10:49:14+10:00
 ---
 
-I study statistics. 
+I study statistics, which is a branch of mathematics.

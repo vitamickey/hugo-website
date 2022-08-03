@@ -1,66 +1,58 @@
 .page-header,
 .post-header {
-    margin: 24px auto var(--content-gap) auto;
+    margin: 16px auto var(--content-gap) auto;
 }
 
 .post-title {
     margin-bottom: 2px;
-    font-size: 30px;
-    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-size: var(--heading-font-size);
+    font-family: 'Avara_Black', 'Gelasio', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-description {
-    font-size: 23px;
+    font-size: var(--primary-font-size);
     margin-top: 10px;
     margin-bottom: 5px;
-    font-family: 'Avara_BoldItalic', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Avara_BoldItalic', 'Gelasio', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-meta,
 .breadcrumbs {
-    float: left;
-    color: var(--primary);
-    font-size: 12px;
+    color: var(--secondary);
+    font-size: var(--secondary-font-size);
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .post-meta .i18n_list li {
     display: inline-flex;
     list-style: none;
     margin: auto 3px;
-    box-shadow: 0 1px 0 var(--primary);
+    box-shadow: 0 1px 0 var(--link-color);
 }
 
 .breadcrumbs a {
-    font-size: 16px;
+    font-size: var(--primary-font-size);
 }
 
 .post-content {
     color: var(--content);
-    font-size: 16px;
-    line-height: 150%;
+    font-size: var(--primary-font-size);
+    line-height: 160%;
 }
 
 .post-content h3,
 .post-content h4,
 .post-content h5,
 .post-content h6 {
-    margin: 24px 0 16px;
-    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
-}
-
-.post-content h1 {
-    margin: 40px auto 16px;
-    font-size: 150%;
-    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Avara_Bold', 'Gelasio', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h2 {
     margin: 32px auto 16px;
     font-size: 140%;
-    font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Avara_Bold', 'Gelasio', Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-content h3 {
@@ -215,7 +207,7 @@
 }
 
 .post-content table th {
-    font-size: 14px;
+    font-size: var(--secondary-font-size);
     text-align: start;
 }
 
@@ -270,7 +262,7 @@
 .post-content code {
     margin: auto 4px;
     padding: 4px 6px;
-    font-size: 0.78em;
+    font-size: 0.85em;
     line-height: 1.5;
     background: var(--code-bg);
     border-radius: 2px;
@@ -319,24 +311,36 @@
 
 .post-content figure > figcaption {
     color: var(--primary);
-    font-size: 16px;
+    font-size: var(--secondary-font-size);
     font-weight: bold;
     margin: 8px 0 16px;
 }
 
 .post-content figure > figcaption > p {
     color: var(--secondary);
-    font-size: 14px;
+    font-size: var(--tertiary-font-size);
     font-weight: normal;
 }
 
+.post-content a.footnote-ref {
+  font-size: 0.5em;
+}
+
+.post-content a.footnote-ref::before {
+  content: '[';
+}
+
+.post-content a.footnote-ref::after {
+  content: ']';
+}
+
 .toc {
-    margin: 0 2px 40px 2px;
+    margin: 0 2px 30px 2px;
     border: 1px solid var(--border);
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
-    font-size: 16px;
+    font-size: var(--secondary-font-size);
 }
 
 .dark .toc {
@@ -380,7 +384,7 @@
 
 .post-tags li {
     display: inline-block;
-    margin-inline-end: 3px;
+    margin-inline-end: 5px;
     margin-bottom: 5px;
 }
 
@@ -394,10 +398,10 @@
 
 .post-tags a {
     display: block;
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
     color: var(--content);
-    font-size: 14px;
+    font-size: var(--secondary-font-size);
     line-height: 34px;
     background: var(--code-bg);
 }
@@ -470,10 +474,10 @@ h6:hover .anchor {
 }
 
 .paginav {
-    margin: 10px 0;
+    margin: 5px 0;
     display: flex;
     line-height: 30px;
-    font-size: 16px;
+    font-size: var(--primary-font-size);
     border-radius: var(--radius);
 }
 

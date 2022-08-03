@@ -33,7 +33,7 @@ title: "Discrete Mathematics II"
 tags: ["mathematics"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-25T09:49:47+10:00
+lastmod: 2022-07-28T21:49:47+10:00
 math: true
 ---
 
@@ -52,18 +52,35 @@ Given a set of \\(n\\) objects, the number of ways of selecting \\(r\\) objects 
 
 #### 1.4 Intuition for unordered selections with repetition
 
-The bucket representation??
+This is the balls and buckets representation. If we wish to select \\(r\\) objects from an \\(n\\)-set, we essentially want to count the number of ways we can split up the \\(n\\) objects (i.e. the balls) into \\(r\\) parts (i.e. the buckets). Say we have \\(n=8\\) balls and set \\(r=3\\). Under the original question, we ask" "how many unordered selections of 3 objects from 8 objects are there with repetition allowed?". Under this buckets and balls framework, we ask, "how many ways can we fill 3 buckets with 8 balls, if some of those buckets can be empty?".
 
-#### 1.5
+(to edit)
+
+#### Equivalent combinatorial counts
+
+(to edit)
 
 ### 2 Combinatorial Identities (pg. 9)
 
+Pascal's Triangle
+
+- \\(\binom{n+1}{r} = \binom{n}{r} + \binom{n}{r-1}\\)
+- \\(\left(x+y\right)^n = \sum_{r=0}^{n} \binom{n}{r} x^{n}y^{n-r}\\)
+- \\(\sum_{r=0}^{n} \binom{n}{r} = 2^n\\)
+- \\(\binom{n}{r} = \sum_{i=0}^{n-1} \binom{i}{r-1}\\)
+  - Equivalently, can index from \\(r-1\\) to \\(n\\)
+- \\(\sum_{r=0}^{n} (-1)^{r}\binom{n}{r}=0\\)
+
+## II Inclusion-Exclusion and Related Techniques (pg. 13)
+
+### 3 The Principle of Inclusion and Exclusion (pg. 13)
+
+### 4 Permutations and Derangements (pg. 15)
+
+### 5 Classical M¨obius Inversion (pg. 17)
+
 ## Upcoming
 
-- II Inclusion-Exclusion and Related Techniques (pg. 13)
-- 3 The Principle of Inclusion and Exclusion (pg. 13)
-- 4 Permutations and Derangements (pg. 15)
-- 5 Classical M¨obius Inversion (pg. 17)
 - 6 Partially Ordered Sets (pg. 20)
 - 7 M¨obius Function for Posets (pg. 22)
 - III Counting with Groups (pg. 24)
@@ -101,3 +118,11 @@ The bucket representation??
 - 34 Introduction to Combinatorial Design Theory (pg. 95)
 - 35 Latin Squares (pg. 96)
 - 36 Steiner Triple Systems (pg. 97)
+
+Everything sourced from my discrete maths course unless stated otherwise.
+
+Related notes:
+
+- [Mathematics](mathematics)
+
+[^1]: https://math.stackexchange.com/questions/208377/combination-with-repetitions

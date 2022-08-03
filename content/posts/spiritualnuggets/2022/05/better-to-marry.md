@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -33,7 +33,7 @@ title: "It is better to marry than to burn with passion"
 # description: "Desc Text."
 tags: ["marriage", "personal", "bible", "relationships"]
 series: ["qt-notes"]
-booksofbible: ["1-corinthians"]
+booksofbible: ["1 Corinthians"]
 lastmod: 2022-05-24T09:25:28+10:00
 ---
 

@@ -1,32 +1,4 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 date: 2022-07-15T10:33:23+10:00
 title: "Email management"
 description: "Because emails are AAA"
@@ -37,7 +9,7 @@ lastmod: 2022-07-22T10:33:23+10:00
 # math: true
 ---
 
-# Gmail shortcuts
+## Gmail shortcuts
 
 | command   | task      | task in new tab   |
 | :---      | :---      | :---              |
@@ -53,19 +25,19 @@ lastmod: 2022-07-22T10:33:23+10:00
 | `shift+u`     | mark unread   |  |
 | `/`           | search   |  |
 
-# Tiago Forte - One touch to inbox zero[^1]
+## Tiago Forte - One touch to inbox zero[^1]
 
 - calendar
 - task manager, archive
-    - I've just added Todoist to my Gmail suite so hopefully that makes my life easier
+  - I've just added Todoist to my Gmail suite so hopefully that makes my life easier
 - note taking
-    - Evernote is recommended but I don't really like it. 
+  - Evernote is recommended but I don't really like it.
 - read it later
-    - Now using Instapaper
+  - Now using Instapaper
 
 The setup Tiago outlines is nice, and I've followed almost all of it. BUT I like setting up auto label filters so I CAN go back and find things. I still do use the email like a file storage system, because 1. I really don't have files that need storing THAT often, and 2. they're not normally useful for me to move to a file mgmt system. I probably should tho. Maybe they will become to-do's, and I'll put them in Gdrive.
 
-## When you check your email
+### When you check your email
 
 1. Open Gmail
 2. Open the oldest email in your inbox

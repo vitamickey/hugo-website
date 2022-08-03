@@ -33,7 +33,7 @@ description: "bc idk how to store my files in a neat way"
 tags: ["technology"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-22T17:10:32+10:00
+lastmod: 2022-07-28T21:35:32+10:00
 # math: true
 ---
 
@@ -41,4 +41,10 @@ lastmod: 2022-07-22T17:10:32+10:00
 
 A file system that is simple, number-based. Limited but flexible, which I think is what I sort of look for in systems? It seems like it's mostly used in business contexts, though, and idk how I feel about that.
 
+## PARA by Tiago Forte[^2]
+
+I came across this a while ago and I think I subconsciously adapted the idea of Projects into my life but that's about it.
+
 [^1]: https://johnnydecimal.com/
+
+[^2]: https://fortelabs.co/blog/para/

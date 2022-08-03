@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -33,7 +33,7 @@ title: "Taking caution with my K-Pop"
 description: "How can something that sounds so good be so maybe not?"
 tags: ["culture", "arts", "music", "idolatry"]
 series: ["personal-faith"]
-# booksofbible: ["1-corinthians"]
+booksofbible: ["1 Corinthians"]
 lastmod: 2022-07-23T11:50:39+10:00
 ---
 
@@ -80,4 +80,4 @@ Giving up a 4 minute-long song is theoretically easy because God is so much more
 
 Related:
 
-- I would like to hold K-Pop loosely the same way I should [hold all things loosely](/hold-loosely/).
+- I would like to hold K-Pop loosely the same way I should [Hold all things loosely](/hold-loosely/).

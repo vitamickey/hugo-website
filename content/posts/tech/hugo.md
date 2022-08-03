@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -32,7 +32,7 @@ date: 2022-05-23T15:04:53+10:00
 title: "Hugo"
 description: "What I use to make my site."
 tags: ["website", "technology", "coding"]
-lastmod: 2022-07-22T16:18:53+10:00
+lastmod: 2022-07-28T16:18:53+10:00
 ---
 
 ## Workflow
@@ -68,10 +68,11 @@ I need to
 - make a stubs page?? <https://www.mtsolitary.com/stubs/> <https://www.mtsolitary.com/20210329232300-mt-solitary-stack/>
 - BACKLINKS??? lol I have a death wish <https://gabrielleearnshaw.medium.com/implementing-backlinks-in-a-hugo-website-e548d3d8f0e0> <https://www.mtsolitary.com/20210329232300-mt-solitary-stack/>
 - a search with filters like hugo tania or Maggie Appleton's website would be cool <https://gohugo.io/content-management/taxonomies/> <https://gronskiy.com/posts/filtering-posts-over-multiple-taxonomies-hugo/>
-  - an option to see my posts related to any book of the bible, maybes
-    - each book of the bible to have its own page that displays a list of all related notes and my own content written about it
+  - ~~an option to see my posts related to any book of the bible, maybes~~
+    - ~~each book of the bible to have its own page that displays a list of all related notes and my own content written about it~~
   - also don't generate pages for these?? I would just want to be able to filter through tags and such, don't need a page per tag or anything
-- ordering by last tended, not by date planted
+    - actually I may need to redact this, because it's kind of nice to have those since I cannot figure out backlinks for the life of me
+- ~~ordering by last tended, not by date planted: I now know how to do this~~
 - proper implementation of horticultural extended metaphor ?? or figure out my own metaphor (but plants are nice)
 - add relative dates to meta <https://kodify.net/hugo/date-time/relative-age-hugo/>
 - ~~make maths work on the site AAAAA~~
@@ -85,8 +86,13 @@ I need to
 - side-by-side images?? I try the <https://discourse.gohugo.io/t/putting-image-side-by-side/3926> solution but there might be something in my CSS that botches this up.
 - blockquotes in lists
     > they do not play nice. I mean, look at that spacing? :(
-- footnotes bleed into meta[^1]
+- ~~footnotes bleed into meta[^1]. Due to poor placement of post meta~~
 - ~~on that, I've been formatting footnotes incorrectly lol.~~
+  - ~~Also, on notes like `judging-loving`, the meta spacing is influenced by spacing with the nav buttons. This was a result of poor placement of my post meta, but it's fixed now~~
+- favicon broken when moved into a different folder under `static`
+  - I have moved the site web manifest into the folder with the favicons, it wasn't there before
+    - if this fixes it, I will revert changes I made in my `head.html` file as specified further below
+  - next attempt at quick fix: move it back to where it was when it worked lol
 - css for code blocks (see end of page)
   - for different languages
     - text
@@ -166,6 +172,8 @@ In `head.html`, changed something about favicon stuff because I moved my favicon
 
 Unsure how to nest functions in hugo yet.
 
-Added URLS to the books of Bible overview pages so that instead of `/46-1-corinthians/` being the end of the URL, it's just `/1-corinthians/` <https://gohugo.io/content-management/urls/>. Doens't cause clashes with `/booksofbible/1-corinthians/`
+Added URLS to the books of Bible overview pages so that instead of `/46-1-corinthians/` being the end of the URL, it's just `/1-corinthians/` <https://gohugo.io/content-management/urls/>. Doesn't cause clashes with `/booksofbible/1-corinthians/`.
 
-[^1]: See here.
+Actually, now I've changed it so that `/1-corinthians/` links to a page that displays every page that hasthe `1-corinthians` term in the `booksofbible` key, and I've added a custom `_index.md` to each directory `\content\booksofbible\BOOKNAME\` so that I can put my overview of each book of the bible there. I think chapters of the bible would make it too messy, but I think I could try and implement that in future. Unfortunately, I don't think Hugo has sub-taxonomies. Also, each `booksofbible` term now is a weighted page.
+
+[^1]: Example (fixed)

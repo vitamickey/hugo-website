@@ -35,23 +35,26 @@ lastmod: 2022-06-15T13:33:04+10:00
 # math: true
 ---
 
+## Briefly
 
-# Origins of the name Michaela
+I am a Christian. I study [mathematics](/mathematics/) and [statistics](/statistics/), and have an interest in [linguistics](/linguistics/). I also work as a tutor, primarily in maths for high-school students.
+
+## Origins of the name Michaela
 
 Michaela
 : n. who is like God
 
 Feminine form of Michael (from Hebrew).
 
-https://en.wikipedia.org/wiki/Michaela
+<https://en.wikipedia.org/wiki/Michaela>
 
-A girl from my Youth group wrote this out on a card for me in nice hand-lettering and gave it to me when I got baptised in March of 2021. I honestly hadn't thought about the meaning of my name until then, though I knew that I had been named Michaela based on the biblical angel Michael. 
+A girl from my Youth group wrote this out on a card for me in nice hand-lettering and gave it to me when I got baptised in March of 2021. I honestly hadn't thought about the meaning of my name until then, though I knew that I had been named Michaela based on the biblical angel Michael.
 
-I am definitely not like God. But I do grapple with identity sometimes. 
+I am definitely not like God. But I do grapple with identity sometimes.
 
 How much of my identity comes from the right things? My identity as a child of God and follower of Jesus might be at the centre of my identity, but how much are my interests, struggles, ideas, appearance, a part of who I am? I would not be who I am without those things, and in a sense they define me, but can I ultimately ascribe my identity as a person to them? I'm not sure I know the answers to any of these questions.
 
-Here is a list of things that I am. 
+Here is a list of things that I am.
 
 - Christian
 - tutor

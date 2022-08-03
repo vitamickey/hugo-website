@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -30,9 +30,9 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 date: 2022-05-23T15:34:05+10:00
 title: "GitHub"
-# description: "Desc Text."
+description: "And also git. Version control, and stuff..."
 tags: ["coding", "technology"]
-lastmod: 2022-06-19T17:36:05+10:00
+lastmod: 2022-07-28T12:36:05+10:00
 ---
 
 I am an absolute GitHub noob, but like, I'm trying my best.
@@ -55,3 +55,5 @@ Merge conflicts
 digital-garden init on new laptop, cloned and submodule stuff with first method <https://www.w3docs.com/snippets/git/how-to-clone-including-submodules.html>
 
 it was cloned to documents. I've been cloning to google drive LOL my bad <https://stackoverflow.com/questions/69056041/is-it-dangerous-to-put-git-directory-in-drive-sync-tool>
+
+I needed to do this before making my first commit on new laptop <https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup>

@@ -30,15 +30,17 @@ cover:
 date: 2022-06-17T10:55:55+10:00
 title: "Love"
 # description: ""
-tags: ["faith"]
+tags: ["faith", "bible"]
+series: ["qt-notes"]
+booksofbible: ["1 Corinthians"]
 lastmod: 2022-06-17T10:55:55+10:00
 # math: true
 ---
 
-I feel like a lot of stuff I have been reading or hearing has been about love. That makes sense, given love is the core of who God is. God IS love. Of course I am learning a lot about love. 
+I feel like a lot of stuff I have been reading or hearing has been about love. That makes sense, given love is the core of who God is. God IS love. Of course I am learning a lot about love.
 
-The classic is 1 Corinthians 13. Anything without love is nothing. 
+The classic is 1 Corinthians 13. Anything without love is nothing.
 
-Let all that you do be done in love, [1 Corinthians 16:14](https://esv.org/1Corinthians16:14). 
+Let all that you do be done in love, [1 Corinthians 16:14](https://esv.org/1Corinthians16:14).
 
 Little children, let us not love in word or talk but in deed and in truth. [1 John 3:18](https://esv.org/1John3:18)

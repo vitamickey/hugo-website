@@ -32,7 +32,7 @@ title: "The Bible provides models for articulating responses to our situations"
 # description: ""
 tags: ["bible"]
 series: ["qt-notes"]
-booksofbible: ["1-corinthians"]
+booksofbible: ["1 Corinthians", "Romans"]
 lastmod: 2022-06-15T13:18:13+10:00
 # math: true
 ---

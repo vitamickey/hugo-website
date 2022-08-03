@@ -31,14 +31,13 @@ date: 2022-05-23T18:28:20+10:00
 title: "Now"
 description: "All of the things currently simmering away in my brain. "
 tags: ["about","meta"]
-lastmod: 2022-07-16T20:59:20+10:00
+lastmod: 2022-07-28T20:59:20+10:00
 # math: true
 ---
 
-- Moving out soon-ish?
-    - Need to declutter
-- I have a boyfriend now! nice!
-- This website
-- Need to do my taxes
-- My room is a total mess
-- I literally spent like my entire midyear holiday sick and uni start in a week's time... how are we here
+- Moving out in the near future
+  - Need to [declutter](/decluttering/)
+- Working on this website
+- Started uni semester recently
+- Working as a tutor
+- A new pastor is coming in at church! Which is incredibly exciting

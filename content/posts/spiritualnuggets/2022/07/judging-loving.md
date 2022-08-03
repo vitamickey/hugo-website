@@ -30,13 +30,15 @@ cover:
 date: 2022-07-09T21:03:42+10:00
 title: "Balance judging with loving and don’t be a hypocrite??"
 # description: ""
-tags: ["untagged"]
+tags: ["bible"]
+# series: ["qt-notes"]
+# booksofbible: ["2 Corinthians"]
 lastmod: 2022-07-09T21:03:42+10:00
 # math: true
 ---
 
-https://www.desiringgod.org/articles/judge-not-that-you-may-judge-well
+<https://www.desiringgod.org/articles/judge-not-that-you-may-judge-well>
 
-Mentor: if you come on too strong or judge them too harshly, they will just retreat from you and stop coming to you for advice. Avoid that. 
+Mentor: if you come on too strong or judge them too harshly, they will just retreat from you and stop coming to you for advice. Avoid that.
 
-I think I’ve already done this. But I’m gonna try and lovingly reconcile this. 
+I think I’ve already done this. But I’m gonna try and lovingly reconcile this.

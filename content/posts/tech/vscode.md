@@ -15,7 +15,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -32,7 +32,7 @@ cover:
 title: "VSCode"
 date: 2022-05-26T09:26:13+10:00
 tags: ["vscode", "technology"]
-lastmod: 2022-07-22T09:26:13+10:00
+lastmod: 2022-07-30
 ---
 
 I think you call this a stack, where you talk about applications you use and their setup. So, I am gonna write a university stack, or a general productivity stack, but this is my VSCode stack, which in essence is a list of extensions I use and my setup.
@@ -49,16 +49,20 @@ I think you call this a stack, where you talk about applications you use and the
 - **Markdown:**
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - [Markdown+Math](https://marketplace.visualstudio.com/items?itemName=goessner.mdmath)
+  - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+    - `<!-- markdownlint-disable MD033 -->` is very nice for ignoring HTML in markdown
 - **Hugo:**
   - [Hugo Language and Syntax Support](https://marketplace.visualstudio.com/items?itemName=budparr.language-hugo-vscode)
 - **R:**
   - see below
+- **GitHub:**
+  - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) so far I have used it and it's been a game-changer but people seem to really dislike it on the marketplace reviews lol
 - **Other**
   - I have some **Jupyter** extensions installed but I don't really use Jupyter that much. I needed it for one statistics class iirc, but for statistics I prefer to use R separately to VSCode (at most, I will edit code in VSCode).
   - I have [Music Time for Spotify](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time) installed, but I don't really use it.
   - I have all the basic **Python** extensions installed but, again, only needed for one class. I don't use Python much now, and I am quite bad at it anyway lol.
   - I recently downloaded the **Go** extension since I need to use it to download `hugo-extended`, but like, I don't think I need the extension.
-  - Oh, and I use **GitHub**, but you don't need extensions for that haha.
+  - ~~Oh, and I use **GitHub**, but you don't need extensions for that haha.~~
 
 ## Using R in VSCode
 
@@ -106,5 +110,7 @@ bada bing bada boom [R](/r/) now works on my VSCode. this took too long.
 Set tab size per file type. Markdown causing me pain with it's tab size of 2... but it's fixed now. <https://stackoverflow.com/questions/34247939/how-to-set-per-filetype-tab-size>
 
 On that note, this is a more comprehensive stack post about tab size, indents as spaces and inherit <https://stackoverflow.com/questions/36814642/visual-studio-code-convert-spaces-to-tabs#:~:text=There%20are%203%20options%20in.vscode%2Fsettings.json%3A%20%2F%2F%20The%20number,detected%20based%20on%20the%20file%20contents.%20%22editor.detectIndentation%22%3A%20true>
+
+Snippets: for dashes, <https://fotoallerlei.com/blog/post/2020/typing-en-and-em-dashes-in-vs-code/post/>
 
 [^1]: https://superuser.com/questions/1455225/how-to-install-r-extension-in-visual-studio-code#:~:text=File%20%3E%20Preferences%20%3E%20Extensions%20Right%20click%20on,cell%2C%20paste%20the%20path%20to%20the%20R%20executable

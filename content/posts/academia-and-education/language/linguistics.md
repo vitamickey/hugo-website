@@ -1,38 +1,8 @@
 ---
-## weight: 1
-## aliases: ["/first"]
-author: "Me"
-## author: ["Me", "You"] ## multiple authors
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-## description: "Desc Text."
-## canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true ## to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: false
-ShowPostNavLinks: true
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" ## image path/url
-    alt: "<alt text>" ## alt text
-    caption: "<text>" ## display caption under cover
-    relative: false ## when using page bundles set this to true
-    hidden: true ## only hide on current single page
-## editPost:
-##     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-##     Text: "Suggest Changes" ## edit text
-##     appendFilePath: true ## to append file path to Edit link
 title: "Linguistics"
-date: 2022-05-25T10:49:08+10:00
+date: 2022-05-25
 tags: ["linguistics"]
-lastmod: 2022-07-23T10:49:08+10:00
+lastmod: 2022-07-23
 ---
 
 I think linguistics is really cool. There is an entire story behind how I got interested in linguistics, which I would like to write up at some point.
