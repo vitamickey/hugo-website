@@ -59,7 +59,12 @@
     --link-underline-shadow: 0 1px 0 var(--link-color);
     --link-hover-underline-color: rgb(147, 146, 76);
     --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
-    --link-transition: all 0.3s ease;
+    --link-transition: all 0.05s ease;
+    --heading-font-size: 24px;
+    --subheading-font-size: 24px;
+    --primary-font-size: 17px;
+    --secondary-font-size: 14px;
+    --tertiary-font-size: 13px;
 }
 
 .dark {
@@ -89,7 +94,8 @@
 }
 
 body, input, textarea {
-    font-family: 'Lora', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Gelasio', Georgia, 'Times New Roman', Times, serif;
+    font-size: var(--primary-font-size);
 }
 
 code {

@@ -37,10 +37,10 @@ lastmod: 2022-06-16T08:38:44+10:00
 
 Some key reasons:
 
-# If I have time to eat, I have time to read.
+## If I have time to eat, I have time to read.
 
 John Piper things to commit to in your 20's
 
-# I am fickle.
+## I am fickle.
 
-Coffe & Bible Time video - I need to read daily because I have a pretty bad memory. 
+Coffee & Bible Time video - I need to read daily because I have a pretty bad memory.

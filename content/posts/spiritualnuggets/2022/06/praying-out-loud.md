@@ -30,15 +30,17 @@ cover:
 date: 2022-06-10T09:31:18+10:00
 title: "Praying out loud builds up others"
 # description: ""
-tags: ["prayer"]
+tags: ["prayer","bible"]
+series: ["qt-notes"]
+booksofbible: ["1 Corinthians"]
 lastmod: 2022-06-19T15:10:18+10:00
 # math: true
 ---
 
-1 Corinthians 14 talks about prayers in tongues. If you pray in tongues, but it is not interpreted, then like, even though it's fantastic to pray, it doesn't serve to build others up in prayer since they don't know what you prayed about. They cannot join in saying "Amen" to a prayer that is unknown. 
+1 Corinthians 14 talks about prayers in tongues. If you pray in tongues, but it is not interpreted, then like, even though it's fantastic to pray, it doesn't serve to build others up in prayer since they don't know what you prayed about. They cannot join in saying "Amen" to a prayer that is unknown.
 
-This is something that I've pondered a bit, when I notice people who are inclined to never praying out loud corporately, whether in a small group or in a large group. I always thought it felt odd, and a little discouraging, to notice the people who never pray out loud. I think this passage illuminates why I feel that way. I can't join in their prayers if they do not say their prayers for me to understand them. 
+This is something that I've pondered a bit, when I notice people who are inclined to never praying out loud corporately, whether in a small group or in a large group. I always thought it felt odd, and a little discouraging, to notice the people who never pray out loud. I think this passage illuminates why I feel that way. I can't join in their prayers if they do not say their prayers for me to understand them.
 
-Praying for one another individually and privately, of course, is of great importance. And there is a fine line here, because the Bible also warns against those who pray big bold prayers and those who boast in their ability to say these super grand and articulate prayers (Matthew 6:5-7). 
+Praying for one another individually and privately, of course, is of great importance. And there is a fine line here, because the Bible also warns against those who pray big bold prayers and those who boast in their ability to say these super grand and articulate prayers (Matthew 6:5-7).
 
 Prayer does not need to be grand or articulate, but, in groups, it is best heard by others, so when our thanks and requests are brought to God, we can together say "Amen".  

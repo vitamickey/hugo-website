@@ -1,0 +1,154 @@
+baseURL: 'http://michaelacheong.com/'
+title: Michaela
+languageCode: en-au
+paginate: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pygmentsUseClasses: true
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+permalinks:
+  posts: '/:filename/'
+  booksofbible: '/:title/'
+
+params:
+  env: production
+  title: Michaela's Digital Garden
+  description: A lil' digital garden.
+  keywords:
+    - Digital Garden
+    - Blog
+    - Portfolio
+    - PaperMod
+    - Christian
+  author: Me
+  images:
+    - '<link or path of image for opengraph, twitter-cards>'
+  DateFormat: 'Jan 2, 2006'
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hideMeta: false
+  hideSearchMeta: true
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  fontheader: Avara_Bold
+  fontbody: EB Garamond
+  fontcode: Xanh Mono
+  assets:
+    favicon: img/meta/favicon.ico
+    favicon16x16: img/meta/favicon-16x16.png
+    favicon32x32: img/meta/favicon-32x32.png
+    apple_touch_icon: img/meta/apple-touch-icon.png
+    safari_pinned_tab: img/meta/apple-touch-icon.png
+  label:
+    text: Home
+    icon: img/meta/apple-touch-icon.png
+    iconHeight: 50
+  profileMode:
+    enabled: true
+    title: Michaela's Digital Garden
+    subtitle: 'I follow Jesus. Read [Welcome to my digital garden](/welcome/) first.'
+    imageUrl: img/meta/logo-2048-monogram-fancy.png
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Site monogram
+    buttons:
+      - name: Posts
+        url: posts/
+      - name: Tags
+        url: tags/
+  socialIcons:
+    - name: github
+      url: 'https://github.com/vitamickey'
+    - name: instagram
+      url: 'https://www.instagram.com/michaelacheong/'
+    - name: spotify
+      url: 'https://open.spotify.com/user/mrshmllow_micky?si=70da848a98c84a3e'
+    - name: pinterest
+      url: 'https://pin.it/4IU6Skz'
+  analytics:
+    google:
+      SiteVerificationTag: XYZabc
+    bing:
+      SiteVerificationTag: XYZabc
+    yandex:
+      SiteVerificationTag: XYZabc
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+  editPost:
+    URL: 'https://github.com/vitamickey/digital-garden/tree/main/content'
+    Text: suggest edits on GitHub
+    appendFilePath: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  bookofbible: booksofbible
+
+menu:
+  main:
+    - identifier: nowmenu
+      name: now
+      url: now/
+      weight: 10
+    - identifier: posts
+      name: posts
+      url: posts/
+      weight: 20
+    - identifier: bible
+      name: bible
+      url: booksofbible/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: tags/
+      weight: 40
+    - identifier: search
+      name: search
+      url: search/
+      weight: 50
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

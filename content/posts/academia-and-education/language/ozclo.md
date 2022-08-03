@@ -15,7 +15,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true

@@ -7,7 +7,7 @@
 }
 
 .page-header h1 {
-    font-size: 30px;
+    font-size: var(--heading-font-size);
     font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -17,7 +17,7 @@
 
 .pagination a {
     color: var(--theme);
-    font-size: 13px;
+    font-size: var(--tertiary-font-size);
     line-height: 36px;
     background: var(--primary);
     border-radius: calc(36px / 2);

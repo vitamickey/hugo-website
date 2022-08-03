@@ -33,7 +33,7 @@ title: "Watch list"
 tags: ["arts"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-21T19:08:00+10:00
+lastmod: 2022-07-28T21:08:00+10:00
 # math: true
 ---
 
@@ -43,8 +43,9 @@ lastmod: 2022-07-21T19:08:00+10:00
   - Silverpoint
 - Netflix
 - Disney+
-  - HSMTMTS (Jul 27?)
+  - HSMTMTS (Jul 27)
 - SBS On Demand
+  - Shoplifters
 
 ## Services I don't have
 
@@ -54,7 +55,8 @@ lastmod: 2022-07-21T19:08:00+10:00
   - Paper Girls
 - Binge
   - Harry Potter is on there lol
-  - There must've been something else...
+  - The Fallout
+  - About Time
 - Apple TV+
   - CODA
   - Ted Lasso

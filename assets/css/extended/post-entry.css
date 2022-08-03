@@ -16,19 +16,19 @@
 }
 
 .first-entry .entry-header h1 {
-    font-size: 30px;
+    font-size: var(--subheading-font-size);
     line-height: 1.3;
     font-family: 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 .first-entry .entry-content {
     margin: 14px 0;
-    font-size: 22px;
+    font-size: var(--primary-font-size);
     -webkit-line-clamp: 3;
 }
 
 .first-entry .entry-footer {
-    font-size: 14px;
+    font-size: var(--secondary-font-size);
 }
 
 .home-info .entry-content {
@@ -54,7 +54,7 @@
 }
 
 .entry-header h2 {
-    font-size: 18px;
+    font-size: var(--subheading-font-size);
     line-height: 1.3;
     font-family: '{{ .Site.Params.fontbody }}', 'Avara_Black', 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
@@ -62,7 +62,7 @@
 .entry-content {
     margin: 10px 0 -2px;
     color: var(--primary);
-    font-size: 18px;
+    font-size: var(--primary-font-size);
     line-height: 1.6;
     overflow: hidden;
     display: -webkit-box;
@@ -72,7 +72,7 @@
 
 .entry-footer {
     color: var(--primary);
-    font-size: 13px;
+    font-size: var(--tertiary-font-size);
 }
 
 .entry-link {
@@ -85,7 +85,7 @@
 
 .entry-cover,
 .entry-isdraft {
-    font-size: 14px;
+    font-size: var(--secondary-font-size);
     color: var(--secondary);
 }
 

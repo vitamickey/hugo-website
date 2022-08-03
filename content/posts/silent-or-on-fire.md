@@ -36,7 +36,7 @@ lastmod: 2022-06-18T22:23:06+10:00
 ---
 
 > But you can’t tell people stories like this, because then they will worry, or call home to see if you are all right, and then there will only be more rage. At me. Or in the air. Rage like air, present but invisible, permeating everything. Taking up the space behind my eyes that is not otherwise occupied by the tight, prickly feeling of wanting to cry. There is outside the house, and inside the house, and what is spoken of outside is not welcome inside, and vice versa. They are two spheres that must never meet, orbiting politely at a distance. With me in the middle, caught in the heavy gravity, slowly tearing apart.
-> 
+>
 > ‘The house is either silent, or on fire,’
 
-*- Tiger Daughter by Rebecca Lim*
+From *Tiger Daughter* by Rebecca Lim.

@@ -1,38 +1,9 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 date: 2022-05-31T18:37:34+10:00
 title: "Graphic design"
 description: "is my passion."
 tags: ["reference"]
-lastmod: 2022-05-31T18:37:34+10:00
-# math: true
+lastmod: 2022-08-02
 ---
 
 I just want to be able to refer to graphic design resources quickly.
@@ -59,12 +30,22 @@ A lot from Kel Lauren??
 
 OH BOYYY I can display my fave fonts here and their respective merits okay, I'll put these in some other time. I always use the word fonts where I should be saying typefaces, so I will use "typeface" as much as I can from here on out.
 
+### Site
+
+- [Gelasio](https://fonts.google.com/specimen/Gelasio) by Eben Sorkin is the current font for this website.
+  - Compatible with Vietnamese, because I would like to learn Vietnamese
+  - It was previously Lora, but I wanted to change it to something that was a bit less round and with slightly narrower glyphs? characters? idk terms
+- [Avara](https://velvetyne.fr/fonts/avara/) using for title headers on this website
+- [Xanh Mono](https://fonts.google.com/specimen/Xanh+Mono) bc it's made for vietnamese and I think it looks really nice. Only downfall is that its readability is pretty Bad.
+  - Considering replacing this with [Recursive](https://www.recursive.design/) or [M PLUS Code Latin](https://fonts.google.com/specimen/M+PLUS+Code+Latin)
+
 ### Pretty typefaces <3
 
-- [Avara](https://velvetyne.fr/fonts/avara/) (using for headers on this website, a font that has no curves, only straight lines)
-- [Cantique](https://velvetyne.fr/fonts/cantique/)
+- [Avara](https://velvetyne.fr/fonts/avara/) as prev. mentioned. A font that has no curves, only straight lines
+- [Cantique](https://velvetyne.fr/fonts/cantique/) Viet support
 - [Wremena](https://typefaces.temporarystate.net/preview/Wremena)
 - [Junicode Bold Condensed](https://open-foundry.com/fonts/junicode_bold_condensed)
+- [Recursive](https://www.recursive.design/) seems very cool and I'd like to use it... Viet support
 
 ### Typefaces with a story in my life
 

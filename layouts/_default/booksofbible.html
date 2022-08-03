@@ -1,0 +1,59 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+<!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+{{- if .Content }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+{{ $taxonomy := "booksofbible" }}
+
+<div class="post-content">
+    <ul>
+        <li>Old Testament</li>
+            <ul>
+                {{ with ($.Site.GetPage (printf "/%s" $taxonomy)) }}
+                    {{ range where .Pages.ByWeight "Params.weight" "<=" 39 }}
+                    <li><a href="{{ .Permalink }}">{{ .Title}}</a>
+                    </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        <li>New Testament</li>
+            <ul>
+                {{ with ($.Site.GetPage (printf "/%s" $taxonomy)) }}
+                    {{ range where .Pages.ByWeight "Params.weight" ">=" 40 }}
+                    <li><a href="{{ .Permalink }}">{{ .Title}}</a>
+                    </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+    </ul>
+</div>
+
+{{/*  <ul>
+<!-- Ranges through content/booksofbible/*.md -->
+{{- range .Pages }}
+    <li>
+        <p class="post-content">
+            <a href="{{ .Permalink }}">{{ .Title }}</a> 
+        </p>
+    </li>
+{{- end }}
+</ul>  */}}
+
+{{- end }}{{/* end main */ -}}

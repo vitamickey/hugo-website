@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -36,6 +36,6 @@ lastmod: 2022-06-20T11:25:37+10:00
 math: true
 ---
 
-I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can't get mathjax to work yet lol. Update: 11 of June 2022 MATHS WORKS it's officially complex analysis time, my homies. Actually, I could probably write about slightly lower levels of maths first?? idk. At least maths works. \\(i^2 = -1\\). 
+I have an exam coming up, so going to try and make this page into a big fat guide to complex analysis. NEVERMIND I can't get mathjax to work yet lol. Update: 11 of June 2022 MATHS WORKS it's officially complex analysis time, my homies. Actually, I could probably write about slightly lower levels of maths first?? idk. At least maths works. \\(i^2 = -1\\).
 
 \\[\underset{x\to\infty}{\lim} f(x) = \mathbb{BEANS}.\\]

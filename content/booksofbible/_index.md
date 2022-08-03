@@ -6,7 +6,7 @@ author: "Me"
 # showToc: false
 # TocOpen: true
 # draft: true
-comments: true
+# comments: true
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -27,19 +27,16 @@ cover:
 #     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T10:43:05+10:00
-url: "/2-corinthians/"
-title: "2 Corinthians"
-description: "The 47th book of the Bible."
-tags: ["bible"]
-series: ["book-of-bible-overview"]
-booksofbible: ["2-corinthians"]
-lastmod: 2022-06-17T10:43:05+10:00
+date: 2022-07-30T11:25:09+10:00
+title: "Books of the Bible"
+description: "Only the ones I have notes for so far."
+# tags: ["untagged"]
+# series: [""]
+# bookofbible: [""]
+# booksofbible_weight: 46
+layout: "booksofbible"
+lastmod: 2022-07-30T11:25:09+10:00
 # math: true
 ---
 
-Notes: 
-
-- [Suffering produces faith](/suffering-produces-faith/)
-  - [2 Corinthians 1:8-11](https://esv.org/2Corinthians1:8-11)
-- 
+Currently reading: Micah

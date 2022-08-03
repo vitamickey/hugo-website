@@ -14,7 +14,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
@@ -31,9 +31,9 @@ cover:
 date: 2022-05-24T09:23:39+10:00
 title: "Hold all things loosely"
 # description: ""
-tags: ["church", "God", "possessions", "time", "bible"]
+tags: ["possessions", "time"]
 series: ["youth-notes", "qt-notes"]
-booksofbible: ["1-john", "1-corinthians"]
+booksofbible: ["1 John", "1 Corinthians"]
 lastmod: 2022-07-23T11:53:39+10:00
 ---
 
