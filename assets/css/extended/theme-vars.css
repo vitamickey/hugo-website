@@ -1,103 +1,232 @@
-@font-face {
-    font-family: 'Avara_Bold';
-    src:    url('/fonts/Bold/Avara-Bold.eot');
-    src:    url('/fonts/Bold/Avara-Bold.eot?#iefix') format('embedded-opentype'),
-            url('/fonts/Bold/Avara-Bold.woff') format('woff'),
-            url('/fonts/Bold/Avara-Bold.woff2') format('woff2'),
-            url('/fonts/Bold/Avara-Bold.ttf') format('truetype'),
-            url('/fonts/Bold/Avara-Bold.svg#svgFontName') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Avara_Black';
-    src:    url('/fonts/Black/Avara-Black.eot');
-    src:    url('/fonts/Black/Avara-Black.eot?#iefix') format('embedded-opentype'),
-            url('/fonts/Black/Avara-Black.woff') format('woff'),
-            url('/fonts/Black/Avara-Black.woff2') format('woff2'),
-            url('/fonts/Black/Avara-Black.ttf') format('truetype'),
-            url('/fonts/Black/Avara-Black.svg#svgFontName') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Avara_BoldItalic';
-    src:    url('/fonts/BoldItalic/Avara-BoldItalic.eot');
-    src:    url('/fonts/BoldItalic/Avara-BoldItalic.eot?#iefix') format('embedded-opentype'),
-            url('/fonts/BoldItalic/Avara-BoldItalic.woff') format('woff'),
-            url('/fonts/BoldItalic/Avara-BoldItalic.woff2') format('woff2'),
-            url('/fonts/BoldItalic/Avara-BoldItalic.ttf') format('truetype'),
-            url('/fonts/BoldItalic/Avara-BoldItalic.svg#svgFontName') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
+/* -- colours by ceciliamay via https://github.com/ceciliamay/obsidianmd-theme-primary */
 
 :root {
-    --gap: 23px;
-    --content-gap: 23px;
-    --nav-width: 960px;
-    --main-width: 600px;
-    --post-width: 600px;
-    --header-height: 60px;
-    --footer-height: 80px;
-    --radius: 7px;
-    --theme: rgb(241, 241, 230);
-    --entry: rgb(221, 224, 193);
-    --primary: rgb(42, 50, 18);
-    --secondary: rgb(147, 146, 76);
-    --tertiary: rgb(190, 196, 144);
-    --content: rgb(43, 37, 34);
-    --hljs-bg: rgb(41, 36, 39);
-    --code-bg: rgb(221, 224, 193);
-    --border: rgb(216, 221, 182);
-    --link-background-color: rgb(241, 241, 230);
-    --link-color: rgb(14, 70, 88);
-    --link-hover-color: rgb(147, 146, 76);
-    --link-underline-shadow: 0 1px 0 var(--link-color);
-    --link-hover-underline-color: rgb(147, 146, 76);
-    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
-    --link-transition: all 0.05s ease;
-    --heading-font-size: 24px;
-    --subheading-font-size: 24px;
-    --primary-font-size: 17px;
-    --secondary-font-size: 14px;
-    --tertiary-font-size: 13px;
+  --gap: 23px;
+  --content-gap: 23px;
+  --nav-width: 960px;
+  --main-width: 600px;
+  --post-width: 600px;
+  --header-height: 60px;
+  --footer-height: 80px;
+  --radius: 7px;
+      /*──────────The PRIMARY Color Palette for Light Theme──────────*/
+  --color-l-whiter: #faf8f4;
+  --color-l-white: #f7f3ee;
+  --color-l-gray: var(--color-l-gray-50);
+  --color-l-gray-10: #f2ece3;
+  --color-l-gray-20: #eee7dd;
+  --color-l-gray-30: #ebe2d5;
+  --color-l-gray-40: #e4d7c4;
+  --color-l-gray-50: #cfb696;
+  --color-l-gray-60: #b69d7c;
+  --color-l-gray-70: #9d8062;
+  --color-l-gray-80: #826a4a;
+  --color-l-gray-90: #7b6242;
+  --color-l-gray-100: #655134;
+  --color-l-black: #4a341c;
+  --color-l-blacker: #181410;
+  --color-l-shadow-10: rgba(168, 160, 148, 0.8);
+  --color-l-shadow-50: rgba(180, 172, 161, 0.302);
+  --color-l-shadow-100: rgba(75, 70, 64, 0.2);
+  --color-l-shadow-cover: rgba(177, 171, 164, 0.5);
+  --color-l-yellow: var(--color-l-yellow-500);
+  --color-l-yellow-300: #e7c56f;
+  --color-l-yellow-500: #e4ae25;
+  --color-l-yellow-700: #d69a00;
+  --color-l-yellow-900: #654F1A; /* had to change this to make it compliant */
+  --color-l-red: var(--color-l-red-500);
+  --color-l-red-300: #d16d66;
+  --color-l-red-500: #df453a;
+  --color-l-red-700: #bf3f36;
+  --color-l-red-900: #7f211a;
+  --color-l-blue: var(--color-l-blue-500);
+  --color-l-blue-300: #63a0bb;
+  --color-l-blue-500: #2882c3;
+  --color-l-blue-700: #256ea2;
+  --color-l-blue-900: #034a7c;
+  --color-l-orange: var(--color-l-orange-500);
+  --color-l-orange-300: #da8849;
+  --color-l-orange-500: #ea702e;
+  --color-l-orange-700: #d75c28;
+  --color-l-orange-900: #af4804;
+  --color-l-orange-a: #d46c16;
+  --color-l-green: var(--color-l-green-500);
+  --color-l-green-300: #72daad;
+  --color-l-green-500: #42b885;
+  --color-l-green-700: #2f9369;
+  --color-l-green-900: #1b7961;
+  --color-l-violet: var(--color-l-violet-500);
+  --color-l-violet-300: #bd9cde;
+  --color-l-violet-500: #8d6fb3;
+  --color-l-violet-700: #6a4596;
+  --color-l-violet-900: #451782;
+  /*~ Highlights */
+  --ui-color-highlight-text: var(--color-l-black);
+  --ui-color-highlight-bg: #f7dd9c;
+  --color-highlight-yellow: rgba(255, 187, 0, 0.2);
+  --color-highlight-red: rgba(240, 79, 106, 0.2);
+  --color-highlight-blue: rgba(40, 178, 194, 0.2);
+  --color-highlight-orange: rgba(255, 115, 0, 0.2);
+  --color-highlight-green: rgba(153, 189, 36, 0.2);
+  --color-highlight-violet: rgba(113, 122, 255, 0.2);
+  /* ------------------- LIGHT COLOURS DEFINED ---------------------- */
+  --theme: var(--color-l-white); 
+  --entry: var(--color-l-gray-20);
+  --primary: var(--color-l-blacker);
+  --secondary: var(--color-l-blue-900);
+  --tertiary: var(--color-l-gray-20);
+  --content: var(--color-l-blacker);
+  --hljs-bg: var(--color-l-black);
+  --code-bg: var(--color-l-gray-20);
+  --border: var(--color-l-gray-30);
+  --link-background-color: var(--color-l-white); 
+  --link-color: var(--color-l-blue-900);
+  --link-hover-color: var(--color-l-blue-500);
+  --link-underline-shadow: 0 1px 0 var(--link-color);
+  --link-hover-underline-color: var(--link-hover-color);
+  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+  --link-transition: all 0.05s ease;
+  --heading-font-size: 24px;
+  --subheading-font-size: 24px;
+  --primary-font-size: 17px;
+  --secondary-font-size: 14px;
+  --tertiary-font-size: 13px;
 }
 
 .dark {
-    --theme: rgb(25, 24, 22);
-    --entry: rgb(36, 38, 28);
-    --primary: rgb(226, 226, 215);
-    --secondary: rgb(220, 224, 193);
-    --tertiary: rgb(147, 146, 76);
-    --content: rgb(241, 241, 230);
-    --hljs-bg: rgb(41, 36, 39);
-    --code-bg: rgb(36, 38, 28);
-    --border: rgb(47, 50, 36);
-    --link-background-color: rgb(25, 24, 22);
-    --link-color: var(--primary);
-    --link-hover-color: #876fd6;
-    --link-underline-shadow: 0 1px 0 var(--link-color);
-    --link-hover-underline-color: var(--link-hover-color);
-    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+  /*──────────The PRIMARY Color Palette for Dark Theme──────────*/
+  --color-d-whiter: #f5e7d6;
+  --color-d-white: #f7f3ee;
+  --color-d-gray: var(--color-d-gray-50);
+  --color-d-gray-10: #b0a08d;
+  --color-d-gray-20: #ab916d;
+  --color-d-gray-30: #5f4f3a;
+  --color-d-gray-40: #5d4e3c;
+  --color-d-gray-50: #3d3429;
+  --color-d-gray-60: #342b23;
+  --color-d-gray-70: #2c2621;
+  --color-d-gray-80: #27221b;
+  --color-d-gray-90: #26211c;
+  --color-d-gray-100: #181410;
+  --color-d-black: #231e1a;
+  --color-d-blacker: #1b1613;
+  --color-d-shadow-10: rgba(29, 21, 13, 0.45);
+  --color-d-shadow-50: rgba(29, 26, 22, 0.75);
+  --color-d-shadow-100: rgba(19, 16, 13, 0.95);
+  --color-d-shadow-cover: rgba(37, 34, 29, 0.74);
+  --color-d-yellow: var(--color-d-yellow-500);
+  --color-d-yellow-500: #ebc400; 
+  --color-d-yellow-300: #f8d668;
+  --color-d-yellow-700: #d69a00;
+  --color-d-yellow-900: #a26b07;
+  --color-d-yellow-a: #e0ac29;
+  --color-d-red: var(--color-d-red-500);
+  --color-d-red-300: #FF968A; /* had to change this to make it compliant */
+  --color-d-red-500: #db6057;
+  --color-d-red-700: #f54e42;
+  --color-d-red-900: #ac2016;
+  --color-d-red-a: #d0483e;
+  --color-d-blue: var(--color-d-blue-500);
+  --color-d-blue-300: #63C1D3; /* had to change this to make it compliant */
+  --color-d-blue-500: #4dadd5;
+  --color-d-blue-700: #4ba6ce;
+  --color-d-blue-900: #16749c;
+  --color-d-blue-a: #3399c1;
+  --color-d-orange: var(--color-d-orange-500);
+  --color-d-orange-300: #f88d4f;
+  --color-d-orange-500: #f6762c;
+  --color-d-orange-700: #f06114;
+  --color-d-orange-900: #bc4d15;
+  --color-d-orange-a: #e27822;
+  --color-d-green: var(--color-d-green-500);
+  --color-d-green-300: #38d687;
+  --color-d-green-500: #38b27d;
+  --color-d-green-700: #27a06c;
+  --color-d-green-900: #0c6f45;
+  --color-d-green-a: #70bb3e;
+  --color-d-violet: var(--color-d-violet-500);
+  --color-d-violet-300: #a993e6;
+  --color-d-violet-500: #9f78dd;
+  --color-d-violet-700: #7758ca;
+  --color-d-violet-900: #6547b8;
+  --color-d-violet-a: #877ed7;
+  /*~ Highlights */
+  --ui-color-highlight-text: var(--color-d-black);
+  --ui-color-highlight-bg: #d3ac4a;
+  --color-highlight-yellow: rgba(255, 187, 0, 0.2);
+  --color-highlight-red: rgba(240, 79, 106, 0.2);
+  --color-highlight-blue: rgba(40, 178, 194, 0.2);
+  --color-highlight-orange: rgba(255, 115, 0, 0.2);
+  --color-highlight-green: rgba(153, 189, 36, 0.2);
+  --color-highlight-violet: rgba(113, 122, 255, 0.2);
+  /* ------------------- DARK COLOURS DEFINED ---------------------- */
+  --theme: var(--color-d-gray-100);
+  --entry: var(--color-d-gray-90);
+  --primary: var(--color-d-white);
+  --secondary: var(--color-d-yellow-300);
+  --tertiary: var(--color-d-gray-90);
+  --content: var(--color-d-white);
+  --hljs-bg: var(--color-d-gray-90);
+  --code-bg: var(--color-d-gray-90);
+  --border: var(--color-d-gray-80);
+  --link-background-color: var(--color-d-gray-70);
+  --link-color: var(--color-d-yellow-300);
+  --link-hover-color: var(--color-d-yellow-500);
+  --link-underline-shadow: 0 1px 0 var(--link-color);
+  --link-hover-underline-color: var(--link-hover-color);
+  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
 }
 
+@font-face {
+  font-family: 'Avara_Bold';
+  src:    url('/fonts/Bold/Avara-Bold.eot');
+  src:    url('/fonts/Bold/Avara-Bold.eot?#iefix') format('embedded-opentype'),
+          url('/fonts/Bold/Avara-Bold.woff') format('woff'),
+          url('/fonts/Bold/Avara-Bold.woff2') format('woff2'),
+          url('/fonts/Bold/Avara-Bold.ttf') format('truetype'),
+          url('/fonts/Bold/Avara-Bold.svg#svgFontName') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avara_Black';
+  src:    url('/fonts/Black/Avara-Black.eot');
+  src:    url('/fonts/Black/Avara-Black.eot?#iefix') format('embedded-opentype'),
+          url('/fonts/Black/Avara-Black.woff') format('woff'),
+          url('/fonts/Black/Avara-Black.woff2') format('woff2'),
+          url('/fonts/Black/Avara-Black.ttf') format('truetype'),
+          url('/fonts/Black/Avara-Black.svg#svgFontName') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avara_BoldItalic';
+  src:    url('/fonts/BoldItalic/Avara-BoldItalic.eot');
+  src:    url('/fonts/BoldItalic/Avara-BoldItalic.eot?#iefix') format('embedded-opentype'),
+          url('/fonts/BoldItalic/Avara-BoldItalic.woff') format('woff'),
+          url('/fonts/BoldItalic/Avara-BoldItalic.woff2') format('woff2'),
+          url('/fonts/BoldItalic/Avara-BoldItalic.ttf') format('truetype'),
+          url('/fonts/BoldItalic/Avara-BoldItalic.svg#svgFontName') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 .list {
-    background: var(--theme);
+  background: var(--theme);
 }
 
 .dark.list {
-    background: var(--theme);
+  background: var(--theme);
 }
 
 body, input, textarea {
-    font-family: 'Gelasio', Georgia, 'Times New Roman', Times, serif;
-    font-size: var(--primary-font-size);
+  font-family: 'Gelasio', Georgia, 'Times New Roman', Times, serif;
+  font-size: var(--primary-font-size);
 }
 
 code {
-    font-family: 'Xanh Mono', 'Courier New', Courier, monospace;
+  font-family: 'Recursive', 'Xanh Mono', 'Courier New', Courier, monospace;
 }

@@ -35,114 +35,111 @@ lastmod: 2022-06-17T16:13:54+10:00
 # math: true
 ---
 
-# Goals and motivations (general language learning)
+## Goals and motivations (general language learning)
 
 I don't know where these question prompts were from but I think they were from [How to LEARN A LANGUAGE on your own | study tips 📚 by The Bliss Bean](https://www.youtube.com/watch?v=pb_fdgm4VIQ).
 
 - Why do I want to learn Vietnamese?
-    - To be able to converse with my family in Vietnamese and just to know what should be my mother tongue.
+  - To be able to converse with my family in Vietnamese and just to know what should be my mother tongue.
 - What will you do when you’re able to speak Vietnamese comfortably?
-    - Converse with my family in Vietnamese, shop at Inala comfortably, tell Vietnamese people about Jesus.
+  - Converse with my family in Vietnamese, shop at Inala comfortably, tell Vietnamese people about Jesus.
 - After doing so, how will it make you feell?
-    - Awesome, connected, accomplished.
+  - Awesome, connected, accomplished.
 - What is one thing you can start doing right now?
-    - Watch Vietnamese shows to learn pronunciation.
+  - Watch Vietnamese shows to learn pronunciation.
 - How many hours can you put aside every day to learn Vietnamese?
-    - ???
+  - ???
 - What are 3-5 things that you can do consistently every day without fail to achieve your goal?
-    - 30min AI
-    - Anki
-    - Revise alphabet/pronunciation
+  - 30min AI
+  - Anki
+  - Revise alphabet/pronunciation
 
 The following question prompts were from [how to make the best language learning plan | notion templates | AD by anna lenks](https://www.youtube.com/watch?v=D5PagP6svfg&t=344s).
 
 - What languages do you want to learn?
-    - Vietnamese
-    - Auslan
-    - French
-    - Cantonese?
-    - Mandarin?
-    - Korean
-    - Japanese
+  - Vietnamese
+  - Auslan
+  - French
+  - Cantonese?
+  - Mandarin?
+  - Korean
+  - Japanese
 - What languages are your priority right now?
-    - Vietnamese
-    - Auslan
+  - Vietnamese
+  - Auslan
 - How much time are you ready to dedicate to language learning?
-    - Let’s say 20min/day.
+  - Let’s say 20min/day.
 
+## Refold Stage 1
 
-# Refold Stage 1
+### 1A: Tools and Habits
 
-## 1A: Tools and Habits
-
-### A1: Active Immersion
+#### A1: Active Immersion
 
 - [ ] YouTube
-    - [ ] Doremon
-    - [ ] Peppa Pig
-    - [ ] The Smurfs
-        - [ ] [https://youtu.be/pLEjVFzglRM](https://youtu.be/pLEjVFzglRM) smurfs from [VSL Discord message](https://discord.com/channels/701655793119789076/701868454168494100/900966631306588170)
+  - [ ] Doremon
+  - [ ] Peppa Pig
+  - [ ] The Smurfs
+    - [ ] [https://youtu.be/pLEjVFzglRM](https://youtu.be/pLEjVFzglRM) smurfs from [VSL Discord message](https://discord.com/channels/701655793119789076/701868454168494100/900966631306588170)
 - [ ] Netflix [https://www.netflix.com/browse/audio/vi](https://www.netflix.com/browse/audio/vi)
-    - [ ] Confirmed Southern dialect dub
-        - [ ] Alexa and Katie
-    - Unconfirmed dialect dub
-        - [ ] Julie and the Phantoms
-        - [ ] Waffles + Mochi
-        - [ ] Wish Dragon
-        - [ ] Only Yesterday
-        - [ ] Studio Ghibli
-        - [ ] Rise of the Guardians
-        - [ ] Jurassic World
-        - [ ] The Last Kids on Earth
-        - [ ] Flushed Away
-        - [ ] The School Nurse Files
-        - [ ] Team Kaylie
-        - [ ] A World Without
-        - [ ] Pokemon
-        - [ ] So Not Worth It
-        - [ ] Furie
-        - [ ] The Mitchells vs The Machines
-        - [ ] A Week Away
-        - [ ] Feel the Beat
-        - [ ] Double Dad
-        - [ ] The Smurfs
-        - [ ] Spongebob movie
-        - [ ] My Neighbours the Yamadas
-        - [ ] Move to Heaven
-    - Northern dialect dub
-    - Unconfirmed dialect sub K-drama
-        - [ ] Our Beloved Summer
-        - [ ] Start Up
-        - [ ] Nevertheless
-        - [ ] Desc of the Sun
-        - [ ] A Love So Beautiful
-        - [ ] Hospital Playlist
-        - [ ] Reply 1988
-        - [ ] Meteor Garden
-        - [ ] Itaewon Class
-        - [ ] Boys Over Flowers
-        - [ ] My ID is Gangnam Beauty
-        - [ ] Tale of the Ninetailed
-        - [ ] Legend of the Blue Sea
+  - [ ] Confirmed Southern dialect dub
+    - [ ] Alexa and Katie
+  - Unconfirmed dialect dub
+    - [ ] Julie and the Phantoms
+    - [ ] Waffles + Mochi
+    - [ ] Wish Dragon
+    - [ ] Only Yesterday
+    - [ ] Studio Ghibli
+    - [ ] Rise of the Guardians
+    - [ ] Jurassic World
+    - [ ] The Last Kids on Earth
+    - [ ] Flushed Away
+    - [ ] The School Nurse Files
+    - [ ] Team Kaylie
+    - [ ] A World Without
+    - [ ] Pokemon
+    - [ ] So Not Worth It
+    - [ ] Furie
+    - [ ] The Mitchells vs The Machines
+    - [ ] A Week Away
+    - [ ] Feel the Beat
+    - [ ] Double Dad
+    - [ ] The Smurfs
+    - [ ] Spongebob movie
+    - [ ] My Neighbours the Yamadas
+    - [ ] Move to Heaven
+  - Northern dialect dub
+  - Unconfirmed dialect sub K-drama
+    - [ ] Our Beloved Summer
+    - [ ] Start Up
+    - [ ] Nevertheless
+    - [ ] Desc of the Sun
+    - [ ] A Love So Beautiful
+    - [ ] Hospital Playlist
+    - [ ] Reply 1988
+    - [ ] Meteor Garden
+    - [ ] Itaewon Class
+    - [ ] Boys Over Flowers
+    - [ ] My ID is Gangnam Beauty
+    - [ ] Tale of the Ninetailed
+    - [ ] Legend of the Blue Sea
 
-
-### A2: Passive Listening
+#### A2: Passive Listening
 
 - REDUCE FRICTION
 - [ ] Download audio from Netflix shows weekly? To listen to
 - [ ] Download Spotify podcasts
 - [ ] FSI (see Refold gdoc)
 
-
-### A3: Anki Setup
+#### A3: Anki Setup
 
 I’ve basically done this?
 
-## 1B: Building Blocks
+### 1B: Building Blocks
 
-## 1C: Jumpstart Comprehension
+### 1C: Jumpstart Comprehension
 
-### Anki Decks
+#### Anki Decks
 
 [Xefjord's Complete Vietnamese](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0)
 
