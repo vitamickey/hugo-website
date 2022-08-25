@@ -54,20 +54,20 @@ params:
   fontbody: EB Garamond
   fontcode: Xanh Mono
   assets:
-    favicon: img/meta/favicon.ico
-    favicon16x16: img/meta/favicon-16x16.png
-    favicon32x32: img/meta/favicon-32x32.png
-    apple_touch_icon: img/meta/apple-touch-icon.png
-    safari_pinned_tab: img/meta/apple-touch-icon.png
+    favicon: favicon.ico
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+    safari_pinned_tab: apple-touch-icon.png
   label:
     text: Home
-    icon: img/meta/apple-touch-icon.png
+    icon: apple-touch-icon.png
     iconHeight: 50
   profileMode:
     enabled: true
     title: Michaela's Digital Garden
     subtitle: 'I follow Jesus. Read [Welcome to my digital garden](/welcome/) first.'
-    imageUrl: img/meta/logo-2048-monogram-fancy.png
+    imageUrl: img/meta/lol.jpg
     imageWidth: 120
     imageHeight: 120
     imageTitle: Site monogram
