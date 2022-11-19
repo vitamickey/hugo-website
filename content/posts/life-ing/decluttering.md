@@ -1,42 +1,12 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
-date: 2022-07-07T10:49:13+10:00
+date: 2021-07-02
 title: "Decluttering"
 # description: ""
 tags: ["life", "possessions"]
-lastmod: 2022-07-07T10:49:13+10:00
-# math: true
+lastmod: 2022-10-10
 ---
 
-
-# 6 things you should get rid of by Jenny Mustard
+## 6 things you should get rid of by Jenny Mustard
 
 <https://youtu.be/i0mmVVVpAAg>
 Things you don’t need, don't love.
@@ -48,11 +18,12 @@ Things you don’t need, don't love.
 5. 'I should' (tools for improvement that make you feel bad about yourself)
 6. 'If only' (we quit our jobs, but a nice house,…)
 
-# Process/System
+## Process/System
 
-## Principles
+### Principles
 
 - No need to store up treasures on earth
+- [[Hold all things loosely]]
 - No need to be anxious about clothing
 - Someone may benefit from your possessions more than you would[^1]
 - Do everything for God's glory
@@ -60,7 +31,7 @@ Things you don’t need, don't love.
 - Free up yourself to serve others more?
 - Simplicity
 
-## Declutter
+### Declutter
 
 - Clothing
 - Books
@@ -68,7 +39,7 @@ Things you don’t need, don't love.
 - Komono (Miscellaneous items)
 - Sentimental items
 
-### Clothing
+#### Clothing
 
 1. Gather all items of clothing
 2. Touch each item and consider ~~if they bring you joy~~ whether owning the item glorifies God
@@ -81,7 +52,7 @@ At the end, write down:
 - Which clothes were thrown out and why?
 - Which clothes were kept and why?
 
-#### Other criteria
+##### Other criteria
 
 - Will this item get worn at least 30 times? Has it been worn at least 30 times?
 - Does it fit personal style anymore?
@@ -89,7 +60,7 @@ At the end, write down:
 - Is it broken? Can you be bothered to mend it?
 - Is it comfortable?
 
-#### List
+##### List of clothing categories
 
 - tops (for folding)
 - bottoms (jeans, pants, skirts, etc.)
@@ -119,7 +90,7 @@ At the end, write down:
 - jewellery and accessories
 - shoes
 
-### Books
+#### Books
 
 1. Collect all the books you own and create a pile
 2. Pick up your books, considering ~~if they either spark joy or have a purpose~~ whether owning the book glorifies God
@@ -132,7 +103,7 @@ At the end, write down:
 - Which books were discarded and why?
 - Which books were kept and why?
 
-#### List
+##### List of book categories
 
 - general (books you read for pleasure)
 - practical (reference, cookbooks, textbooks etc.)
@@ -144,7 +115,7 @@ At the end, write down:
 - non-fiction (reference, textbooks, etc.)
 - notebooks
 
-### Papers
+#### Papers
 
 1. Gather the paper and paper documents you own
 2. Sort the paper into categories - e.g., one category for greeting cards, another for thank you notes, another for bills, and so on
@@ -157,13 +128,13 @@ At the end, write down:
 - Which papers were discarded and why?
 - Which papers were kept and why?
 
-#### Categories of papers
+##### Categories of papers
 
 1. Category one: Needs attention. These are documents that need to be looked at in a matter of hours or days - like a rental tenancy agreement form that needs to be signed.
 2. Category two: Are needed for the short-term. These are documents that need to be looked at again, but not immediately. An example would be a birthday card you need to write and send in the next two weeks.
 3. Category three: Are needed indefinitely. These are documents that need to be kept at all times, but not necessarily looked at often. The completed tenancy agreement contract, once you've fully-moved in, would be an example of this.
 
-##### Categorise
+###### Categorise
 
 1. Put remaining papers in categories for "needs attention", "are needed for the short-term", and "are needed indefinitely"
 2. Place the papers in storage e.g. folders
@@ -175,7 +146,7 @@ At the end, write down:
 - Where was the second category of papers put?
 - Where was the third category of papers put?
 
-### Komono (Miscellaneous items)
+#### Komono (Miscellaneous items)
 
 1. Collect your home's miscellaneous items
 2. It might help you to group them into certain piles - a pile for kitchen items, another for tech, another for lighting, and so on
@@ -188,7 +159,7 @@ At the end, write down:
 - Which misc. items were discarded and why?
 - Which misc. items were kept and why?
 
-### Sentimental items
+#### Sentimental items
 
 1. Collect all sentimental items and put them in a pile in front of you
 2. One by one, see if the item in question ~~sparks enough joy to keep, and if it~~ needs to be kept or not
@@ -201,9 +172,9 @@ At the end, write down:
 - Which sentimental items were discarded and why?
 - Which sentimental items were kept and why?
 
-## Maintain
+### Maintain
 
-### Changing Your Habits
+#### Changing Your Habits
 
 - Only buy things you really need. And when you need something new, make sure it’s something you love.[^2]
 - Discard things that have served their purpose but are no longer loved on a regular basis. If you are doing the laundry and realize a piece of clothing is no longer suitable or enjoyable to wear, go ahead and put it into a donation box right away.[^2]
@@ -211,11 +182,11 @@ At the end, write down:
 - When you make a purchase, designate a place for that new item when you get home. Don’t set it down and think about it later. Do it right away.[^2]
 - Put things back as soon as you've used them.
 
-# Actual thoughts
+## Actual thoughts
 
 I REALLY HAVE TOO MUCH STUFF. I know this. There are so many things I think about r.e. my belongings.
 
-How much should I care about the things I have? I wish to [hold all things loosely](/hold-loosely/), but then at a point I feel like I would just store things up without caring whether I am in possession of them or not.
+How much should I care about the things I have? I wish to [[Hold all things loosely]], but then at a point I feel like I would just store things up without caring whether I am in possession of them or not.
 
 Mari Kondo has nice principles specifcally about the order in which you should declutter, i.e. I like her system, but I do not like her criteria for what should be kept vs. removed, nor do I like the Eastern spiritual elements of her practice. "What sparks joy" is a bit of a weird criteria if Christians are supposed to really find ultimate joy in God. I think we can delight in the things we own, but if we derive our joy from them, that's prob bad.
 
@@ -225,7 +196,7 @@ There is this blog post I don't fully agree with for the "items shouldn't spark 
 
 References
 
-Main list from <https://www.process.st/checklist/konmari-checklist/>
+Main list from [https://www.process.st/checklist/konmari-checklist/](https://www.process.st/checklist/konmari-checklist/)
 
 [^1]: https://unconformedkitchen.com/spring-cleaning-5-decluttering-tips-for-the-christian-whos-overwhelmed-with-stuff
 [^2]: https://avirtuouswoman.org/should-christians-use-the-konmari-method/

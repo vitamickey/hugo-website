@@ -223,10 +223,10 @@
 }
 
 body, input, textarea {
-  font-family: 'Gelasio', Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: var(--primary-font-size);
 }
 
 code {
-  font-family: 'Recursive', 'Xanh Mono', 'Courier New', Courier, monospace;
+  font-family: 'Xanh Mono', 'Courier New', Courier, monospace;
 }

@@ -13,4 +13,10 @@ OKAY look I've sort of used Obisidian on and off for the last ehhhh two years I 
 
 ---
 
-2022-08-03
+2022-08-07
+
+DEEP DIVE HAS OCCURED. Most of my stuff is in Obsidian. Excited to use it for Bible study combined with general learning. 
+
+---
+
+[https://publish.obsidian.md/hub/00+-+Start+here](https://publish.obsidian.md/hub/00+-+Start+here)

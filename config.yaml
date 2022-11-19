@@ -1,5 +1,5 @@
 baseURL: 'http://michaelacheong.com/'
-title: Michaela
+title: Museum of Michaela
 languageCode: en-au
 paginate: 10
 theme: PaperMod
@@ -22,8 +22,8 @@ permalinks:
 
 params:
   env: production
-  title: Michaela's Digital Garden
-  description: A lil' digital garden.
+  title: Momentos from Michaela
+  description: A digital garden.
   keywords:
     - Digital Garden
     - Blog
@@ -53,19 +53,13 @@ params:
   fontheader: Avara_Bold
   fontbody: EB Garamond
   fontcode: Xanh Mono
-  assets:
-    favicon: favicon.ico
-    favicon16x16: favicon-16x16.png
-    favicon32x32: favicon-32x32.png
-    apple_touch_icon: apple-touch-icon.png
-    safari_pinned_tab: apple-touch-icon.png
   label:
     text: Home
     icon: apple-touch-icon.png
     iconHeight: 50
   profileMode:
     enabled: true
-    title: Michaela's Digital Garden
+    title: Momentos from Michaela
     subtitle: 'I follow Jesus. Read [Welcome to my digital garden](/welcome/) first.'
     imageUrl: img/meta/lol.jpg
     imageWidth: 120
@@ -112,6 +106,13 @@ params:
       - permalink
       - summary
       - content
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16:  "/favicon-16x16.png"
+    favicon32x32:  "/favicon-32x32.png"
+    apple_touch_icon:  "/apple-touch-icon.png"
+    safari_pinned_tab:  "/safari-pinned-tab.svg"
+
 
 taxonomies:
   category: categories

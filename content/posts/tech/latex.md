@@ -1,32 +1,4 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 date: 2022-07-16T21:28:46+10:00
 title: "LaTeX"
 description: "Nerd mode: engaged"
@@ -42,11 +14,11 @@ Ah, \\(\LaTeX\\). I pronounce it as "lay-tech" or "lah-tech", never "lay-tex". E
 ## Setup
 
 - MiKTeX for building TeX
-- [VSCode](/vscode/) as text editor
+- [[VSCode]] as text editor
 - I have Strawberry Perl and I think it's related to LaTeX but I honestly Don't Remember why
   - ah ok I think based on this article, [Using Latexmk](https://mg.readthedocs.io/latexmk.html), you need Perl to run `latexmk`, a Perl script, "If you use cross-references, you often have to run LaTeX more than once, if you use BibTeX for your bibliography or if you want to have a glossary you even need to run external programs in-between."
     - I have used bibtex so this makes sense
-- [GitHub](/github/) for any big boy projects or things I want to share
+- [[GitHub]] for any big boy projects or things I want to share
 
 ## Quick links
 
@@ -66,3 +38,8 @@ Ah, \\(\LaTeX\\). I pronounce it as "lay-tech" or "lah-tech", never "lay-tex". E
 - BiBTeX
 - include and large projects
 - math typesetting
+
+## learned
+
+[[2022-09-11]] Detailed text placement over images in tex  
+[https://tex.stackexchange.com/questions/263143/absolute-positions-of-text-over-a-tikz-image](https://tex.stackexchange.com/questions/263143/absolute-positions-of-text-over-a-tikz-image)

@@ -1,0 +1,96 @@
+---
+date: 2022-08-09
+title: "Bipolar disorder"
+# description: ""
+tags: ["mental-health"]
+lastmod: 2022-08-09
+# math: true
+---
+
+- What is it
+  - Mood disorder
+  - Chronic condition causing intense mood changes
+- Who does it affect?
+  - 1 in 50 Aussies
+  - Onset: teens/young adults
+  - Women > men
+- Characterised by
+  - Periods of extreme moods
+    - **Manic (hypomanic) episodes**
+      - Extreme euphoria, high
+      - Can be high-functioning
+      - Hypomania is 'less than mania'
+    - **Depressive episodes**
+      - Hopelessness, low energy
+    - Can last weeks or months
+- Symptoms (direct quote[^healthdirect])
+  - During a *manic phase*, symptoms may include:
+    - feeling high, extremely happy or irritable
+    - inflated self-esteem or grandiose ideas
+    - increased energy, activity and creativity, along with a reduced need to sleep
+    - an increase in task-focused behaviours (such as staying up all night to get things done)
+    - racing thoughts and speech (may be expressed as frequently talking over people) jumping from topic to topic
+    - being very easily distracted by any stimuli (such as noises or other people)
+    - impulsive or risky behaviours with spending, business or sexual activity
+    - unrealistic plans, delusions or hallucinations
+  - During a *depressive phase*, symptoms may include:
+    - low mood
+    - lack of motivation
+    - a loss of interest in usual leisure activities or hobbies
+    - changes in sleep patterns
+    - difficulty concentrating
+    - withdrawing from social contact and activities
+    - feelings of worthlessness or guilt, which may include [suicidal thoughts](https://www.healthdirect.gov.au/warning-signs-of-suicide)
+- Types
+  - **Bipolar I**
+    - long-lasting periods of extreme mood (either mania or depression)
+    - can include psychosis
+  - **Bipolar II**
+    - less-extreme highs (hypomania)
+    - episodes last for a few hours/days
+  - Cyclothymic disorder
+    - less severe, still impacts daily function
+  - Substance-induced bipolar disorder
+- Causes
+  - Here it will be made clear why I have an irrational fear about developing bipolar disorder.
+  - Genetics
+    - 1 parent with bipolar -> 1 in 10 chance of child
+      - [someone I know] has bipolar disorder (I., I think)
+      - [someone else I know] had bipolar disorder (definitely I., it was quite severe)
+    - 2 parents -> 4 in 10
+  - Chemical imbalances
+  - Triggers
+    - HEEHHEHEE yeah this is another place that worries me
+      - I have a pretty bad combo of risk factors
+        - [someone I know] is prob clinically depressed
+        - my ACE score is pretty high/I had a traumatic childhood
+        - family conflict is high
+        - constant resurfacing of trauma and hardship in my life, it seems
+        - general anxiety can be quite high
+          - anxiety attacks do occur but they're not too common and they're not really panic attacks
+    - 'Women who are predisposed to bipolar disorder may experience their first episode while they are pregnant or after they have their baby.'
+      - my JAW DROPPED when I read this
+- Treatment
+  - Initial
+    - medications, individualised
+  - Ongoing
+    - with the aim of preventing relapse and improving quality of life
+    - medications
+      - antidepressants (short period, only should be combined with bipolar-specific mood stablisers)
+      - lithium, [someone] takes this and so did [someone else]
+      - anticonvulsants
+      - antipsychotics, in particular Risperidone sticks out bc [someone I know] has taken it...
+  - Therapy
+- Prevention
+  - no guarantee (yay)
+  - be aware of early warning signs
+    - inform friends and family
+  - avoid substances
+    - incl caffeine (luckily I don't drink coffee, take that [my coffee addicted friends] and other coffee enthusiasts in my life)
+  - stress management
+  - sleep
+- Complications
+  - can become more severe without treatment
+  - high risk of other health issues
+
+[^healthdirect]: https://www.healthdirect.gov.au/bipolar-disorder
