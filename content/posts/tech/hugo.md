@@ -1,38 +1,9 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: false
-# ShowReadingTime: true
-ShowBreadCrumbs: false
-ShowPostNavLinks: true
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 date: 2022-05-23T15:04:53+10:00
 title: "Hugo"
 description: "What I use to make my site."
 tags: ["website", "technology", "coding"]
-lastmod: 2022-07-28T16:18:53+10:00
+lastmod: 2022-08-25
 ---
 
 ## Workflow
@@ -93,6 +64,7 @@ I need to
   - I have moved the site web manifest into the folder with the favicons, it wasn't there before
     - if this fixes it, I will revert changes I made in my `head.html` file as specified further below
   - next attempt at quick fix: move it back to where it was when it worked lol
+- nested tags?? <https://dpb587.me/post/2020/03/09/nested-taxonomies-with-hugo/>
 - css for code blocks (see end of page)
   - for different languages
     - text
@@ -177,3 +149,84 @@ Added URLS to the books of Bible overview pages so that instead of `/46-1-corint
 Actually, now I've changed it so that `/1-corinthians/` links to a page that displays every page that hasthe `1-corinthians` term in the `booksofbible` key, and I've added a custom `_index.md` to each directory `\content\booksofbible\BOOKNAME\` so that I can put my overview of each book of the bible there. I think chapters of the bible would make it too messy, but I think I could try and implement that in future. Unfortunately, I don't think Hugo has sub-taxonomies. Also, each `booksofbible` term now is a weighted page.
 
 [^1]: Example (fixed)
+
+Light to dark mode logo swap from <https://push.blue/posts/20220718-add-lightdarklogoswap/>
+
+```text
+themes\PaperMod\layouts\partials\footer.html
+themes\PaperMod\layouts\partials\header.html
+```
+
+to
+
+```text
+layouts\partials\footer.html
+layouts\partials\header.html
+```
+
+and then
+
+```html
+--- themes\PaperMod\layouts\partials\footer.html        2022-07-18 09:47:47.635823100 -0700
++++ layouts\partials\footer.html                        2022-07-15 13:59:02.482056200 -0700
+@@ -75,9 +75,11 @@
+         if (document.body.className.includes("dark")) {
+             document.body.classList.remove('dark');
+             localStorage.setItem("pref-theme", 'light');
++            document.getElementById("siteLogo").src = "/images/pushblue-dark.png";
+         } else {
+             document.body.classList.add('dark');
+             localStorage.setItem("pref-theme", 'dark');
++            document.getElementById("siteLogo").src = "/images/pushblue-light.png";
+         }
+     })
+```
+
+and
+
+```html
+--- themes\PaperMod\layouts\partials\header.html        2022-07-18 09:47:47.635823100 -0700
++++ layouts\partials\header.html                        2022-07-15 13:59:02.482056200 -0700
+@@ -63,13 +63,35 @@
+                     <img src="{{ $img.Permalink }}" alt="logo" aria-label="logo"
+                         height="{{- site.Params.label.iconHeight | default "30" -}}">
+                 {{- else }}
+-                <img src="{{- site.Params.label.icon | absURL -}}" alt="logo" aria-label="logo"
++                <img id="siteLogo" src="{{- site.Params.label.icon | absURL -}}" alt="logo" aria-label="logo"
+                     height="{{- site.Params.label.iconHeight | default "30" -}}">
++                    <script>
++                        if (document.body.className.includes("dark")) {
++                            document.getElementById("siteLogo").src = "/images/pushblue-light.png";
++                        }
++                    </script>
+                 {{- end -}}
+                 {{- end -}}
+```
+
+does the trick
+
+And while we're at it, push blue brings up a good point in that the nav seems backwards. this[^reverse] makes it so that the right arrow goes to the future and the left arrow goes to the past.
+
+```html
+--- themes\PaperMod\layouts\partials\post_nav_links.html        2022-07-18 09:47:47.635823100 -0700
++++ layouts\partials\post_nav_links.html                        2022-07-18 09:56:20.596032400 -0700
+@@ -1,14 +1,14 @@
+ {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+ {{- if and (gt (len $pages) 1) (in $pages . ) }}
+ <nav class="paginav">
+-  {{- with $pages.Next . }}
++  {{- with $pages.Prev . }}
+   <a class="prev" href="{{ .Permalink }}">
+     <span class="title">A« {{ i18n "prev_page" }}</span>
+     <br>
+     <span>{{- .Name -}}</span>
+   </a>
+   {{- end }}
+-  {{- with $pages.Prev . }}
++  {{- with $pages.Next . }}
+   <a class="next" href="{{ .Permalink }}">
+     <span class="title">{{ i18n "next_page" }} A»</span>
+     <br>
+```
+
+[^reverse]: https://push.blue/posts/20220718-reverse-papermodnavlinks/

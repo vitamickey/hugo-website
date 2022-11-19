@@ -33,7 +33,7 @@ description: "Australian Sign Language"
 tags: ["untagged"]
 # series: [""]
 # bookofbible: [""]
-lastmod: 2022-07-30
+lastmod: 2022-08-22
 # math: true
 ---
 
@@ -43,3 +43,5 @@ lastmod: 2022-07-30
 - Lisa Mills courses <https://courses.lisamillsonline.com/>
   - Online, at your own pace
   - Good reviews??
+
+PURCHASED lisa mills on Aug 22, 2022.

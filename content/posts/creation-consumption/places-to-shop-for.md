@@ -1,37 +1,9 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 date: 2022-07-13T18:26:24+10:00
 title: "Places to shop for..."
 description: "Where to buy different things"
 tags: ["consumerism"]
-lastmod: 2022-07-15T15:54:24+10:00
+lastmod: 2022-09-21
 # math: true
 ---
 
@@ -107,12 +79,14 @@ lastmod: 2022-07-15T15:54:24+10:00
 Mostly credits to [Love Alinta's post](https://lovealinta.com/2019/09/guide-to-australian-indie-nail-polish/) which lists most of these brands but unfortunately hasn't been updated since the start of 2021.
 
 - [Hit The Bottle Polishes](https://hitthebottlepolishes.com.au/) stamping polish and accessories
+  - I want the top coat from here plus 20 other polishes
 - [Emily de Molly](https://www.emilydemolly.com.au/) stamping polish
 - [Bella Bella Nail Couture](https://bellabellenailcouture.bigcartel.com/)
 - [Femme Fatale Cosmetics](https://femmefatalecosmetics.com.au/)
 - [Galivanting Nails](https://gallivantingnails.com.au/)
 - [Glam Polish](https://www.glampolish.com.au/)
 - [Grace-Full Nail Polish](https://grace-full-nail-polish-australia.myshopify.com/)
+  - Top coat is highly recommended from here too
 - [Miss Priss Polish](https://www.missprisspolish.com/)
 - ~~[Pretty Serious](https://www.facebook.com/prettyserious/) rebranding??/hiatus~~
 - ~~Slay Me Beauty ambiguously closed down??~~
@@ -162,3 +136,42 @@ There is also:
 ## Art
 
 - Forge forward - Brisbane art <https://www.instagram.com/forge.forward/>
+- INPRNT
+- Redbubble lol
+- Etsy
+
+## Home stuff
+
+- [HOMMEY](https://gethommey.com) pillows and stuff
+- [BAINA](https://shopbaina.com/) towels
+
+### Ceramics
+
+(drafting in Keep)
+
+### Household products
+
+- [Dirt.](https://thedirtcompany.com.au/)
+- [Tirtyl](https://tirtyl.com.au/)
+- [Zero Co](https://www.zeroco.com.au/)
+- [Koh](https://koh.com/)
+- [Pleasant State](https://www.pleasantstate.com/)
+- [evercleaner](https://evercleaner.com.au/)
+
+## Health
+
+### Periods
+
+- [Juuni](https://juuni.co/)
+- [ModiBodi](https://www.modibodi.com/)
+- [Myoni](https://myoni.love/)
+- [Bamboo Babe](https://bamboobabe.com.au/)
+- [TOM Organic](https://thetomco.com/au/)
+- [JuJu](https://www.juju.com.au/)
+- [The Brand hannah](https://www.thebrandhannah.com/)
+- [Hello Period](https://helloperiod.com/)
+- [Rudie](https://www.rudie.com.au/)
+
+### Vitamins
+
+- [Vitable](https://www.vitable.com.au/)

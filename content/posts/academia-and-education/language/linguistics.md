@@ -13,7 +13,7 @@ I think linguistics is really cool. There is an entire story behind how I got in
 - Naomi's parents
 - Graeme's wife's parents
 
-For now, this is going to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.
+For now, this is ʕgoing to be a sort of quick guide based on my linguistics intro subject at uni, but I will only be trying to revise the topics below so these may not be super comprehensive.
 
 ## Related
 

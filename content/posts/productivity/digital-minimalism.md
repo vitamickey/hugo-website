@@ -28,11 +28,13 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 date: 2022-07-21T19:11:36+10:00
-title: "Untitled"
+title: "Digital Minimalism"
 # description: ""
-tags: ["untagged"]
+tags: ["consumption"]
 # series: [""]
 # bookofbible: [""]
 lastmod: 2022-07-21T19:11:36+10:00
 # math: true
 ---
+
+I should do it again.

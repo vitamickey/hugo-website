@@ -1,33 +1,5 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
-date: 2022-06-17T16:13:49+10:00
+date: 2022-01-09
 title: "Refold"
 description: "A language-learning roadmap."
 tags: ["language"]
@@ -35,21 +7,7 @@ lastmod: 2022-07-11T23:54:49+10:00
 # math: true
 ---
 
-# To-do
-
-- Create TL language YouTube account.
-- Change SE language to French (and to Vietnamese later)
-- Create list of active immersion content and passive listening content
-- French
-        - Anything on Disney+
-            - GMW
-            - Every Disney Channel show?
-            - Every DCOM ever?
-        - YouTube
-            - Miraculous Ladybug
-        - Netflix
-            - LOTs of stuff has both French dub and sub
-        - Habitually update this every week (downloading audios and such)
+[[Refold Vietnamese]]
 
 # Stage 0: Refold Philosophy
 
