@@ -228,5 +228,19 @@ And while we're at it, push blue brings up a good point in that the nav seems ba
      <span class="title">{{ i18n "next_page" }} A»</span>
      <br>
 ```
+### 2023.10.03
+
+Trying to get the site back up and I seem to have hit a road block where the page just doesn't have any sort of styling occuring. Above, I discussed that when this happened last (I assume this is for the same issue), I...
+
+> Had to do this too
+> <https://stackoverflow.com/questions/65040931/hugo-failed-to-find-a-valid-digest-in-the-integrity-attribute-for-resource>
+
+Now, I think I will use the `head.html` file from the newest version of Papermod with the following code in my `config.yaml` file:
+
+```xml
+params:
+    assets:
+        disableFingerprinting: true
+```
 
 [^reverse]: https://push.blue/posts/20220718-reverse-papermodnavlinks/

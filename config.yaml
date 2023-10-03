@@ -112,6 +112,7 @@ params:
     favicon32x32:  "/favicon-32x32.png"
     apple_touch_icon:  "/apple-touch-icon.png"
     safari_pinned_tab:  "/safari-pinned-tab.svg"
+    disableFingerprinting: true
 
 
 taxonomies:
