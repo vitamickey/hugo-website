@@ -1,5 +1,5 @@
 baseURL: 'http://michaelacheong.com/'
-title: Museum of Michaela
+title: Michaela Cheong
 languageCode: en-au
 paginate: 10
 theme: hugo-PaperMod
@@ -22,8 +22,8 @@ permalinks:
 
 params:
   env: production
-  title: Momentos from Michaela
-  description: A digital garden.
+  title: Michaela's Bay Window
+  description: A digital garden that is morphing into a personal landing page.
   keywords:
     - Digital Garden
     - Blog
@@ -59,8 +59,8 @@ params:
     iconHeight: 50
   profileMode:
     enabled: true
-    title: Momentos from Michaela
-    subtitle: 'I follow Jesus. Read [Welcome to my digital garden](/welcome/) first.'
+    title: Michaela's Bay Window
+    subtitle: 'I follow Jesus. This is my digital garden that is morphing into a personal landing page. Read [Welcome to my digital garden](/welcome/) first.'
     imageUrl: img/meta/lol.jpg
     imageWidth: 120
     imageHeight: 120

@@ -1,4 +1,3 @@
-# welcome to my digital-garden uwu
-A place to grow (in Christ)
+# welcome to my personal website!
 
-If you don't know what a digital garden is, theres a file about it floating around in this repo. This is my public learning space. Stop and smell the roses :)
+This is my website that is morphing from a digital garden into a personal landing page situation. I am finding another way to create a digital garden that requires a lot less upkeep and leaves more space for actually learning.

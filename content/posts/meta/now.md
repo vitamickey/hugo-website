@@ -1,43 +1,16 @@
 ---
-# weight: 1
-# aliases: ["/first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: true
-# draft: true
-comments: true
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-# searchHidden: true
-# ShowReadingTime: false
-# ShowBreadCrumbs: true
-# ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/vitamickey/digital-garden/tree/main/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 date: 2022-05-23T18:28:20+10:00
 title: "Now"
 description: "All of the things currently simmering away in my brain. "
 tags: ["about","meta"]
-lastmod: 2022-07-28T20:59:20+10:00
+lastmod: 2024-02-14
 # math: true
 ---
 
-- Moving out in the near future
-  - Need to [declutter](/decluttering/)
-- Working on this website
-- Started uni semester recently
-- Working as a tutor
-- A new pastor is coming in at church! Which is incredibly exciting
+- Doing my year of make do with Leena Norms
+- Busy busy busy
+- Zines??
+- Easy wins in ministry
+- How to be more active
+- Al-anon exists
+- What do you do when your time is up with your current counsellor?
