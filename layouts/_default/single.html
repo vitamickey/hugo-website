@@ -57,17 +57,17 @@
     <ul class="post-tags">
         {{- if .Params.booksofbible }}
             {{- range ($.GetTerms "booksofbible") }}
-            <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ .Data.Term }}</a></li>
             {{- end }}
         {{- end }}
         {{- if .Params.series }}
             {{- range ($.GetTerms "series") }}
-            <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ .Data.Term }}</a></li>
             {{- end }}
         {{- end }}
         {{- if .Params.tags }}
             {{- range ($.GetTerms "tags") }}
-            <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ .Data.Term }}</a></li>
             {{- end }}
         {{- end }}
     </ul>
@@ -80,9 +80,6 @@
     {{- end }}
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
 </article>
 
 {{- end }}{{/* end main */}}

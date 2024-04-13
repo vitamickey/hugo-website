@@ -1,8 +1,8 @@
-baseURL: 'http://michaelacheong.com/'
+baseURL: 'https://michaelacheong.com/'
 title: Michaela Cheong
 languageCode: en-au
 paginate: 10
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -22,7 +22,7 @@ permalinks:
 
 params:
   env: production
-  title: Michaela's Bay Window
+  title: Michaela Cheong
   description: A digital garden that is morphing into a personal landing page.
   keywords:
     - Digital Garden
@@ -50,8 +50,9 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  CapitalizeListTitles: false
   fontheader: Avara_Bold
-  fontbody: EB Garamond
+  fontbody: Times New Roman
   fontcode: Xanh Mono
   label:
     text: Home
@@ -59,16 +60,16 @@ params:
     iconHeight: 50
   profileMode:
     enabled: true
-    title: Michaela's Bay Window
+    title: Michaela's internet bay window
     subtitle: 'I follow Jesus. This is my digital garden that is morphing into a personal landing page. Read [Welcome to my digital garden](/welcome/) first.'
     imageUrl: img/meta/lol.jpg
     imageWidth: 120
     imageHeight: 120
     imageTitle: Site monogram
     buttons:
-      - name: Posts
+      - name: posts
         url: posts/
-      - name: Tags
+      - name: tags
         url: tags/
   socialIcons:
     - name: github
@@ -91,7 +92,7 @@ params:
     hiddenInList: true
     hiddenInSingle: true
   editPost:
-    URL: 'https://github.com/vitamickey/digital-garden/tree/main/content'
+    URL: 'https://github.com/vitamickey/hugo-website/tree/main/content'
     Text: suggest edits on GitHub
     appendFilePath: true
   fuseOpts:
