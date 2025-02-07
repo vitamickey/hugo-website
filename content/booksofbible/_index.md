@@ -39,4 +39,4 @@ lastmod: 2022-07-30T11:25:09+10:00
 # math: true
 ---
 
-Currently reading: Micah
+Currently reading: Ruth in Connect Group.
